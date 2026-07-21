@@ -1,0 +1,62 @@
+---
+title: "Planktivore Annotation — Training"
+subtitle: "Diatom quick-start"
+author: "Planktivore team"
+format:
+  pptx:
+    reference-doc: ""       # optional: point to a branded .pptx template
+  revealjs:                  # also renders as an interactive HTML slideshow
+    theme: simple
+    slide-number: true
+---
+
+## Why annotation quality matters
+
+- Planktivore images are classified by a model trained on **human labels**.
+- Inconsistent labels → a confused classifier.
+- This deck is the fast on-ramp; the full [guide](../_site/index.html) has every class.
+
+## The three diatoms you'll see most
+
+::: {.incremental}
+- **Eucampia** — blunt horns, curved chains, big lens-shaped gaps.
+- **Pseudo-nitzschia** — needle-like cells in straight *stepped* ribbons.
+- **Chaetoceros** — fine setae (bristles) that cross between cells.
+:::
+
+## Eucampia
+
+- Two **blunt polar horns** — not thin bristles.
+- Chains **curve, twist, or coil**.
+- Large lens-shaped apertures between cells.
+
+![](../classes/eucampia/ideal/01.png)
+
+## Pseudo-nitzschia
+
+- Long, narrow, **needle-like** cells.
+- Straight colonies with cells **overlapping end-to-end** (stepped).
+- Label to **genus** — species needs EM.
+
+![](../classes/pseudo-nitzschia/ideal/01.png)
+
+## Chaetoceros
+
+- Centric cells in a chain, each with paired **setae**.
+- Setae are long and thin and often **cross** between neighbours.
+
+![](../classes/chaetoceros/ideal/01.png)
+
+## Telling them apart
+
+| If you see... | It's probably... |
+|---|---|
+| Blunt horns + curved chain | Eucampia |
+| Needle cells overlapping end-to-end | Pseudo-nitzschia |
+| Fine bristles crossing between cells | Chaetoceros |
+
+## When in doubt
+
+- Compare against the **ideal** images first, then the **challenging** ones.
+- Too degraded to be sure? Use the project's low-quality/unknown label.
+- The look-alike table on each class page is your friend.

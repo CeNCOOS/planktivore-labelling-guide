@@ -1,0 +1,23 @@
+# Quarto build output
+/_site/
+/.quarto/
+*_files/
+
+# Generated documents (produced by CI / local render, not source)
+/guide.pdf
+/slides/*.pptx
+/slides/*.html
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# OS cruft
+.DS_Store
+Thumbs.db
+
+# NOTE: the generated *.qmd pages (classes/*/index.qmd, guide.qmd) ARE committed
+# so the repo previews without running the generator first. They are overwritten
+# by scripts/build_pages.py — edit meta.yml, not the generated qmd.

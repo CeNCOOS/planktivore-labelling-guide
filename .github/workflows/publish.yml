@@ -1,0 +1,80 @@
+name: Build & publish guide
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+# Allow one concurrent deployment.
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install Python deps
+        run: pip install -r requirements.txt
+
+      - name: Set up Quarto
+        uses: quarto-dev/quarto-actions/setup@v2
+        with:
+          tinytex: true          # LaTeX, needed for the PDF build
+
+      - name: Validate class metadata
+        run: python scripts/check_meta.py
+
+      - name: Generate pages from metadata
+        run: python scripts/build_pages.py
+
+      - name: Render website (HTML)
+        run: quarto render
+
+      - name: Render PDF
+        run: quarto render guide.qmd --to pdf
+
+      - name: Render training deck (PPTX)
+        run: quarto render slides/training.qmd --to pptx
+
+      - name: Collect downloadable artifacts into the site
+        run: |
+          mkdir -p _site/downloads
+          cp guide.pdf _site/downloads/planktivore-guide.pdf
+          cp slides/training.pptx _site/downloads/planktivore-training.pptx
+
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site
+
+      - name: Upload PDF + PPTX as run artifacts
+        uses: actions/upload-artifact@v4
+        with:
+          name: guide-documents
+          path: |
+            guide.pdf
+            slides/training.pptx
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

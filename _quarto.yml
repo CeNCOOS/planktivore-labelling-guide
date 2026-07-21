@@ -1,0 +1,40 @@
+project:
+  type: website
+  output-dir: _site
+  # Generated class pages (classes/*/index.qmd) and guide.qmd are produced by
+  # scripts/build_pages.py. guide.qmd is the PDF target and is rendered
+  # separately (see the workflow / Makefile), so it is excluded from the site.
+  render:
+    - "*.qmd"
+    - "classes/*/index.qmd"
+    - "!guide.qmd"
+    - "!slides/**"
+
+website:
+  title: "Planktivore Labelling Guide"
+  description: "Reference guide for annotating Planktivore plankton images."
+  site-url: "https://YOUR-GH-USERNAME.github.io/planktivore-guide/"
+  repo-url: "https://github.com/YOUR-GH-USERNAME/planktivore-guide"
+  page-navigation: true
+  navbar:
+    left:
+      - href: index.qmd
+        text: Classes
+      - href: about.qmd
+        text: About
+    right:
+      - icon: github
+        href: "https://github.com/YOUR-GH-USERNAME/planktivore-guide"
+        aria-label: GitHub
+  page-footer:
+    center: "Planktivore Labelling Guide · built with Quarto"
+
+format:
+  html:
+    theme:
+      - cosmo
+      - assets/theme.scss
+    toc: true
+    lightbox: auto        # click any figure to open a zoomable lightbox
+    grid:
+      content-mode: standard

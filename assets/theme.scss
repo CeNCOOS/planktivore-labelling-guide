@@ -1,0 +1,22 @@
+/*-- scss:defaults --*/
+// Light customization on top of the `cosmo` bootswatch theme.
+// Swap these for MBARI / project colours as desired.
+
+$primary:   #1a6f8b;   // headings, links, navbar accents
+$body-color: #222;
+$font-family-sans-serif: "Source Sans Pro", "Helvetica Neue", Arial, sans-serif;
+
+/*-- scss:rules --*/
+
+// Tighten the class grid cards a little and give images a soft frame.
+.quarto-grid-item .card-img-top {
+  object-fit: cover;
+  background: #f2f4f5;
+}
+
+// Give figures in the image galleries a subtle border so pale specimens
+// stand out against the white page.
+.quarto-layout-panel img {
+  border: 1px solid #e2e6e8;
+  border-radius: 4px;
+}

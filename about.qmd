@@ -1,0 +1,49 @@
+---
+title: "About this guide"
+toc: true
+---
+
+## Purpose
+
+This guide supports annotation of images from **Planktivore**, an experimental
+passive plankton imager developed at MBARI and deployed on fixed platforms and on
+Long-Range AUVs. The instrument carries two optical sets — a **high-magnification**
+and a **low-magnification** system. Images are classified by an image classifier
+trained on a human-annotated set, so the quality and consistency of human labels
+directly determines classifier performance.
+
+The guide has three jobs:
+
+1. **Consistency** — give every annotator the same reference so the same organism
+   gets the same label.
+2. **Validation** — provide a standard to check existing labels against.
+3. **Training** — bring new annotators up to speed quickly.
+
+## How to read a class page
+
+Each class page has the same structure:
+
+- **Defining characteristics** — the features that place an image in this class.
+- **Distinguishing from similar classes** — the look-alikes and how to separate them.
+  This is the single most important section for consistency.
+- **Ideal images** — clean, textbook examples of what the class *should* look like.
+- **Challenging images** — messy, partial, or low-contrast frames like those you will
+  actually encounter, shown so you can recognise the class in realistic conditions.
+- **References** — external keys and resources.
+
+Click any image to open a zoomable view.
+
+## Labelling conventions
+
+- Label to the level the guide defines (usually **genus** for these diatoms); do not
+  guess species unless a project-specific key is provided.
+- When an image is too degraded to assign confidently, follow the project's
+  unknown/low-quality labelling convention rather than forcing a class.
+- The **high-mag** and **low-mag** optics can show the same organism very differently;
+  each class page notes which optics it applies to.
+
+## Contributing / updating
+
+Content lives in `classes/<class>/meta.yml` plus `ideal/` and `challenging/` image
+folders. Edit the metadata or drop in images, run the build, and the HTML site, PDF,
+and slide deck all regenerate. See the repository `README.md` for the workflow.
