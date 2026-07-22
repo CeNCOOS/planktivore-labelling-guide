@@ -1,0 +1,52 @@
+name: Label problem
+description: Report a specimen that looks mislabeled, or a class page that needs correcting.
+title: "Label problem: "
+labels: ["label-problem"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for helping keep the guide accurate. Please fill in what you can —
+        the class and a short description of what looks wrong are the most useful.
+  - type: input
+    id: class
+    attributes:
+      label: Which class or page
+      description: The class this concerns, or paste the page URL.
+      placeholder: e.g. Pseudo-nitzschia
+    validations:
+      required: true
+  - type: input
+    id: image
+    attributes:
+      label: Which image (filename)
+      description: Click a thumbnail to zoom and note its filename, if the problem is about a specific image.
+      placeholder: e.g. high_mag_cam-1744681982168009-..._rawcolor.png
+    validations:
+      required: false
+  - type: dropdown
+    id: kind
+    attributes:
+      label: What kind of problem is it?
+      options:
+        - Specimen looks misidentified / wrong class
+        - Image does not belong in this class
+        - Description is inaccurate or unclear
+        - Distinguishing / look-alike note needs work
+        - Other
+    validations:
+      required: true
+  - type: textarea
+    id: details
+    attributes:
+      label: What looks wrong
+      description: Describe the problem, and what it should be if you know.
+    validations:
+      required: true
+  - type: input
+    id: reference
+    attributes:
+      label: Reference (optional)
+      description: A key, paper, or link that supports the correction.
+    validations:
+      required: false

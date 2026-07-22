@@ -32,6 +32,23 @@ Click any image to open a zoomable view.
 - When an image is too degraded to assign confidently, follow the project' unknown/low-quality labelling convention rather than forcing a class.
 - The **high-mag** and **low-mag** optics can show the same organism very differently; each class page notes which optics it applies to.
 
+## Reporting a problem with a label
+
+Spotted something wrong — a specimen that looks misidentified, an image that doesn't belong in a class, an inaccurate or unclear description, or a look-alike distinction that needs sharpening? Please report it so it can be tracked and fixed.
+
+The guide is version-controlled on GitHub, and the best way to flag a problem is to open an **issue** on the repository:
+
+[**→ Open a new issue**](https://github.com/CeNCOOS/planktivore-labelling-guide/issues/new?template=label-problem.yml)
+
+To help resolve it quickly, include:
+
+- **Which class** it concerns (e.g. *Pseudo-nitzschia*), or paste the page URL.
+- **Which image**, if relevant — click a thumbnail to zoom and note its filename.
+- **What looks wrong**, and what it should be if you know.
+- **A reference** (key, paper, or link) supporting the correction, if you have one.
+
+Opening an issue needs a free GitHub account. If you can't create one, pass the same details to the guide maintainers and they'll file it for you.
+
 ## Contributing / updating
 
 Content lives in `classes/<class>/meta.yml` plus `ideal/` and `challenging/` image folders. Edit the metadata or drop in images, run the build, and the HTML site, PDF, and slide deck all regenerate. See the repository `README.md` for the workflow.
