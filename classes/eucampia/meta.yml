@@ -3,32 +3,16 @@ display_name: Eucampia
 group: Diatoms
 optics: [high-mag, low-mag]
 one_liner: >
-  Chain-forming centric diatom with two blunt polar elevations (horns);
-  chains are curved, twisted, or coiled with large lens-shaped gaps between cells.
+  Chain-forming centric diatom with two blunt polar elevations (horns); chains are coiled with large lens-shaped gaps (aperature) between cells.
 
 defining_characteristics: >
-  Cells are elliptical in girdle view and bear two blunt, broad polar
-  elevations ("horns") at each end of the valve. Adjacent cells are joined
-  horn-to-horn, leaving a conspicuous large, lens-shaped (biconvex) aperture
-  between successive cells. Because the horns are often unequal, the whole
-  chain curves, twists, or coils rather than running straight. Key features to
-  key on: (1) blunt, tapering horns — not thin bristles; (2) the large
-  window-like apertures between cells; (3) the characteristic curved or
-  spiral chain shape. Eucampia zodiacus is the common large curved-chain form.
+  Cells are elliptical in girdle view and bear two blunt, broad polar elevations ("horns") at each end of the valve. Adjacent cells are joined horn-to-horn, leaving a conspicuous large, lens-shaped (biconvex) aperture between successive cells. Chains can be long or short. Because the horns are often unequal, the whole chain curves, twists, or coils rather than running straight. Key features to key on: (1) blunt, tapering horns (batman); (2) the large apertures between cells; (3) the characteristic curved or spiral chain shape. Eucampia zodiacus is the common large curved-chain form.
 
 distinguishing_from:
   - class: chaetoceros
     note: >
-      Chaetoceros bears thin, hair-like setae (bristles) that often project
-      well beyond the cell outline and cross between neighbours. Eucampia's
-      projections are short, blunt horns, not fine setae, and its inter-cell
-      apertures are large and lens-shaped.
-  - class: pseudo-nitzschia
-    note: >
-      Pseudo-nitzschia is a pennate diatom forming straight stepped ribbons of
-      narrow, needle-like cells that overlap end-to-end. Eucampia is centric,
-      with blunt horns and curved chains — no end-overlap stepping.
-
+      Chaetoceros bears thin, hair-like setae (bristles) that often project well beyond the cell outline and cross between neighbours. Eucampia's projections are short, blunt horns, not fine setae, and its inter-cell apertures are large and lens-shaped. The aperature shape and size is something to key on. Chaetoceros will be much smaller.
+  
 references:
   - title: "Eucampia — Diatoms of North America"
     url: https://diatoms.org/genera/eucampia
@@ -36,7 +20,6 @@ references:
     url: https://whoigit.github.io/whoi-plankton/
 
 image_notes:
-  ideal/01.png: Textbook curved chain; blunt horns and lens-shaped apertures clearly visible.
-  ideal/02.png: Girdle view showing two cells joined horn-to-horn.
-  challenging/01.png: Short two-cell fragment; chain curvature not yet obvious.
-  challenging/02.png: Out-of-focus / low-contrast frame typical of passive imaging.
+  ideal/high_mag_cam-1744682182247330-4129046523624-40615-004-100-1572-168-404_rawcolor.png: Curved-spiral chain; blunt horns and lens-shaped apertures clearly visible.
+  ideal/high_mag_cam-1744681932056855-3878871537760-38113-000-2166-1468-133-376_rawcolor.png: Girdle view showing  cells joined horn-to-horn, appears flat from this perspective.
+  challenging/high_mag_cam-1744975618846879-21445832356272-213593-003-1718-594-172-188_rawcolor.png: Focusing in on the large apperature.

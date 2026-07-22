@@ -21,3 +21,5 @@ Thumbs.db
 # NOTE: the generated *.qmd pages (classes/*/index.qmd, guide.qmd) ARE committed
 # so the repo previews without running the generator first. They are overwritten
 # by scripts/build_pages.py — edit meta.yml, not the generated qmd.
+
+**/*.quarto_ipynb

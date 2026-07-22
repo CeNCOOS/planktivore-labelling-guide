@@ -3,39 +3,27 @@ display_name: Chaetoceros
 group: Diatoms
 optics: [high-mag, low-mag]
 one_liner: >
-  Chain-forming centric diatom whose cells bear long thin setae (bristles) from
-  the valve corners; setae of neighbouring cells often cross near their base.
+  Most abundant chain-forming centric diatom in M. Bay. Cells contain long thin setae (bristles) from the valve corners; setae of neighbouring cells often cross near their base. Several species are represented in this class.
 
 defining_characteristics: >
-  Cells are joined valve-to-valve into chains, and each cell bears a pair of
-  long, thin setae (bristles) arising from the corners of the valve. Setae of
-  adjacent cells typically emerge near the cell junction and cross or run
-  parallel, and rectangular or lens-shaped apertures (foramina) are left
-  between successive cells. Features to key on: (1) fine setae projecting well
-  beyond the cell body; (2) setae crossing between neighbours; (3) a defined
-  chain with apertures between cells. Chaetoceros is very species-rich; label
-  to genus unless a project-specific key for a distinctive species is provided.
+  Cells are joined valve-to-valve into chains with an space between adjacent valves (aperture). Each cell has two or more setae per valve. Setae are long, thin bristles arising from the corners of the valve that may or may not contain branches. In girdle view, cells are generally rectangula. Adjacent cells are connected through fused (touching) setae. Nearlly 400 species described. For planktivore, setae can be difficult to see, except for on a few species with coarser, almost spine like setae. 
+
 
 distinguishing_from:
   - class: eucampia
     note: >
-      Eucampia has short, blunt polar horns (not fine setae) and forms curved
-      chains with large lens-shaped apertures. Chaetoceros setae are thin,
-      hair-like, and usually much longer than the cell is wide.
+      Eucampia has short, blunt polar horns (not fine setae) and forms curved chains with large lens-shaped apertures. Chaetoceros setae are thin, hair-like, and usually much longer than the cell is wide.
   - class: pseudo-nitzschia
     note: >
-      Pseudo-nitzschia is pennate, seta-less, and forms straight stepped
-      ribbons of needle-like cells. If fine bristles project from the cells,
-      it is not Pseudo-nitzschia.
+      Pseudo-nitzschia is pennate, seta-less, and forms straight stepped ribbons of needle-like cells. If fine bristles project from the cells, it is not Pseudo-nitzschia.
 
 references:
   - title: "Chaetoceros — Diatoms of North America"
     url: https://diatoms.org/genera/chaetoceros
   - title: "WHOI IFCB plankton reference (model guide)"
-    url: https://whoigit.github.io/whoi-plankton/
+    url: https://whoigit.github.io/whoi-plankton/Chaetoceros.html
+  - title: "UCSC PhytoGallery"
+    url: http://oceandatacenter.ucsc.edu/PhytoGallery/Diatoms/Chaetoceros.html
 
 image_notes:
-  ideal/01.png: Chain with setae crossing between cells and clear apertures.
-  ideal/02.png: Close view of a single cell showing paired setae from the corners.
-  challenging/01.png: Setae faint / partly out of frame; only cell bodies obvious.
-  challenging/02.png: Broken two-cell fragment with one seta lost.
+  ideal/high_mag_cam-1744682015955205-3962763148808-38952-003-1984-424-315-320_rawcolor.png: Likely _C. similis_

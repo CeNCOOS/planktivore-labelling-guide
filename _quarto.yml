@@ -13,8 +13,8 @@ project:
 website:
   title: "Planktivore Labelling Guide"
   description: "Reference guide for annotating Planktivore plankton images."
-  site-url: "https://YOUR-GH-USERNAME.github.io/planktivore-guide/"
-  repo-url: "https://github.com/YOUR-GH-USERNAME/planktivore-guide"
+  site-url: "https://cencoos.github.io/planktivore-labelling-guide/"
+  repo-url: "https://github.com/CeNCOOS/planktivore-labelling-guide"
   page-navigation: true
   navbar:
     left:
@@ -24,7 +24,7 @@ website:
         text: About
     right:
       - icon: github
-        href: "https://github.com/YOUR-GH-USERNAME/planktivore-guide"
+        href: "https://github.com/CeNCOOS/planktivore-labelling-guide"
         aria-label: GitHub
   page-footer:
     center: "Planktivore Labelling Guide · built with Quarto"

@@ -12,13 +12,9 @@ listing:
   sort-ui: false
 ---
 
-A visual reference for annotating images from the **Planktivore** passive plankton
-imager. Each class page shows *ideal* reference images alongside *challenging*
-real-world examples, a description of the class-defining characteristics, and notes
-on how to tell it apart from similar classes.
+A visual reference for annotating images from the **Planktivore** passive imager. Each class page shows *ideal* reference images alongside *challenging* real-world examples, a description of the class-defining characteristics, and notes on how to tell it apart from similar classes.
 
-Use the category filters and search box below to find a class. New annotators should
-start with [About this guide](about.qmd).
+Use the category filters and search box below to find a class. New annotators should start with [About this guide](about.qmd).
 
 ::: {#class-grid}
 :::

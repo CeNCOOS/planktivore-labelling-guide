@@ -1,14 +1,12 @@
 # Planktivore Labelling Guide
 
-A lightweight, portable, multi-format annotation guide for **Planktivore** plankton
-images. One set of source data produces three outputs from a single git repo:
+A lightweight, portable, multi-format annotation guide for **Planktivore** plankton images. One set of source data produces three outputs from a single git repo:
 
 - an **HTML website** (like the [WHOI IFCB guide](https://whoigit.github.io/whoi-plankton/)),
 - a **PDF** of the full guide, and
 - a **PowerPoint** training deck.
 
-Built with [Quarto](https://quarto.org). Content is data-driven: you write each class
-once as metadata plus images, and a generator renders every page and format.
+Built with [Quarto](https://quarto.org). Content is data-driven: you write each class once as metadata plus images, and a generator renders every page and format.
 
 ## How it's organised
 
@@ -32,8 +30,7 @@ scripts/
 ```
 
 The single source of truth is `classes/<id>/meta.yml` plus the two image folders.
-**Never hand-edit the generated `index.qmd` / `guide.qmd`** — edit `meta.yml` and re-run
-the generator.
+**Never hand-edit the generated `index.qmd` / `guide.qmd`** — edit `meta.yml` and re-run the generator.
 
 ## One-time setup
 
@@ -65,17 +62,9 @@ then `quarto render`, `quarto render guide.qmd --to pdf`,
 
 ## Deployment
 
-Pushing to `main` triggers `.github/workflows/publish.yml`, which validates metadata,
-generates pages, renders the HTML/PDF/PPTX, deploys the website to **GitHub Pages**, and
-attaches the PDF and PPTX as downloadable artifacts. Enable Pages once under
-**Settings → Pages → Source: GitHub Actions**, and replace the `YOUR-GH-USERNAME`
-placeholders in `_quarto.yml`.
+Pushing to `main` triggers `.github/workflows/publish.yml`, which validates metadata, generates pages, renders the HTML/PDF/PPTX, deploys the website to **GitHub Pages**, and attaches the PDF and PPTX as downloadable artifacts. Enable Pages once under **Settings → Pages → Source: GitHub Actions**, and replace the `CeNCOOS` placeholders in `_quarto.yml`.
 
 ## Notes
 
-- Three example classes are included as a first pass: **Eucampia**, **Pseudo-nitzschia**,
-  and **Chaetoceros**. Their images are labelled **PLACEHOLDER** — replace them with real
-  Planktivore frames.
+- Three example classes are included as a first pass: **Eucampia**, **Pseudo-nitzschia** and **Chaetoceros**. 
 - Image footprint is small (tens of KB per PNG), so plain git is fine; no Git LFS needed.
-- The morphology text is a scientist-reviewable draft — check it against your own material
-  before relying on it for training.
