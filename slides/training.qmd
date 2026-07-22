@@ -3,8 +3,7 @@ title: "Planktivore Annotation — Training"
 subtitle: "Diatom quick-start"
 author: "Planktivore team"
 format:
-  pptx:
-    reference-doc: ""       # optional: point to a branded .pptx template
+  pptx: default
   revealjs:                  # also renders as an interactive HTML slideshow
     theme: simple
     slide-number: true
@@ -30,7 +29,7 @@ format:
 - Chains **curve, twist, or coil**.
 - Large lens-shaped apertures between cells.
 
-![](../classes/eucampia/ideal/01.png)
+![](../classes/eucampia/ideal/high_mag_cam-1744681252334368-3199139638296-31315-001-2094-192-205-348_rawcolor.png)
 
 ## Pseudo-nitzschia
 
@@ -38,14 +37,14 @@ format:
 - Straight colonies with cells **overlapping end-to-end** (stepped).
 - Label to **genus** — species needs EM.
 
-![](../classes/pseudo-nitzschia/ideal/01.png)
+![](../classes/pseudo-nitzschia/ideal/high_mag_cam-1744681982168009-3928966534136-38614-008-1460-240-324-892_rawcolor.png)
 
 ## Chaetoceros
 
 - Centric cells in a chain, each with paired **setae**.
 - Setae are long and thin and often **cross** between neighbours.
 
-![](../classes/chaetoceros/ideal/01.png)
+![](../classes/chaetoceros/ideal/high_mag_cam-1744682015955205-3962763148808-38952-003-1984-424-315-320_rawcolor.png)
 
 ## Telling them apart
 
