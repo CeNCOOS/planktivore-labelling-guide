@@ -1,0 +1,16 @@
+class_id: thalassionema
+display_name: Thalassionema
+group: Diatoms
+optics: [high-mag, low-mag]
+one_liner: "Blunt, rod-shaped pennate cells joined corner-to-corner into zigzag chains or radiating star-shaped colonies."
+defining_characteristics: "Cells are narrow, straight, rod- or bar-shaped with rounded to slightly swollen ends and roughly uniform width along their length. They join at their corners by small mucilage pads to form characteristic zigzag (concertina) chains or radiating stellate (star) clusters. Key features: uniform straight bars, corner-to-corner linkage, zigzag or star colony geometry. Thalassionema nitzschioides is the common form."
+distinguishing_from:
+  - class: asterionellopsis
+    note: "Asterionellopsis cells are clavate (club-shaped) with one inflated foot pole and taper along their length; Thalassionema cells are near-uniform bars of even width."
+  - class: pseudo-nitzschia
+    note: "Pseudo-nitzschia forms stepped colonies with cells overlapping along their pointed ends, not corner-linked zigzags or stars."
+  - class: pennate
+    note: "Use Thalassionema when the zigzag/stellate colony form is clear; fall back to Pennate only when the genus cannot be determined."
+references:
+  - title: "Thalassionema — overview (ScienceDirect Topics)"
+    url: https://www.sciencedirect.com/topics/agricultural-and-biological-sciences/thalassionema

@@ -1,0 +1,23 @@
+class_id: asterionellopsis
+display_name: Asterionellopsis
+group: Diatoms
+optics: [high-mag, low-mag]
+one_liner: "Club-shaped pennate cells with a swollen foot pole, radiating into star-shaped colonies."
+defining_characteristics: "Cells are club-shaped (clavate): one end is expanded into a heavier \"foot\" while the other tapers into a long, fine trailing arm. The foot poles gather at a common centre so the colony radiates outward as a star or helix if chain is long. Key features: markedly unequal cell ends with club, central attachment, star or helical colony. Asterionellopsis glacialis (most common) and Asterionellopsis kariana."
+distinguishing_from:
+  - class: thalassionema
+    note: "Asterionellopsis cells are clavate with a distinct foot at the colony centre."
+  - class: Chaetoceros
+    note: "Chaetoceros cells are more rounded and rectangular, where Asterionellopsis is agnular. Setae (if visible) radiate from both side of the valve."
+image_notes:
+  ideal/i3.png: Chain mostly in girdle view with foot pole clearly visible.
+  ideal/i1.png: Helical chain and angular clubed foot are good indicators
+  ideal/i4.png: Single cell in valve view.
+  ideal/i5.png: Helical chain. narrow stalks are difficult to see, but the angular, almost triangular foot is indicative.
+  challenging/c2.png: Orientation can make indentifying individual cells challenging, cells appear clumped together, but angular foot is still visible.
+  challenging/c4.png: Lack of focus makes stalks challening to see, focusing on the foot shape is helpful
+references:
+  - title: "Asterionellopsis glacialis — UBC Phytoplankton (EOAS)"
+    url: https://phytoplankton.eoas.ubc.ca/research/phytoplankton/diatoms/pennate/asterionellopsis/a_glacialis.html
+  - title: "UCSC PhytoGallery - Asterionellopsis"
+    url: http://oceandatacenter.ucsc.edu/PhytoGallery/Diatoms/Asterionellopsis.html

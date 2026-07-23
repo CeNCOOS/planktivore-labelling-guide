@@ -1,0 +1,23 @@
+class_id: gyrodinium
+display_name: Gyrodinium
+group: Dinoflagellates
+optics: [high-mag, low-mag]
+one_liner: "Unarmored dinoflagellate with a strongly displaced, sigmoid girdle that gives the cell a twisted look."
+defining_characteristics: "An athecate (\"naked\") dinoflagellate whose defining trait is a cingulum (girdle) that is strongly displaced and often wound into an S-shape, so the two halves of the cell (epicone and hypocone) look twisted relative to each other. Key features: naked outline, cingulum displacement more than 1/3 body length, food vacuoles often present"
+distinguishing_from:
+  - class: akashiwo
+    note: "Akashiwo is larger and dorsoventrally flattened with only a slightly offset girdle; Gyrodinium is defined by its strongly displaced, twisted (sigmoid) cingulum."
+distinguishing_from:
+  - class: prorocentrum
+    note: "Can be difficult to distinguish if girdle is not visibile. Prorocentrum has an apical horn and teardrop silhouette."
+image_notes:
+  ideal/i1.png: Sigmoidal girdle is visible around the enitire cell and pointed theca.
+  ideal/i3.png: Food vaccuole is present.
+  challenging/c1.png: low resolution/blur can make this a challenge, but the cingulum is still present.
+  challenging/c4.png: Looks similar to Prorocentum, but the food vaccuole is a good indentifier.
+references:
+  - title: "Gyrodinium — Wikipedia"
+    url: https://en.wikipedia.org/wiki/Gyrodinium
+  - title: "UCSC Ocean Data Center — Phytoplankton Gallery"
+    url: http://oceandatacenter.ucsc.edu/PhytoGallery/Dinoflagellates/gyrodinium.html
+ 

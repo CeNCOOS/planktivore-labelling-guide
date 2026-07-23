@@ -20,6 +20,8 @@ website:
     left:
       - href: index.qmd
         text: Classes
+      - href: quick-guide.qmd
+        text: Quick guide
       - href: about.qmd
         text: About
     right:

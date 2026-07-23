@@ -1,0 +1,23 @@
+class_id: akashiwo
+display_name: Akashiwo
+group: Dinoflagellates
+optics: [high-mag, low-mag]
+one_liner: "Common large, unarmored (naked) dinoflagellate, dorsoventrally flattened, with a distinct silhouette."
+defining_characteristics: "A relatively large athecate (\"naked\", no armour plates) dinoflagellate that is flattened dorsoventrally, so it looks broad and leaf-like from one side and thin edge-on (taco shapped). The cingulum (girdle) is only modestly displaced, and an apical groove runs over the top of the cell. Cells lack the rigid plate pattern of armored dinoflagellates and can appear brownish from chloroplasts. Often found during mid-mitotitic division. Akashiwo sanguinea forms red tides. Key features: large size, smooth naked outline, bifricated (notched) hypocone and domed epicone."
+distinguishing_from:
+  - class: gyrodinium
+    note: "Both are unarmored, however Gyrodinium's cingulum is strongly displaced into an S-shaped (sigmoid), twisted girdle."
+references:
+  - title: "Akashiwo sanguinea — UCSC PhytoGallery"
+    url: http://oceandatacenter.ucsc.edu/PhytoGallery/Dinoflagellates/akashiwo.html
+  - title: "Akashiwo sanguinea — Smithsonian IRL species inventory"
+    url: https://irlspecies.org/taxa/index.php?taxon=9761
+image_notes:
+  ideal/i1.png: Hypocone lobes are clear, as is the rounded epicone.
+  ideal/i2.png: Mitotic division, daughter cell forms out of one of the lobes of the notched hypocone, giving this distinct stepped shape.
+  challenging/c1.png: Lateral view of Akashiwo (in profile). The the epicone/hypocone are not generally distinguishable, but the slight girdle buldging of the cingulum is a good indicator.
+  challenging/c2.png: View head on looking down the epicone. These may be challenging to identify, but the asymetry from the notch from the cingulum is a good indicator. Here the pigment colors are also similar to other images.
+  challenging/c5.png: Cells during mitotic division. These cells can take on many different complex shapes, but the daughter cell dividing out of the lobe is a good indicator.
+  challenging/c4.png: Lower quality image, as well as the cell being roted laterally. However, the hypocone is distinctly visible still.
+  challenging/c3.png: Profile view. The hypocone is visible at the top. This is a commonly observed view.
+

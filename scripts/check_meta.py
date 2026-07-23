@@ -54,12 +54,15 @@ def main() -> int:
         if cid and cid != d.name:
             errors.append(f"{d.name}: class_id '{cid}' does not match folder name")
 
+    warnings: list[str] = []
     for d, meta in metas.items():
         for field in REQUIRED_FIELDS:
             if not str(meta.get(field, "")).strip():
                 errors.append(f"{d.name}: missing required field '{field}'")
+        # Missing images is a warning, not a failure — classes are often stubbed
+        # out with metadata first and images added later.
         if not has_images(d, "ideal"):
-            errors.append(f"{d.name}: no images in ideal/")
+            warnings.append(f"{d.name}: no images in ideal/ yet")
         for row in meta.get("distinguishing_from") or []:
             target = str(row.get("class", "")).strip()
             if target and target not in known_ids:
@@ -67,6 +70,10 @@ def main() -> int:
                     f"{d.name}: distinguishing_from references unknown class '{target}'"
                 )
 
+    if warnings:
+        print("Metadata warnings:")
+        for w in warnings:
+            print(f"  - {w}")
     if errors:
         print("Metadata check FAILED:", file=sys.stderr)
         for e in errors:

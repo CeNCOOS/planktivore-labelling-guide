@@ -55,6 +55,6 @@ Cells are elliptical in girdle view and bear two blunt, broad polar elevations (
 
 ## References
 
-- [Eucampia — Diatoms of North America](https://diatoms.org/genera/eucampia)
-- [WHOI IFCB plankton reference (model guide)](https://whoigit.github.io/whoi-plankton/)
+- [Eucampia — UCSC PhytoGallery](http://oceandatacenter.ucsc.edu/PhytoGallery/Diatoms/Eucampia.html)
+- [WHOI IFCB plankton reference (model guide)](https://whoigit.github.io/whoi-plankton/Eucampia.html)
 

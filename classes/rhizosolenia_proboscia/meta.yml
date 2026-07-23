@@ -1,0 +1,18 @@
+class_id: rhizosolenia_proboscia
+display_name: Rhizosolenia / Proboscia
+group: Diatoms
+optics: [high-mag, low-mag]
+one_liner: "Long, thin, cylindrical centric diatoms, solitary or in straight chains, with a drawn-out, tapering apical point."
+defining_characteristics: "Both genera are elongate, rod- to needle-like centric diatoms, many times longer than wide, occurring singly or in straight chains. Cells are cylindrical with numerous girdle bands and an obliquely conical apex drawn out into a fine process. In Rhizosolenia the apex bears an external process with small wing-like flaps (otaria) and paired claspers that link cells; in Proboscia the apex is extended into a curved, hollow \"proboscis\" and the claspers/otaria are absent. They are grouped here because at annotation resolution the two are routinely hard to separate. Key features: very high length-to-width ratio, cylindrical body, single tapering apical process."
+distinguishing_from:
+  - class: chaetoceros
+    note: "Chaetoceros bears thin lateral setae from the valve corners and forms obvious chains with apertures; Rhizosolenia/Proboscia is a single long cylinder with one apical process, not lateral bristles."
+  - class: pennate
+    note: "Pennate diatoms are bilaterally symmetric; Rhizosolenia/Proboscia are centric (radially symmetric) cylinders."
+references:
+  - title: "Rhizosolenia — UCSC Ocean Data Center Phytoplankton Gallery"
+    url: http://oceandatacenter.ucsc.edu/PhytoGallery/Diatoms/rhizosolenia.html
+  - title: "Morphology of genus Proboscia and related Rhizosoleniaceae (Algae journal)"
+    url: https://www.e-algae.org/journal/view.php?number=2644
+image_notes:
+  ideal/: Curved-spiral chain; blunt horns and lens-shaped apertures clearly visible.

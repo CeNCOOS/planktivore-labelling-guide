@@ -201,6 +201,108 @@ def write_guide_pdf(classes: list[tuple[Path, dict]]) -> None:
     (REPO_ROOT / "guide.qmd").write_text("\n".join(chunks) + "\n")
 
 
+# Preferred display order for functional groups; unknown groups fall in
+# alphabetically after these, with catch-all buckets last. Groups only appear
+# on a page once at least one class uses them ("as they come online").
+GROUP_ORDER = [
+    "Ciliates",
+    "Coccolithophores",
+    "Diatoms",
+    "Dinoflagellates",
+    "Flagellates",
+    "Silicoflagellates",
+    "Radiolaria",
+    "Other",
+    "Miscellaneous",
+    "Unclassified",
+]
+
+
+def group_sort_key(name: str):
+    return (GROUP_ORDER.index(name) if name in GROUP_ORDER else len(GROUP_ORDER),
+            name.lower())
+
+
+def grid_items(members: list[tuple[Path, dict]]) -> list[str]:
+    """A `.quick-grid` fenced div of image + class-name tiles linking to pages."""
+    lines = ["::: {.quick-grid}"]
+    for class_dir, meta in members:
+        display = collapse(meta.get("display_name", class_dir.name))
+        cover = cover_image(class_dir)  # e.g. "ideal/xyz.png" or None
+        href = f"classes/{class_dir.name}/index.qmd"
+        if cover:
+            src = f"classes/{class_dir.name}/{cover}"
+            lines.append(f"[![{display}]({src}){{.qg-img}} {display}]({href}){{.qg-item}}")
+        else:
+            # No image yet — show a placeholder tile so the class is still
+            # visible and clickable, and the grid stays aligned.
+            lines.append(
+                f'[<span class="qg-img qg-noimg">no image yet</span> {display}]'
+                f"({href}){{.qg-item}}"
+            )
+        lines.append("")  # blank line -> each item is its own grid cell
+    lines.append(":::")
+    lines.append("")
+    return lines
+
+
+def group_classes(classes: list[tuple[Path, dict]]) -> list[tuple[str, list]]:
+    """Group classes by functional group, ordered; members sorted by name."""
+    from collections import defaultdict
+
+    groups: dict[str, list[tuple[Path, dict]]] = defaultdict(list)
+    for class_dir, meta in classes:
+        groups[collapse(meta.get("group", "Unclassified"))].append((class_dir, meta))
+    out = []
+    for group in sorted(groups, key=group_sort_key):
+        members = sorted(
+            groups[group],
+            key=lambda cm: collapse(cm[1].get("display_name", cm[0].name)).lower(),
+        )
+        out.append((group, members))
+    return out
+
+
+def write_home(classes: list[tuple[Path, dict]]) -> None:
+    """Home page: image + class name, wrapped in functional-group sections."""
+    parts = [
+        "---",
+        'title: "Planktivore Labelling Guide"',
+        "toc: false",
+        "---",
+        "",
+        GENERATED_BANNER,
+        "",
+        "A visual reference for annotating [Planktivore](about.qmd) plankton images."
+        " Click any specimen for its defining characteristics, look-alikes, and more examples.",
+        "",
+    ]
+    for group, members in group_classes(classes):
+        parts.append(f"## {group}")
+        parts.append("")
+        parts.extend(grid_items(members))
+    (REPO_ROOT / "index.qmd").write_text("\n".join(parts) + "\n")
+
+
+def write_quick_guide(classes: list[tuple[Path, dict]]) -> None:
+    """A minimal flat specimen wall: one image + class name per class."""
+    members = sorted(
+        classes,
+        key=lambda cm: collapse(cm[1].get("display_name", cm[0].name)).lower(),
+    )
+    parts = [
+        "---",
+        'title: "Quick guide"',
+        "toc: false",
+        "---",
+        "",
+        GENERATED_BANNER,
+        "",
+    ]
+    parts.extend(grid_items(members))
+    (REPO_ROOT / "quick-guide.qmd").write_text("\n".join(parts) + "\n")
+
+
 def main() -> int:
     classes = load_classes()
     if not classes:
@@ -211,6 +313,10 @@ def main() -> int:
         print(f"  + classes/{class_dir.name}/index.qmd")
     write_guide_pdf(classes)
     print("  + guide.qmd")
+    write_home(classes)
+    print("  + index.qmd")
+    write_quick_guide(classes)
+    print("  + quick-guide.qmd")
     print(f"Done: {len(classes)} class(es).")
     return 0
 

@@ -4,28 +4,21 @@
 #      and drop images in (PNG/JPG).
 #   3. Run:  python scripts/build_pages.py
 #
-# class_id MUST match the folder name (lowercase, hyphens for spaces).
+# class_id MUST match the folder name (lowercase, hyphens/underscores for spaces).
+# Keep each text value on a SINGLE line (do not wrap across multiple lines).
 
 class_id: my-class-id
 display_name: My Class
 group: Diatoms                 # section the class is grouped under on the homepage
 optics: [high-mag, low-mag]    # which optical set(s) this class appears in
-one_liner: >
-  One-sentence description shown under the title and in the homepage grid.
-
-defining_characteristics: >
-  The features that place an image in this class: shape, size range, texture,
-  distinctive structures, colony form. Write for a new annotator.
-
+one_liner: "One-sentence description shown under the title and in the homepage grid."
+defining_characteristics: "The features that place an image in this class: shape, size range, texture, distinctive structures, colony form. Write for a new annotator."
 distinguishing_from:           # the look-alikes — most important for consistency
   - class: some-other-class-id # must be an existing folder under classes/
-    note: >
-      How to tell this class apart from that one.
-
+    note: "How to tell this class apart from that one."
 references:
-  - title: Reference title
+  - title: "Reference title"
     url: https://example.org/...
-
 image_notes:                   # optional per-image captions (path: caption)
-  ideal/01.png: What makes this a good/ideal example.
-  challenging/01.png: Why this one is hard.
+  ideal/01.png: "What makes this a good/ideal example."
+  challenging/01.png: "Why this one is hard."

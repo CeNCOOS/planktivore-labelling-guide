@@ -1,0 +1,15 @@
+class_id: pennate
+display_name: Pennate
+group: Diatoms
+optics: [high-mag, low-mag]
+one_liner: "Catch-all for elongate, bilaterally symmetric pennate diatoms that can't be confidently assigned to a more specific label."
+defining_characteristics: "Pennate diatoms are elongate and bilaterally (mirror) symmetrical. They can be boat-, rod-, needle-, or wedge-shaped in valve view. Use this class for pennate cells that are clearly not centric but cannot be keyed with confidence to one of the named pennate genera in this guide. This includes non-chain (or clipped) Pseudo-nitzschia, which cannot be easily distinguished from other single celled pennates.
+Key features: elongate bilateral outline, no setae."
+distinguishing_from:
+  - class: pseudo-nitzschia
+    note: "Label Pseudo-nitzschia when narrow needle-like cells form stepped, end-overlapping chains"
+  - class: cylindrotheca
+    note: "Challenging to distinguish unless entire cell is present. If localization of the roi clips the wings of tips, appears as pennate."
+references:
+  - title: "UCSC Ocean Data Center — Phytoplankton Gallery"
+    url: http://oceandatacenter.ucsc.edu/PhytoGallery/
