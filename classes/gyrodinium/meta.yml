@@ -7,9 +7,6 @@ defining_characteristics: "An athecate (\"naked\") dinoflagellate whose defining
 distinguishing_from:
   - class: akashiwo
     note: "Akashiwo is larger and dorsoventrally flattened with only a slightly offset girdle; Gyrodinium is defined by its strongly displaced, twisted (sigmoid) cingulum."
-distinguishing_from:
-  - class: prorocentrum
-    note: "Can be difficult to distinguish if girdle is not visibile. Prorocentrum has an apical horn and teardrop silhouette."
 image_notes:
   ideal/i1.png: Sigmoidal girdle is visible around the enitire cell and pointed theca.
   ideal/i3.png: Food vaccuole is present.

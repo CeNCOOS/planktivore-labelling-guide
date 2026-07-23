@@ -7,7 +7,7 @@ defining_characteristics: "Cells are club-shaped (clavate): one end is expanded 
 distinguishing_from:
   - class: thalassionema
     note: "Asterionellopsis cells are clavate with a distinct foot at the colony centre."
-  - class: Chaetoceros
+  - class: chaetoceros
     note: "Chaetoceros cells are more rounded and rectangular, where Asterionellopsis is agnular. Setae (if visible) radiate from both side of the valve."
 image_notes:
   ideal/i3.png: Chain mostly in girdle view with foot pole clearly visible.
