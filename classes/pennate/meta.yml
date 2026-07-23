@@ -8,8 +8,6 @@ Key features: elongate bilateral outline, no setae."
 distinguishing_from:
   - class: pseudo-nitzschia
     note: "Label Pseudo-nitzschia when narrow needle-like cells form stepped, end-overlapping chains"
-  - class: cylindrotheca
-    note: "Challenging to distinguish unless entire cell is present. If localization of the roi clips the wings of tips, appears as pennate."
 references:
   - title: "UCSC Ocean Data Center — Phytoplankton Gallery"
     url: http://oceandatacenter.ucsc.edu/PhytoGallery/
