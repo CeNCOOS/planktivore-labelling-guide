@@ -10,28 +10,42 @@ A visual reference for annotating [Planktivore](about.qmd) plankton images. Clic
 ## Diatoms
 
 ::: {.quick-grid}
-[<span class="qg-img qg-noimg">no image yet</span> Asterionellopsis](classes/asterionellopsis/index.qmd){.qg-item}
+[![Asterionellopsis](classes/asterionellopsis/ideal/i1.png){.qg-img} Asterionellopsis](classes/asterionellopsis/index.qmd){.qg-item}
+
+[![Centric](classes/centric/ideal/i1.png){.qg-img} Centric](classes/centric/index.qmd){.qg-item}
 
 [![Chaetoceros](classes/chaetoceros/ideal/high_mag_cam-1744682015955205-3962763148808-38952-003-1984-424-315-320_rawcolor.png){.qg-img} Chaetoceros](classes/chaetoceros/index.qmd){.qg-item}
 
+[<span class="qg-img qg-noimg">no image yet</span> Ditylum](classes/ditylum/index.qmd){.qg-item}
+
 [![Eucampia](classes/eucampia/ideal/high_mag_cam-1744681252334368-3199139638296-31315-001-2094-192-205-348_rawcolor.png){.qg-img} Eucampia](classes/eucampia/index.qmd){.qg-item}
 
-[<span class="qg-img qg-noimg">no image yet</span> Pennate](classes/pennate/index.qmd){.qg-item}
+[![Pennate](classes/pennate/ideal/high_mag_cam-1744678828278475-775083463728-7072-003-334-404-84-136_rawcolor.png){.qg-img} Pennate](classes/pennate/index.qmd){.qg-item}
 
 [![Pseudo-nitzschia](classes/pseudo-nitzschia/ideal/high_mag_cam-1744681982168009-3928966534136-38614-008-1460-240-324-892_rawcolor.png){.qg-img} Pseudo-nitzschia](classes/pseudo-nitzschia/index.qmd){.qg-item}
 
-[<span class="qg-img qg-noimg">no image yet</span> Rhizosolenia / Proboscia](classes/rhizosolenia_proboscia/index.qmd){.qg-item}
+[![Rhizosolenia / Proboscia](classes/rhizosolenia_proboscia/ideal/high_mag_cam-1744679665986411-1612798158784-15450-000-1530-826-100-348_rawcolor.png){.qg-img} Rhizosolenia / Proboscia](classes/rhizosolenia_proboscia/index.qmd){.qg-item}
 
-[<span class="qg-img qg-noimg">no image yet</span> Thalassionema](classes/thalassionema/index.qmd){.qg-item}
+[<span class="qg-img qg-noimg">no image yet</span> Skeletonema](classes/skeletonema/index.qmd){.qg-item}
+
+[![Thalassionema](classes/thalassionema/ideal/high_mag_cam-1744682936786182-4883570964840-48161-002-366-714-276-112_rawcolor.png){.qg-img} Thalassionema](classes/thalassionema/index.qmd){.qg-item}
+
+[<span class="qg-img qg-noimg">no image yet</span> Thalassiosira](classes/thalassiosira/index.qmd){.qg-item}
 
 :::
 
 ## Dinoflagellates
 
 ::: {.quick-grid}
-[<span class="qg-img qg-noimg">no image yet</span> Akashiwo](classes/akashiwo/index.qmd){.qg-item}
+[![Akashiwo](classes/akashiwo/ideal/i1.png){.qg-img} Akashiwo](classes/akashiwo/index.qmd){.qg-item}
 
-[<span class="qg-img qg-noimg">no image yet</span> Gyrodinium](classes/gyrodinium/index.qmd){.qg-item}
+[<span class="qg-img qg-noimg">no image yet</span> Ceratium](classes/ceratium/index.qmd){.qg-item}
+
+[<span class="qg-img qg-noimg">no image yet</span> Dinophysis](classes/dinophysis/index.qmd){.qg-item}
+
+[![Gyrodinium](classes/gyrodinium/ideal/i1.png){.qg-img} Gyrodinium](classes/gyrodinium/index.qmd){.qg-item}
+
+[<span class="qg-img qg-noimg">no image yet</span> Prorocentrum](classes/prorocentrum/index.qmd){.qg-item}
 
 :::
 

@@ -59,8 +59,24 @@ def find_images(class_dir: Path, subset: str) -> list[str]:
     return sorted(files)
 
 
+OPTICS_LABEL = {"high": "High mag", "low": "Low mag"}
+
+
+def image_optics(name: str) -> str | None:
+    """Infer the optics an image came from, using the filename convention
+    (high_mag_cam-... / low_mag_cam-...). Returns 'high', 'low', or None."""
+    n = name.lower()
+    if "high_mag" in n or "highmag" in n or "high-mag" in n:
+        return "high"
+    if "low_mag" in n or "lowmag" in n or "low-mag" in n:
+        return "low"
+    return None
+
+
 def image_grid(class_dir: Path, subset: str, meta: dict, path_prefix: str) -> str:
-    """Render an image subset as a Quarto column layout of captioned figures."""
+    """Render an image subset as a Quarto column layout of captioned figures.
+    Each image is tagged high/low mag (from its filename): a coloured badge is
+    added to the caption and a matching class drives a coloured border in CSS."""
     names = find_images(class_dir, subset)
     if not names:
         return "_No images yet — add files to this folder._\n"
@@ -69,9 +85,17 @@ def image_grid(class_dir: Path, subset: str, meta: dict, path_prefix: str) -> st
     lines = [f'::: {{layout-ncol="{ncol}"}}', ""]
     for name in names:
         rel = f"{subset}/{name}"
-        caption = collapse(notes.get(rel, ""))
+        note = collapse(notes.get(rel, ""))
         src = f"{path_prefix}{rel}"
-        lines.append(f"![{caption}]({src})")
+        optics = image_optics(name)
+        if optics:
+            badge = f"[{OPTICS_LABEL[optics]}]{{.mag-badge .mag-badge-{optics}}}"
+            caption = f"{badge} {note}".strip()
+            attr = f"{{.mag-{optics}}}"
+        else:
+            caption = note
+            attr = ""
+        lines.append(f"![{caption}]({src}){attr}")
         lines.append("")
     lines.append(":::")
     lines.append("")

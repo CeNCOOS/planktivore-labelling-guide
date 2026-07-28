@@ -23,17 +23,17 @@ Cells are long, narrow, and lanceolate to spindle-shaped (needle-like), tapering
 
 ::: {layout-ncol="3"}
 
-![](ideal/high_mag_cam-1744681982168009-3928966534136-38614-008-1460-240-324-892_rawcolor.png)
+![[High mag]{.mag-badge .mag-badge-high}](ideal/high_mag_cam-1744681982168009-3928966534136-38614-008-1460-240-324-892_rawcolor.png){.mag-high}
 
-![](ideal/high_mag_cam-1744682138741082-4085550877728-40180-000-366-0-88-828_rawcolor.png)
+![[High mag]{.mag-badge .mag-badge-high}](ideal/high_mag_cam-1744682138741082-4085550877728-40180-000-366-0-88-828_rawcolor.png){.mag-high}
 
-![Short two-cell chain, pennate form and overlapping cells are easily identified.](ideal/high_mag_cam-1744692707444837-1747363172760-16794-001-674-28-52-360_rawcolor.png)
+![[High mag]{.mag-badge .mag-badge-high} Short two-cell chain, pennate form and overlapping cells are easily identified.](ideal/high_mag_cam-1744692707444837-1747363172760-16794-001-674-28-52-360_rawcolor.png){.mag-high}
 
-![](ideal/high_mag_cam-1744749339872828-230727518392-1598-000-386-110-536-92_rawcolor.png)
+![[High mag]{.mag-badge .mag-badge-high}](ideal/high_mag_cam-1744749339872828-230727518392-1598-000-386-110-536-92_rawcolor.png){.mag-high}
 
-![Longer chain, with missing non-living cells.](ideal/high_mag_cam-1744844480536882-4739089365192-46605-000-1622-502-668-104_rawcolor.png)
+![[High mag]{.mag-badge .mag-badge-high} Longer chain, with missing non-living cells.](ideal/high_mag_cam-1744844480536882-4739089365192-46605-000-1622-502-668-104_rawcolor.png){.mag-high}
 
-![](ideal/high_mag_cam-1744855930034942-16188639064160-161112-003-436-98-1032-144_rawcolor.png)
+![[High mag]{.mag-badge .mag-badge-high}](ideal/high_mag_cam-1744855930034942-16188639064160-161112-003-436-98-1032-144_rawcolor.png){.mag-high}
 
 :::
 
@@ -41,13 +41,13 @@ Cells are long, narrow, and lanceolate to spindle-shaped (needle-like), tapering
 
 ::: {layout-ncol="3"}
 
-![](challenging/high_mag_cam-1744681997069824-3943865051760-38763-000-938-0-120-240_rawcolor.png)
+![[High mag]{.mag-badge .mag-badge-high}](challenging/high_mag_cam-1744681997069824-3943865051760-38763-000-938-0-120-240_rawcolor.png){.mag-high}
 
-![](challenging/high_mag_cam-1744749238571303-129437429272-585-000-1846-1806-453-193_rawcolor.png)
+![[High mag]{.mag-badge .mag-badge-high}](challenging/high_mag_cam-1744749238571303-129437429272-585-000-1846-1806-453-193_rawcolor.png){.mag-high}
 
-![Long chain, moving out of the focal plane. Focusing on the pattern of the chloroplasts (two per cell) and the overlap between cells.](challenging/high_mag_cam-1744859240532485-19499201219112-194221-000-1370-574-792-344_rawcolor.png)
+![[High mag]{.mag-badge .mag-badge-high} Long chain, moving out of the focal plane. Focusing on the pattern of the chloroplasts (two per cell) and the overlap between cells.](challenging/high_mag_cam-1744859240532485-19499201219112-194221-000-1370-574-792-344_rawcolor.png){.mag-high}
 
-![Pennate form is a key identified for longer chains.](challenging/high_mag_cam-1744859266515834-19525198603136-194481-000-1444-1600-696-300_rawcolor.png)
+![[High mag]{.mag-badge .mag-badge-high} Pennate form is a key identified for longer chains.](challenging/high_mag_cam-1744859266515834-19525198603136-194481-000-1444-1600-696-300_rawcolor.png){.mag-high}
 
 :::
 

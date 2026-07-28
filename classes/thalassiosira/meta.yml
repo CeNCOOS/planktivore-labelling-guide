@@ -1,0 +1,21 @@
+class_id: thalassiosira
+display_name: Thalassiosira
+group: Diatoms
+optics: [high-mag, low-mag]
+one_liner: "Disc- or drum-shaped centric diatoms, often in loose chains joined by a single fine central thread."
+defining_characteristics: "Cells are circular in valve view and disc- to drum-shaped, with areolae in radial or fasciculate rows and a ring of marginal processes. They frequently form loose chains held together by a single thin organic thread extruded from a central process, or occur singly. Key features: circular valve, radial areolae, central-thread linkage rather than marginal tubes."
+distinguishing_from:
+  - class: skeletonema
+    note: "Skeletonema is bridged by a ring of long marginal tubes leaving a clear gap; Thalassiosira chains hang from one fine central thread with cells close together."
+  - class: centric
+    note: "Use Thalassiosira when the disc shape and central-thread chains are evident; use Centric single cells (non-chain)."
+references:
+  - title: "Thalassiosira - UCSC PhytoGallery"
+    url: http://oceandatacenter.ucsc.edu/PhytoGallery/Diatoms/thalassiosira.html
+  - title: "Thalassiosira - Phyto'pedia - The Phytoplankton Encyclopaedia Project"
+    url: https://phytoplankton.eoas.ubc.ca/research/phytoplankton/diatoms/centric/thalassiosira/t_anguste_lineata.html
+
+image_notes:
+  challenging/high_mag_cam-1744987159955040-32987025674648-329017-011-1484-604-80-112_rawcolor.png: Chain is bent over itself, appearing from both girdle and valve view.
+  challening/high_mag_cam-1744957364814262-3191629374488-31032-006-398-714-76-120_rawcolor.png: Larger chains may be clipped in bounding box, making it challenging to distinguish from others.
+  ideal/high_mag_cam-1744987155958480-32983026080728-328977-004-272-1308-136-128_rawcolor.png: Seperation of centric cells in a chain. Even if the strutted process connecting cells is not visible.

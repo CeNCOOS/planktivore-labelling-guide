@@ -57,3 +57,20 @@ $font-family-sans-serif: "Source Sans Pro", "Helvetica Neue", Arial, sans-serif;
   font-style: italic;
   font-size: 0.8rem;
 }
+
+// High / low magnification tagging (optics inferred from image filename)
+img.mag-high { border: 3px solid #1a6f8b !important; border-radius: 4px; }  // blue
+img.mag-low  { border: 3px solid #d9822b !important; border-radius: 4px; }  // orange
+
+.mag-badge {
+  display: inline-block;
+  padding: 0.05rem 0.45rem;
+  margin-right: 0.35rem;
+  border-radius: 999px;
+  font-size: 0.72rem;
+  font-weight: 600;
+  color: #fff;
+  vertical-align: middle;
+}
+.mag-badge-high { background: #1a6f8b; }
+.mag-badge-low  { background: #d9822b; }

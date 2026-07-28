@@ -1,0 +1,23 @@
+class_id: prorocentrum
+display_name: Prorocentrum
+group: Dinoflagellates
+optics: [high-mag, low-mag]
+one_liner: "Desmokont dinoflagellate: two flat valves joined like a clam, with an apical spine and flagella from the apex, and no girdle groove."
+defining_characteristics: "A desmokont dinoflagellate whose theca is made of two large valves joined along a lengthwise suture, like a clam shell or shield, with __no__ cingulum or sulcus grooves. The two flagella emerge together from an apical area that often bears a small tooth or spine. Cells are oval, heart-, or teardrop-shaped in valve view. Species in Monterey Bay may be narrow (_P. gracile_) or wide (_P. micans_ etc). Key features: two-valve clam-like theca, apical tooth, absence of a girdle."
+distinguishing_from:
+  - class: dinophysis
+    note: "Dinophysis is also two-parted but bears a funnel cingular list and sail-like sulcal lists; Prorocentrum is a plain two-valved cell with an apical spine and no lists."
+  - class: ceratium
+    note: "Ceratium has long horns and an obvious girdle; Prorocentrum has neither."
+  - class: gyrodinium
+    note: "Gyrodinium has a distinct girdle groove that wraps aroudn teh cell. From girdle view, both can have a similar shape."
+references:
+  - title: "Prorocentrum — Phyto'pedia - The Phytoplankton Ecyclopaedia Project (UBC)"
+    url: https://phytoplankton.eoas.ubc.ca/research/phytoplankton/dinoflagellates/prorocentrum/p_gracile.html
+  - title: "Prorocentrum - UCSC PhytoGallery"
+    url: http://oceandatacenter.ucsc.edu/PhytoGallery/Dinoflagellates/prorocentrum.html
+
+image_notes:
+  ideal/00003_0.983_high_mag_cam-1757625975112523-1695503469648-15743-000-394-944-56-108_rawcolor.png: __P. gracile__ with distinct thin lanceolate (lance or spear) shape.
+  ideal/00004_0.980_high_mag_cam-1757693028966016-68749803054672-686357-002-1388-574-72-124_rawcolor.png: Shape is lanceolate and apical tooth is visible.
+

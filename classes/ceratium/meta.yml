@@ -1,0 +1,22 @@
+class_id: ceratium
+display_name: Ceratium
+group: Dinoflagellates
+optics: [high-mag, low-mag]
+one_liner: "Armored dinoflagellate of the genus, Tripos. Typically, one long apical horn and two or three  horns on the hypotheca."
+defining_characteristics: "An armored dinoflagellate whose  plates are drawn out into long, slender horns: a single apical horn and usually two antapical horns that curve upward, giving a distinctive trident silhouette. Several species in Monterey, including ~T. divaricatum~ which hasns very short horns. The marine species are now placed in the genus Tripos, but are still often refered to as Ceratium. Key features: multiple long horns, rigid armored plates, relatively large."
+distinguishing_from:
+  - class: dinophysis
+    note: "Dinophysis is laterally flattened with a funnel-shaped cingular list and sail-like sulcal lists, not long horns."
+  - class: prorocentrum
+    note: "Prorocentrum is a two-valved cell with no horns and no girdle; Ceratium has prominent apical and antapical horns."
+references:
+  - title: "Ceratium furca — Phyto'pedia - The Phytoplankton Encclopaedia Project (UBC)"
+    url: https://phytoplankton.eoas.ubc.ca/research/phytoplankton/dinoflagellates/ceratium/c_furca.html
+  - title: "UCSC PhytoGallery"
+    url: http://oceandatacenter.ucsc.edu/PhytoGallery/Dinoflagellates/ceratium.html
+image_notes:
+  challenging/high_mag_c1.png: Seen in profile with low lighting, long apical horn and shorted epitecal.
+  challenging/high_mag_cam-1744759410114961-10300906721944-102310-000-874-1612-204-96_rawcolor.png: Cell from profile view.
+  challenging/high_mag_cam-1744858585910887-18844568456488-187674-000-914-900-60-216_rawcolor.png: Cell from profile both horns are visible.
+  ideal/high_mag_cam-1744678866371717-813179436728-7453-001-772-1678-108-164_rawcolor.png: Lower lighting, but the characteristic erpithecal horns (batman) and long apical horn are present.
+  ideal/high_mag_cam-1744692712251928-1752162668760-16842-001-1968-1684-104-176_rawcolor.png: In addition to the horns, _T. leneatum_ has a pentagonal body shape.

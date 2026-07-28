@@ -23,21 +23,21 @@ Cells are elliptical in girdle view and bear two blunt, broad polar elevations (
 
 ::: {layout-ncol="3"}
 
-![](ideal/high_mag_cam-1744681252334368-3199139638296-31315-001-2094-192-205-348_rawcolor.png)
+![[High mag]{.mag-badge .mag-badge-high}](ideal/high_mag_cam-1744681252334368-3199139638296-31315-001-2094-192-205-348_rawcolor.png){.mag-high}
 
-![Girdle view showing cells joined horn-to-horn, appears flat from this perspective.](ideal/high_mag_cam-1744681932056855-3878871537760-38113-000-2166-1468-133-376_rawcolor.png)
+![[High mag]{.mag-badge .mag-badge-high} Girdle view showing cells joined horn-to-horn, appears flat from this perspective.](ideal/high_mag_cam-1744681932056855-3878871537760-38113-000-2166-1468-133-376_rawcolor.png){.mag-high}
 
-![Curved-spiral chain; blunt horns and lens-shaped apertures clearly visible.](ideal/high_mag_cam-1744682182247330-4129046523624-40615-004-100-1572-168-404_rawcolor.png)
+![[High mag]{.mag-badge .mag-badge-high} Curved-spiral chain; blunt horns and lens-shaped apertures clearly visible.](ideal/high_mag_cam-1744682182247330-4129046523624-40615-004-100-1572-168-404_rawcolor.png){.mag-high}
 
-![](ideal/high_mag_cam-1744725251348223-34291069001728-342264-003-1836-450-144-60_rawcolor.png)
+![[High mag]{.mag-badge .mag-badge-high}](ideal/high_mag_cam-1744725251348223-34291069001728-342264-003-1836-450-144-60_rawcolor.png){.mag-high}
 
-![](ideal/high_mag_cam-1744957316988907-3143834290704-30554-002-196-1250-288-112_rawcolor.png)
+![[High mag]{.mag-badge .mag-badge-high}](ideal/high_mag_cam-1744957316988907-3143834290704-30554-002-196-1250-288-112_rawcolor.png){.mag-high}
 
-![](ideal/high_mag_cam-1744975557955809-21384938635112-212984-002-1708-1290-192-144_rawcolor.png)
+![[High mag]{.mag-badge .mag-badge-high}](ideal/high_mag_cam-1744975557955809-21384938635112-212984-002-1708-1290-192-144_rawcolor.png){.mag-high}
 
-![](ideal/high_mag_cam-1744987119042730-32946129907648-328608-001-2148-1376-151-236_rawcolor.png)
+![[High mag]{.mag-badge .mag-badge-high}](ideal/high_mag_cam-1744987119042730-32946129907648-328608-001-2148-1376-151-236_rawcolor.png){.mag-high}
 
-![](ideal/high_mag_cam-1744987121567721-32948629653456-328633-003-1484-1096-244-160_rawcolor.png)
+![[High mag]{.mag-badge .mag-badge-high}](ideal/high_mag_cam-1744987121567721-32948629653456-328633-003-1484-1096-244-160_rawcolor.png){.mag-high}
 
 :::
 
@@ -45,11 +45,11 @@ Cells are elliptical in girdle view and bear two blunt, broad polar elevations (
 
 ::: {layout-ncol="3"}
 
-![](challenging/high_mag_cam-1744957305295276-3132135504592-30437-005-1614-1498-356-400_rawcolor.png)
+![[High mag]{.mag-badge .mag-badge-high}](challenging/high_mag_cam-1744957305295276-3132135504592-30437-005-1614-1498-356-400_rawcolor.png){.mag-high}
 
-![Focusing in on the large apperature.](challenging/high_mag_cam-1744975618846879-21445832356272-213593-003-1718-594-172-188_rawcolor.png)
+![[High mag]{.mag-badge .mag-badge-high} Focusing in on the large apperature.](challenging/high_mag_cam-1744975618846879-21445832356272-213593-003-1718-594-172-188_rawcolor.png){.mag-high}
 
-![](challenging/high_mag_cam-1744987134650896-32961728289728-328764-000-416-1140-172-192_rawcolor.png)
+![[High mag]{.mag-badge .mag-badge-high}](challenging/high_mag_cam-1744987134650896-32961728289728-328764-000-416-1140-172-192_rawcolor.png){.mag-high}
 
 :::
 

@@ -1,0 +1,17 @@
+class_id: centric
+display_name: Centric
+group: Diatoms
+optics: [high-mag, low-mag]
+one_liner: "Catch-all for radially symmetric centric diatoms that can't be confidently assigned to a more specific genus."
+defining_characteristics: "Centric diatoms are radially symmetric. Cells are typically disc-, drum-, cylinder-, or box-shaped. Use this class for non-chain centric cells that cannot be keyed into other labels. Key features: Circular or polygonal valve outline, often single cells from chain-forming species."
+distinguishing_from:
+  - class: pennate
+    note: "Pennate diatoms are elongate and bilaterally symmetric; centric diatoms are radially symmetric."
+  - class: thalassiosira
+    note: "Only use Thalassiosira for single cells if spine is visible, otherwise centric."
+references:
+  - title: "UCSC Ocean Data Center — Phytoplankton Gallery"
+    url: http://oceandatacenter.ucsc.edu/PhytoGallery/
+image_notes:
+  ideal/i1.png: Coin-like centric, slight tilted out of valve view.
+  ideal/i4.png: Single centric diatom.

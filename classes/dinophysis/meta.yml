@@ -1,0 +1,24 @@
+class_id: dinophysis
+display_name: Dinophysis
+group: Dinoflagellates
+optics: [high-mag, low-mag]
+one_liner: "Laterally flattened armored dinoflagellate with a crown and wing/flange (aka lists) on side."
+defining_characteristics: "A thecate dinoflagellate that is strongly compressed laterally, so it looks like two watch-glasses joined edge to edge (clamshell). The anterior end bears a funnel-shaped cingular list (collar), and prominent wing (or sail) sulcal lists project from the left ventral margin. Often filled with food vaccole. Key features: lateral flattening, sail-like sulcal lists."
+distinguishing_from:
+  - class: ceratium
+    note: "Ceratium has long apical and antapical horns; Dinophysis has no horns but conspicuous cingular and sulcal lists."
+  - class: prorocentrum
+    note: "Prorocentrum splits into two flat valves along a sagittal suture with an apical spine; Dinophysis has the funnel collar and sail lists."
+references:
+  - title: "Dinophysis — Phyto'pedia - The Phytoplankton Encclopaedia Project (UBC)"
+    url: https://phytoplankton.eoas.ubc.ca/research/phytoplankton/dinoflagellates/dinophysis/dinophysis_genus.html
+  - title: "Dinophysis - PhytoGallery UCSC"
+    url: http://oceandatacenter.ucsc.edu/PhytoGallery/Dinoflagellates/dinophysis.html
+
+image_notes:
+  ideal/high_mag_cam-1757571622167503-997412011704-8849-002-2198-1212-101-128_rawcolor.png: Typical shape is visible, wings (cingular list) are visible;
+  ideal/00116_0.938_high_mag_cam-1757584157075088-13532415997240-134212-001-1882-682-116-148_rawcolor.png: Well devfined shape. Food vacuoles are also visible as grains within the cell.
+  challenging/00616_0.939_high_mag_cam-1757584204473957-13579811130704-134686-000-1090-1488-104-148_rawcolor.png: Cell is slightly out of profile axis, but cingular list is still present.
+  challenging/00475_0.941_high_mag_cam-1757517892049971-35017265824728-349317-001-0-1760-208-192_rawcolor.png: Daughter cells during mitotic division. Cells divide in a bookmatched orientation.
+  
+

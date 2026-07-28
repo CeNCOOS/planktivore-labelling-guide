@@ -1,0 +1,21 @@
+class_id: skeletonema
+display_name: Skeletonema
+group: Diatoms
+optics: [high-mag, low-mag]
+one_liner: "Small cylindrical centric diatoms in chains, linked by a ring of long external tubular processes that leave a visible gap between cells."
+defining_characteristics: "Cells are small, drum- to cylinder-shaped centric diatoms joined into straight chains. Adjacent cells are connected by a ring of long strutted processes around the valve margin, leaving a characteristic open, ladder-like gap between neighbouring cells. This feature can be challenging to see in the planktivoire. Key features: chains of small cylinders, marginal ring of linking tubes, visible inter-cell gap, Two Chloroplasts per cell. Highly abundant."
+distinguishing_from:
+  - class: thalassiosira
+    note: "Thalassiosira cells hang from a single fine central thread and sit close together; Skeletonema cells are bridged by a ring of marginal tubes with an obvious gap."
+  - class: chaetoceros
+    note: "Chaetoceros links cells with thin setae, can be challening to see in Planktovoire."
+references:
+  - title: "Skeletonema costatum - Phyto'pedia: The Phytoplankton Encyclopaedia Project (UBC)"
+    url: https://phytoplankton.eoas.ubc.ca/research/phytoplankton/diatoms/centric/skeletonema/s_costatum.html
+  - title: "Guide to Skeletonema — Diatoms of North America"
+    url: https://diatoms.org/genera/skeletonema/guide
+
+image_notes:
+  ideal/high_mag_cam-1744682027348580-3974162008592-39066-000-2202-0-97-112_rawcolor.png: Gab between adjacent cells (striated processe) is an important clue.
+  ideal/high_mag_cam-1744975563175143-21390138095704-213036-004-94-1146-284-296_rawcolor.png: Straight, chained with two choroplasts per cell and gaps between cells.
+  challenging/high_mag_cam-1744681216229592-3163043232216-30954-003-1950-0-349-292_rawcolor.png: Missing cells or auxospores can form within a chain.
