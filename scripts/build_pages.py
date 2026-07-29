@@ -61,16 +61,51 @@ def find_images(class_dir: Path, subset: str) -> list[str]:
 
 OPTICS_LABEL = {"high": "High mag", "low": "Low mag"}
 
+# Fallback used when an image's optics can't be determined from its filename,
+# a per-image override, or a per-class default. The project is currently all
+# high-magnification, so untagged images are treated as high mag. Set to None
+# to leave such images untagged instead.
+PROJECT_DEFAULT_OPTICS = "high"
+
+
+def _norm_optics(value) -> str | None:
+    if not value:
+        return None
+    v = str(value).strip().lower()
+    if v.startswith("high"):
+        return "high"
+    if v.startswith("low"):
+        return "low"
+    return None
+
 
 def image_optics(name: str) -> str | None:
-    """Infer the optics an image came from, using the filename convention
-    (high_mag_cam-... / low_mag_cam-...). Returns 'high', 'low', or None."""
+    """Infer optics from the filename convention (high_mag_cam-... /
+    low_mag_cam-...). Returns 'high', 'low', or None."""
     n = name.lower()
     if "high_mag" in n or "highmag" in n or "high-mag" in n:
         return "high"
     if "low_mag" in n or "lowmag" in n or "low-mag" in n:
         return "low"
     return None
+
+
+def resolve_optics(rel: str, name: str, meta: dict) -> str | None:
+    """Determine an image's optics, in priority order:
+    1. explicit per-image override in meta.yml `image_optics: {path: high|low}`
+    2. the filename convention (high_mag_* / low_mag_*)
+    3. the class-level `optics_default:` field
+    4. the project-wide PROJECT_DEFAULT_OPTICS fallback."""
+    override = _norm_optics((meta.get("image_optics") or {}).get(rel))
+    if override:
+        return override
+    from_name = image_optics(name)
+    if from_name:
+        return from_name
+    class_default = _norm_optics(meta.get("optics_default"))
+    if class_default:
+        return class_default
+    return PROJECT_DEFAULT_OPTICS
 
 
 def image_grid(class_dir: Path, subset: str, meta: dict, path_prefix: str) -> str:
@@ -87,7 +122,7 @@ def image_grid(class_dir: Path, subset: str, meta: dict, path_prefix: str) -> st
         rel = f"{subset}/{name}"
         note = collapse(notes.get(rel, ""))
         src = f"{path_prefix}{rel}"
-        optics = image_optics(name)
+        optics = resolve_optics(rel, name, meta)
         if optics:
             badge = f"[{OPTICS_LABEL[optics]}]{{.mag-badge .mag-badge-{optics}}}"
             caption = f"{badge} {note}".strip()

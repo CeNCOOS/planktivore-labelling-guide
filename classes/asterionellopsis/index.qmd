@@ -24,15 +24,15 @@ Cells are club-shaped (clavate): one end is expanded into a heavier "foot" while
 
 ::: {layout-ncol="3"}
 
-![Helical chain and angular clubed foot are good indicators](ideal/i1.png)
+![[High mag]{.mag-badge .mag-badge-high} Helical chain and angular clubed foot are good indicators](ideal/i1.png){.mag-high}
 
-![](ideal/i2.png)
+![[High mag]{.mag-badge .mag-badge-high}](ideal/i2.png){.mag-high}
 
-![Chain mostly in girdle view with foot pole clearly visible.](ideal/i3.png)
+![[High mag]{.mag-badge .mag-badge-high} Chain mostly in girdle view with foot pole clearly visible.](ideal/i3.png){.mag-high}
 
-![Single cell in valve view.](ideal/i4.png)
+![[High mag]{.mag-badge .mag-badge-high} Single cell in valve view.](ideal/i4.png){.mag-high}
 
-![Helical chain. narrow stalks are difficult to see, but the angular, almost triangular foot is indicative.](ideal/i5.png)
+![[High mag]{.mag-badge .mag-badge-high} Helical chain. narrow stalks are difficult to see, but the angular, almost triangular foot is indicative.](ideal/i5.png){.mag-high}
 
 :::
 
@@ -40,13 +40,13 @@ Cells are club-shaped (clavate): one end is expanded into a heavier "foot" while
 
 ::: {layout-ncol="3"}
 
-![](challenging/c1.png)
+![[High mag]{.mag-badge .mag-badge-high}](challenging/c1.png){.mag-high}
 
-![Orientation can make indentifying individual cells challenging, cells appear clumped together, but angular foot is still visible.](challenging/c2.png)
+![[High mag]{.mag-badge .mag-badge-high} Orientation can make indentifying individual cells challenging, cells appear clumped together, but angular foot is still visible.](challenging/c2.png){.mag-high}
 
-![](challenging/c3.png)
+![[High mag]{.mag-badge .mag-badge-high}](challenging/c3.png){.mag-high}
 
-![Lack of focus makes stalks challening to see, focusing on the foot shape is helpful](challenging/c4.png)
+![[High mag]{.mag-badge .mag-badge-high} Lack of focus makes stalks challening to see, focusing on the foot shape is helpful](challenging/c4.png){.mag-high}
 
 :::
 

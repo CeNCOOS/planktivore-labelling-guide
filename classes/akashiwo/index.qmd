@@ -23,17 +23,17 @@ A relatively large athecate ("naked", no armour plates) dinoflagellate that is f
 
 ::: {layout-ncol="3"}
 
-![Hypocone lobes are clear, as is the rounded epicone.](ideal/i1.png)
+![[High mag]{.mag-badge .mag-badge-high} Hypocone lobes are clear, as is the rounded epicone.](ideal/i1.png){.mag-high}
 
-![Mitotic division, daughter cell forms out of one of the lobes of the notched hypocone, giving this distinct stepped shape.](ideal/i2.png)
+![[High mag]{.mag-badge .mag-badge-high} Mitotic division, daughter cell forms out of one of the lobes of the notched hypocone, giving this distinct stepped shape.](ideal/i2.png){.mag-high}
 
-![](ideal/i3.png)
+![[High mag]{.mag-badge .mag-badge-high}](ideal/i3.png){.mag-high}
 
-![](ideal/i4.png)
+![[High mag]{.mag-badge .mag-badge-high}](ideal/i4.png){.mag-high}
 
-![](ideal/i5.png)
+![[High mag]{.mag-badge .mag-badge-high}](ideal/i5.png){.mag-high}
 
-![](ideal/i6.png)
+![[High mag]{.mag-badge .mag-badge-high}](ideal/i6.png){.mag-high}
 
 :::
 
@@ -41,15 +41,15 @@ A relatively large athecate ("naked", no armour plates) dinoflagellate that is f
 
 ::: {layout-ncol="3"}
 
-![Lateral view of Akashiwo (in profile). The the epicone/hypocone are not generally distinguishable, but the slight girdle buldging of the cingulum is a good indicator.](challenging/c1.png)
+![[High mag]{.mag-badge .mag-badge-high} Lateral view of Akashiwo (in profile). The the epicone/hypocone are not generally distinguishable, but the slight girdle buldging of the cingulum is a good indicator.](challenging/c1.png){.mag-high}
 
-![View head on looking down the epicone. These may be challenging to identify, but the asymetry from the notch from the cingulum is a good indicator. Here the pigment colors are also similar to other images.](challenging/c2.png)
+![[High mag]{.mag-badge .mag-badge-high} View head on looking down the epicone. These may be challenging to identify, but the asymetry from the notch from the cingulum is a good indicator. Here the pigment colors are also similar to other images.](challenging/c2.png){.mag-high}
 
-![Profile view. The hypocone is visible at the top. This is a commonly observed view.](challenging/c3.png)
+![[High mag]{.mag-badge .mag-badge-high} Profile view. The hypocone is visible at the top. This is a commonly observed view.](challenging/c3.png){.mag-high}
 
-![Lower quality image, as well as the cell being roted laterally. However, the hypocone is distinctly visible still.](challenging/c4.png)
+![[High mag]{.mag-badge .mag-badge-high} Lower quality image, as well as the cell being roted laterally. However, the hypocone is distinctly visible still.](challenging/c4.png){.mag-high}
 
-![Cells during mitotic division. These cells can take on many different complex shapes, but the daughter cell dividing out of the lobe is a good indicator.](challenging/c5.png)
+![[High mag]{.mag-badge .mag-badge-high} Cells during mitotic division. These cells can take on many different complex shapes, but the daughter cell dividing out of the lobe is a good indicator.](challenging/c5.png){.mag-high}
 
 :::
 

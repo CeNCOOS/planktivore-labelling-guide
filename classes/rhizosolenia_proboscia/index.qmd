@@ -30,7 +30,7 @@ Both genera are elongate, rod- to needle-like centric diatoms, many times longer
 
 ![[High mag]{.mag-badge .mag-badge-high}](ideal/high_mag_cam-1744844604507859-4863076773760-47845-000-478-1054-352-224_rawcolor.png){.mag-high}
 
-![Full cell with needle-like ends visible.](ideal/i1.png)
+![[High mag]{.mag-badge .mag-badge-high} Full cell with needle-like ends visible.](ideal/i1.png){.mag-high}
 
 :::
 

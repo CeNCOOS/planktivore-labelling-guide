@@ -23,13 +23,13 @@ An athecate ("naked") dinoflagellate whose defining trait is a cingulum (girdle)
 
 ::: {layout-ncol="3"}
 
-![Sigmoidal girdle is visible around the enitire cell and pointed theca.](ideal/i1.png)
+![[High mag]{.mag-badge .mag-badge-high} Sigmoidal girdle is visible around the enitire cell and pointed theca.](ideal/i1.png){.mag-high}
 
-![](ideal/i2.png)
+![[High mag]{.mag-badge .mag-badge-high}](ideal/i2.png){.mag-high}
 
-![Food vaccuole is present.](ideal/i3.png)
+![[High mag]{.mag-badge .mag-badge-high} Food vaccuole is present.](ideal/i3.png){.mag-high}
 
-![](ideal/i4.png)
+![[High mag]{.mag-badge .mag-badge-high}](ideal/i4.png){.mag-high}
 
 :::
 
@@ -37,11 +37,11 @@ An athecate ("naked") dinoflagellate whose defining trait is a cingulum (girdle)
 
 ::: {layout-ncol="3"}
 
-![low resolution/blur can make this a challenge, but the cingulum is still present.](challenging/c1.png)
+![[High mag]{.mag-badge .mag-badge-high} low resolution/blur can make this a challenge, but the cingulum is still present.](challenging/c1.png){.mag-high}
 
-![](challenging/c2.png)
+![[High mag]{.mag-badge .mag-badge-high}](challenging/c2.png){.mag-high}
 
-![](challenging/c3.png)
+![[High mag]{.mag-badge .mag-badge-high}](challenging/c3.png){.mag-high}
 
 :::
 

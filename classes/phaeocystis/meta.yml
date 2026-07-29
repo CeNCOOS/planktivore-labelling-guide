@@ -1,0 +1,14 @@
+class_id: phaeocystis
+display_name: Phaeocystis
+group: Other
+optics: [high-mag, low-mag]
+one_liner: "Haptophyte that forms large gelatinous colonies of cells embedded near the surface of a hollow mucilaginous matrix."
+defining_characteristics: "The recognizable bloom form is a colony: many small cells arranged in a single layer just inside the surface of a hollow, gelatinous (mucilaginous) sphere or lobed sac. Colonies can reach several millimetres and blooms produce conspicuous foam. Key features: transparent gelatinous colony matrix, cells arranged at the colony surface."
+distinguishing_from:
+  - class: tiarina
+    note: "Tiarina (a ciliate) is a single motile cell beating cilia; Phaeocystis is a gelatinous colony of many small non-ciliated cells sharing one matrix."
+  - class: centric
+    note: "Diatoms have a rigid silica frustule; Phaeocystis colonies are soft gelatinous spheres with no frustule."
+references:
+  - title: "_Phaeocystis_: A Global Enigma"
+    url: https://epic.awi.de/id/eprint/58376/1/smith-trimborn-2024-phaeocystis-a-global-enigma.pdf

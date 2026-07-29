@@ -24,17 +24,17 @@ Centric diatoms are radially symmetric. Cells are typically disc-, drum-, cylind
 
 ::: {layout-ncol="3"}
 
-![Coin-like centric, slight tilted out of valve view.](ideal/i1.png)
+![[High mag]{.mag-badge .mag-badge-high} Coin-like centric, slight tilted out of valve view.](ideal/i1.png){.mag-high}
 
-![](ideal/i2.png)
+![[High mag]{.mag-badge .mag-badge-high}](ideal/i2.png){.mag-high}
 
-![](ideal/i3.png)
+![[High mag]{.mag-badge .mag-badge-high}](ideal/i3.png){.mag-high}
 
-![Single centric diatom.](ideal/i4.png)
+![[High mag]{.mag-badge .mag-badge-high} Single centric diatom.](ideal/i4.png){.mag-high}
 
-![](ideal/i5.png)
+![[High mag]{.mag-badge .mag-badge-high}](ideal/i5.png){.mag-high}
 
-![](ideal/i6.png)
+![[High mag]{.mag-badge .mag-badge-high}](ideal/i6.png){.mag-high}
 
 :::
 
@@ -42,9 +42,9 @@ Centric diatoms are radially symmetric. Cells are typically disc-, drum-, cylind
 
 ::: {layout-ncol="2"}
 
-![](challenging/c1.png)
+![[High mag]{.mag-badge .mag-badge-high}](challenging/c1.png){.mag-high}
 
-![](challenging/c2.png)
+![[High mag]{.mag-badge .mag-badge-high}](challenging/c2.png){.mag-high}
 
 :::
 

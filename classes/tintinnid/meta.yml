@@ -1,0 +1,14 @@
+class_id: tintinnid
+display_name: Tintinnid
+group: Ciliates
+optics: [high-mag, low-mag]
+one_liner: "Planktonic ciliate that lives in a vase- or tube-shaped lorica (shell), with a ring of oral membranelles at the open end."
+defining_characteristics: "A loricate ciliate: the cell secretes and sits inside a lorica — a cup-, vase-, trumpet-, or tube-shaped shell that may be transparent (hyaline) or built up from agglomerated particles. The ciliate body attaches at the closed end, and a crown of oral ciliary membranelles projects from the wide open mouth when feeding. Lorica shape and ornamentation are the main field characters. Key features: distinct external lorica, oral membranelle crown, a single cell inside the shell."
+distinguishing_from:
+  - class: tiarina
+    note: "Tintinnids sit inside an external lorica (shell); Tiarina and other naked ciliates have no lorica."
+  - class: phaeocystis
+    note: "Phaeocystis is a gelatinous colony of many cells; a tintinnid is one ciliate cell inside a firm lorica."
+references:
+  - title: "Tintinnid ciliates — overview"
+    url: https://sites.evergreen.edu/vms-spring/tintinnid-ciliate/

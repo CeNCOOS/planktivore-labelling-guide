@@ -1,0 +1,14 @@
+class_id: margalefidinium
+display_name: Margalefidinium
+group: Dinoflagellates
+optics: [high-mag, low-mag]
+one_liner: "Unarmored dinoflagellate (formerly Cochlodinium) that forms chains of spirally furrowed cells."
+defining_characteristics: "An athecate dinoflagellate which typically forms motile chains of 2, 4, or up to 8 cells. The cingulum is deeply displaced and spirals around the cell. Key features: chains of naked cells, strongly spiral girdle, chloroplast-filled cells."
+distinguishing_from:
+  - class: gyrodinium
+    note: "Gyrodinium is typically solitary with a single sigmoid girdle; Margalefidinium swims in chains with a spirally wound cingulum."
+  - class: polykrikos
+    note: "Polykrikos is a fused pseudocolony bearing nematocysts and usually lacking chloroplasts; Margalefidinium forms chains of separate photosynthetic cells."
+references:
+  - title: "Margalefidinium - UCSC PhytoGallery"
+    url: http://oceandatacenter.ucsc.edu/PhytoGallery/Dinoflagellates/margalefidinium.html

@@ -35,7 +35,7 @@ Cells are narrow, straight, rod- or bar-shaped with rounded to slightly swollen 
 
 ![[High mag]{.mag-badge .mag-badge-high}](ideal/high_mag_cam-1744957314897830-3141734509648-30533-001-1638-338-116-168_rawcolor.png){.mag-high}
 
-![Curved-spiral chain; blunt horns and lens-shaped apertures clearly visible.](ideal/i1.png)
+![[High mag]{.mag-badge .mag-badge-high} Curved-spiral chain; blunt horns and lens-shaped apertures clearly visible.](ideal/i1.png){.mag-high}
 
 :::
 
@@ -43,7 +43,7 @@ Cells are narrow, straight, rod- or bar-shaped with rounded to slightly swollen 
 
 ::: {layout-ncol="1"}
 
-![Bunched up cells can get messy and difficult to distinguish.](challenging/c1.png)
+![[High mag]{.mag-badge .mag-badge-high} Bunched up cells can get messy and difficult to distinguish.](challenging/c1.png){.mag-high}
 
 :::
 

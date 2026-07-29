@@ -45,6 +45,8 @@ Cells are elliptical in girdle view and bear two blunt, broad polar elevations (
 
 ::: {layout-ncol="3"}
 
+![[High mag]{.mag-badge .mag-badge-high}](challenging/3142921.jpg){.mag-high}
+
 ![[High mag]{.mag-badge .mag-badge-high}](challenging/high_mag_cam-1744957305295276-3132135504592-30437-005-1614-1498-356-400_rawcolor.png){.mag-high}
 
 ![[High mag]{.mag-badge .mag-badge-high} Focusing in on the large apperature.](challenging/high_mag_cam-1744975618846879-21445832356272-213593-003-1718-594-172-188_rawcolor.png){.mag-high}

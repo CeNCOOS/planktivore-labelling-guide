@@ -1,0 +1,15 @@
+class_id: polykrikos
+display_name: Polykrikos
+group: Dinoflagellates
+optics: [high-mag, low-mag]
+one_liner: "Unarmored dinoflagellate that forms a pseudocolony of fused cell units (zooids) with multiple girdles."
+defining_characteristics: "An athecate (naked) dinoflagellate whose cells are joined into a pseudocolony (typically 2, 4, or 8 fused zooids) with multiple transverse girdles and fewer nuclei than zooids. Key features: fused multi-unit pseudocolony, several girdles per unit, food vacuoles are often visible."
+distinguishing_from:
+  - class: margalefidinium
+    note: "Margalefidinium forms chains of separate photosynthetic (chloroplast-filled) cells; Polykrikos is a fused pseudocolony with multiple girdles and often without chloroplasts"
+  - class: gyrodinium
+    note: "Gyrodinium is a single naked cell with one sigmoid girdle; Polykrikos is a pseudocolony of fused zooids with several girdles."
+references:
+  - title: "Polykrikos — UCSC PhytoGallery"
+    url: http://oceandatacenter.ucsc.edu/PhytoGallery/Dinoflagellates/Polykrikos.html
+    

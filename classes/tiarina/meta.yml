@@ -1,0 +1,14 @@
+class_id: tiarina
+display_name: Tiarina
+group: Ciliates
+optics: [high-mag, low-mag]
+one_liner: "Naked, spindle-shaped (fusiform) planktonic ciliate with longitudinal ciliary rows; an active predator of dinoflagellates."
+defining_characteristics: "A fusiform (spindle shaped) naked ciliate (ie aloricate) with an apical mouth region and many longitudinal rows of cilia (kineties) running the length of a fairly rigid pellicle (often not resolved with planktivore), which often gives a finely striped appearance. Key features: tapered spindle outline (fusiform), lengthwise ciliary rows, a single motile cell with no lorica."
+distinguishing_from:
+  - class: tintinnid
+    note: "Tintinnids sit inside an external lorica (shell); Tiarina is a naked spindle-shaped cell with no lorica."
+  - class: phaeocystis
+    note: "Phaeocystis is a gelatinous colony of many small non-ciliated cells; Tiarina is a single ciliated cell."
+references:
+  - title: "Tiarina fusus — overview"
+    url: https://sites.evergreen.edu/vms/tiarina-fusus-bf/

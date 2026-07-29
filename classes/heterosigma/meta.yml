@@ -1,0 +1,15 @@
+class_id: heterosigma
+display_name: Heterosigma
+group: Other
+optics: [high-mag, low-mag]
+one_liner: "Naked, golden-brown biflagellate raphidophyte with many peripheral chloroplasts."
+defining_characteristics: "A raphidophyte: a naked (wall-less) flagellate, ovoid to slightly dorsoventrally flattened, with two unequal flagella (though not easily seen in the planktivore) emerging from a subapical groove and numerous discoid golden-brown chloroplasts arranged around the cell periphery. It has no silica frustule, no thecal plates, and no cingulum. Heterosigma akashiwo forms ichthyotoxic red tides, most recently in San Francisco Bay. Key features: naked flexible cell, two flagella, many peripheral golden chloroplasts, no skeleton or plates."
+distinguishing_from:
+  - class: gyrodinium
+    note: "Unarmored dinoflagellates have a distinct cingulum (girdle) encircling the cell; Heterosigma has no girdle — just two flagella from a subapical pit."
+  - class: dictyocha
+    note: "Dictyocha carries an internal silica skeleton; Heterosigma is entirely naked with no skeleton."
+references:
+  - title: "Heterosigma akashiwo — UCSC PhytoGallery"
+    url: http://oceandatacenter.ucsc.edu/PhytoGallery/Other/h_akashiwo.html
+    

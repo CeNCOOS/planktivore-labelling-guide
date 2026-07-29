@@ -31,17 +31,17 @@ A relatively large athecate ("naked", no armour plates) dinoflagellate that is f
 
 ::: {layout-ncol="3"}
 
-![Hypocone lobes are clear, as is the rounded epicone.](classes/akashiwo/ideal/i1.png)
+![[High mag]{.mag-badge .mag-badge-high} Hypocone lobes are clear, as is the rounded epicone.](classes/akashiwo/ideal/i1.png){.mag-high}
 
-![Mitotic division, daughter cell forms out of one of the lobes of the notched hypocone, giving this distinct stepped shape.](classes/akashiwo/ideal/i2.png)
+![[High mag]{.mag-badge .mag-badge-high} Mitotic division, daughter cell forms out of one of the lobes of the notched hypocone, giving this distinct stepped shape.](classes/akashiwo/ideal/i2.png){.mag-high}
 
-![](classes/akashiwo/ideal/i3.png)
+![[High mag]{.mag-badge .mag-badge-high}](classes/akashiwo/ideal/i3.png){.mag-high}
 
-![](classes/akashiwo/ideal/i4.png)
+![[High mag]{.mag-badge .mag-badge-high}](classes/akashiwo/ideal/i4.png){.mag-high}
 
-![](classes/akashiwo/ideal/i5.png)
+![[High mag]{.mag-badge .mag-badge-high}](classes/akashiwo/ideal/i5.png){.mag-high}
 
-![](classes/akashiwo/ideal/i6.png)
+![[High mag]{.mag-badge .mag-badge-high}](classes/akashiwo/ideal/i6.png){.mag-high}
 
 :::
 
@@ -49,15 +49,15 @@ A relatively large athecate ("naked", no armour plates) dinoflagellate that is f
 
 ::: {layout-ncol="3"}
 
-![Lateral view of Akashiwo (in profile). The the epicone/hypocone are not generally distinguishable, but the slight girdle buldging of the cingulum is a good indicator.](classes/akashiwo/challenging/c1.png)
+![[High mag]{.mag-badge .mag-badge-high} Lateral view of Akashiwo (in profile). The the epicone/hypocone are not generally distinguishable, but the slight girdle buldging of the cingulum is a good indicator.](classes/akashiwo/challenging/c1.png){.mag-high}
 
-![View head on looking down the epicone. These may be challenging to identify, but the asymetry from the notch from the cingulum is a good indicator. Here the pigment colors are also similar to other images.](classes/akashiwo/challenging/c2.png)
+![[High mag]{.mag-badge .mag-badge-high} View head on looking down the epicone. These may be challenging to identify, but the asymetry from the notch from the cingulum is a good indicator. Here the pigment colors are also similar to other images.](classes/akashiwo/challenging/c2.png){.mag-high}
 
-![Profile view. The hypocone is visible at the top. This is a commonly observed view.](classes/akashiwo/challenging/c3.png)
+![[High mag]{.mag-badge .mag-badge-high} Profile view. The hypocone is visible at the top. This is a commonly observed view.](classes/akashiwo/challenging/c3.png){.mag-high}
 
-![Lower quality image, as well as the cell being roted laterally. However, the hypocone is distinctly visible still.](classes/akashiwo/challenging/c4.png)
+![[High mag]{.mag-badge .mag-badge-high} Lower quality image, as well as the cell being roted laterally. However, the hypocone is distinctly visible still.](classes/akashiwo/challenging/c4.png){.mag-high}
 
-![Cells during mitotic division. These cells can take on many different complex shapes, but the daughter cell dividing out of the lobe is a good indicator.](classes/akashiwo/challenging/c5.png)
+![[High mag]{.mag-badge .mag-badge-high} Cells during mitotic division. These cells can take on many different complex shapes, but the daughter cell dividing out of the lobe is a good indicator.](classes/akashiwo/challenging/c5.png){.mag-high}
 
 :::
 
@@ -86,15 +86,15 @@ Cells are club-shaped (clavate): one end is expanded into a heavier "foot" while
 
 ::: {layout-ncol="3"}
 
-![Helical chain and angular clubed foot are good indicators](classes/asterionellopsis/ideal/i1.png)
+![[High mag]{.mag-badge .mag-badge-high} Helical chain and angular clubed foot are good indicators](classes/asterionellopsis/ideal/i1.png){.mag-high}
 
-![](classes/asterionellopsis/ideal/i2.png)
+![[High mag]{.mag-badge .mag-badge-high}](classes/asterionellopsis/ideal/i2.png){.mag-high}
 
-![Chain mostly in girdle view with foot pole clearly visible.](classes/asterionellopsis/ideal/i3.png)
+![[High mag]{.mag-badge .mag-badge-high} Chain mostly in girdle view with foot pole clearly visible.](classes/asterionellopsis/ideal/i3.png){.mag-high}
 
-![Single cell in valve view.](classes/asterionellopsis/ideal/i4.png)
+![[High mag]{.mag-badge .mag-badge-high} Single cell in valve view.](classes/asterionellopsis/ideal/i4.png){.mag-high}
 
-![Helical chain. narrow stalks are difficult to see, but the angular, almost triangular foot is indicative.](classes/asterionellopsis/ideal/i5.png)
+![[High mag]{.mag-badge .mag-badge-high} Helical chain. narrow stalks are difficult to see, but the angular, almost triangular foot is indicative.](classes/asterionellopsis/ideal/i5.png){.mag-high}
 
 :::
 
@@ -102,13 +102,13 @@ Cells are club-shaped (clavate): one end is expanded into a heavier "foot" while
 
 ::: {layout-ncol="3"}
 
-![](classes/asterionellopsis/challenging/c1.png)
+![[High mag]{.mag-badge .mag-badge-high}](classes/asterionellopsis/challenging/c1.png){.mag-high}
 
-![Orientation can make indentifying individual cells challenging, cells appear clumped together, but angular foot is still visible.](classes/asterionellopsis/challenging/c2.png)
+![[High mag]{.mag-badge .mag-badge-high} Orientation can make indentifying individual cells challenging, cells appear clumped together, but angular foot is still visible.](classes/asterionellopsis/challenging/c2.png){.mag-high}
 
-![](classes/asterionellopsis/challenging/c3.png)
+![[High mag]{.mag-badge .mag-badge-high}](classes/asterionellopsis/challenging/c3.png){.mag-high}
 
-![Lack of focus makes stalks challening to see, focusing on the foot shape is helpful](classes/asterionellopsis/challenging/c4.png)
+![[High mag]{.mag-badge .mag-badge-high} Lack of focus makes stalks challening to see, focusing on the foot shape is helpful](classes/asterionellopsis/challenging/c4.png){.mag-high}
 
 :::
 
@@ -137,17 +137,17 @@ Centric diatoms are radially symmetric. Cells are typically disc-, drum-, cylind
 
 ::: {layout-ncol="3"}
 
-![Coin-like centric, slight tilted out of valve view.](classes/centric/ideal/i1.png)
+![[High mag]{.mag-badge .mag-badge-high} Coin-like centric, slight tilted out of valve view.](classes/centric/ideal/i1.png){.mag-high}
 
-![](classes/centric/ideal/i2.png)
+![[High mag]{.mag-badge .mag-badge-high}](classes/centric/ideal/i2.png){.mag-high}
 
-![](classes/centric/ideal/i3.png)
+![[High mag]{.mag-badge .mag-badge-high}](classes/centric/ideal/i3.png){.mag-high}
 
-![Single centric diatom.](classes/centric/ideal/i4.png)
+![[High mag]{.mag-badge .mag-badge-high} Single centric diatom.](classes/centric/ideal/i4.png){.mag-high}
 
-![](classes/centric/ideal/i5.png)
+![[High mag]{.mag-badge .mag-badge-high}](classes/centric/ideal/i5.png){.mag-high}
 
-![](classes/centric/ideal/i6.png)
+![[High mag]{.mag-badge .mag-badge-high}](classes/centric/ideal/i6.png){.mag-high}
 
 :::
 
@@ -155,9 +155,9 @@ Centric diatoms are radially symmetric. Cells are typically disc-, drum-, cylind
 
 ::: {layout-ncol="2"}
 
-![](classes/centric/challenging/c1.png)
+![[High mag]{.mag-badge .mag-badge-high}](classes/centric/challenging/c1.png){.mag-high}
 
-![](classes/centric/challenging/c2.png)
+![[High mag]{.mag-badge .mag-badge-high}](classes/centric/challenging/c2.png){.mag-high}
 
 :::
 
@@ -172,7 +172,7 @@ Centric diatoms are radially symmetric. Cells are typically disc-, drum-, cylind
 
 ## Defining characteristics
 
-An armored dinoflagellate whose plates are drawn out into long, slender horns: a single apical horn and usually two antapical horns that curve upward, giving a distinctive trident silhouette. Species in Monterey also The marine species are now placed in the genus Tripos, but are still often refered to as Ceratium. Key features: multiple long horns, rigid armored plates, relatively large size.
+An armored dinoflagellate whose plates are drawn out into long, slender horns: a single apical horn and usually two antapical horns that curve upward, giving a distinctive trident silhouette. Several species in Monterey, including ~T. divaricatum~ which hasns very short horns. The marine species are now placed in the genus Tripos, but are still often refered to as Ceratium. Key features: multiple long horns, rigid armored plates, relatively large.
 
 ## Distinguishing from similar classes
 
@@ -183,15 +183,35 @@ An armored dinoflagellate whose plates are drawn out into long, slender horns: a
 
 ## Ideal images
 
-_No images yet — add files to this folder._
+::: {layout-ncol="3"}
+
+![[High mag]{.mag-badge .mag-badge-high} Lower lighting, but the characteristic erpithecal horns (batman) and long apical horn are present.](classes/ceratium/ideal/high_mag_cam-1744678866371717-813179436728-7453-001-772-1678-108-164_rawcolor.png){.mag-high}
+
+![[High mag]{.mag-badge .mag-badge-high} In addition to the horns, _T. leneatum_ has a pentagonal body shape.](classes/ceratium/ideal/high_mag_cam-1744692712251928-1752162668760-16842-001-1968-1684-104-176_rawcolor.png){.mag-high}
+
+![[High mag]{.mag-badge .mag-badge-high}](classes/ceratium/ideal/high_mag_cam-1744718640388086-27680144693272-276148-001-1916-424-88-224_rawcolor.png){.mag-high}
+
+![[High mag]{.mag-badge .mag-badge-high}](classes/ceratium/ideal/high_mag_cam-1744987138744521-32965827880672-328805-003-1780-82-60-244_rawcolor.png){.mag-high}
+
+![[High mag]{.mag-badge .mag-badge-high}](classes/ceratium/ideal/high_mag_i1.png){.mag-high}
+
+:::
 
 ## Challenging images
 
-_No images yet — add files to this folder._
+::: {layout-ncol="3"}
+
+![[High mag]{.mag-badge .mag-badge-high} Seen in profile with low lighting, long apical horn and shorted epitecal.](classes/ceratium/challenging/high_mag_c1.png){.mag-high}
+
+![[High mag]{.mag-badge .mag-badge-high} Cell from profile view.](classes/ceratium/challenging/high_mag_cam-1744759410114961-10300906721944-102310-000-874-1612-204-96_rawcolor.png){.mag-high}
+
+![[High mag]{.mag-badge .mag-badge-high} Cell from profile both horns are visible.](classes/ceratium/challenging/high_mag_cam-1744858585910887-18844568456488-187674-000-914-900-60-216_rawcolor.png){.mag-high}
+
+:::
 
 ## References
 
-- [Ceratium — Wikipedia](https://en.wikipedia.org/wiki/Ceratium)
+- [Ceratium furca — Phyto'pedia - The Phytoplankton Encclopaedia Project (UBC)](https://phytoplankton.eoas.ubc.ca/research/phytoplankton/dinoflagellates/ceratium/c_furca.html)
 - [UCSC PhytoGallery](http://oceandatacenter.ucsc.edu/PhytoGallery/Dinoflagellates/ceratium.html)
 
 
@@ -253,13 +273,41 @@ Cells are joined valve-to-valve into chains with an space between adjacent valve
 - [UCSC PhytoGallery](http://oceandatacenter.ucsc.edu/PhytoGallery/Diatoms/Chaetoceros.html)
 
 
+# Dictyocha
+
+**Group:** Other  ·  **Optics:** high-mag, low-mag
+
+## Defining characteristics
+
+A silicoflagellate: the cell contains an internal siliceous (opaline) skeleton built from a basal ring with radiating spines and struts, often looking like an open star, wheel, or basket. The living cell is a single flagellate with many small golden-brown chloroplasts around the skeleton. Dictyocha fibula and D. speculum are common. Key features: geometric open silica skeleton with spines (not a solid frustule), single cell.
+
+## Distinguishing from similar classes
+
+| Similar class | How to tell them apart |
+|---|---|
+| **centric** | Diatoms have a solid, box-like silica frustule; Dictyocha's silica is an open latticed skeleton of a ring plus spines, not a pillbox valve. |
+| **heterosigma** | Heterosigma is a naked flagellate with no silica; Dictyocha has a rigid internal silica skeleton. |
+
+## Ideal images
+
+_No images yet — add files to this folder._
+
+## Challenging images
+
+_No images yet — add files to this folder._
+
+## References
+
+- [UCSC Ocean Data Center — Phytoplankton Gallery](http://oceandatacenter.ucsc.edu/PhytoGallery/)
+
+
 # Dinophysis
 
 **Group:** Dinoflagellates  ·  **Optics:** high-mag, low-mag
 
 ## Defining characteristics
 
-A thecate dinoflagellate that is strongly compressed laterally, so it looks like two watch-glasses joined edge to edge (oval or bean-shaped in side view). The anterior end bears a funnel-shaped cingular list (collar), and prominent wing- or sail-like sulcal lists project from the left ventral margin. Several species (e.g. Dinophysis acuminata) produce diarrhetic shellfish toxins. Key features: lateral flattening, funnel cingular list, sail-like sulcal lists.
+A thecate dinoflagellate that is strongly compressed laterally, so it looks like two watch-glasses joined edge to edge (clamshell). The anterior end bears a funnel-shaped cingular list (collar), and prominent wing (or sail) sulcal lists project from the left ventral margin. Often filled with food vaccole. Key features: lateral flattening, sail-like sulcal lists.
 
 ## Distinguishing from similar classes
 
@@ -270,15 +318,40 @@ A thecate dinoflagellate that is strongly compressed laterally, so it looks like
 
 ## Ideal images
 
-_No images yet — add files to this folder._
+::: {layout-ncol="3"}
+
+![[High mag]{.mag-badge .mag-badge-high} Well devfined shape. Food vacuoles are also visible as grains within the cell.](classes/dinophysis/ideal/00116_0.938_high_mag_cam-1757584157075088-13532415997240-134212-001-1882-682-116-148_rawcolor.png){.mag-high}
+
+![[High mag]{.mag-badge .mag-badge-high}](classes/dinophysis/ideal/high_mag_cam-1744715681472096-24721243305760-246556-000-206-1538-100-140_rawcolor.png){.mag-high}
+
+![[High mag]{.mag-badge .mag-badge-high}](classes/dinophysis/ideal/high_mag_cam-1757500774970419-17900064873272-178127-000-1366-1438-132-140_rawcolor.png){.mag-high}
+
+![[High mag]{.mag-badge .mag-badge-high} Typical shape is visible, wings (cingular list) are visible;](classes/dinophysis/ideal/high_mag_cam-1757571622167503-997412011704-8849-002-2198-1212-101-128_rawcolor.png){.mag-high}
+
+![[High mag]{.mag-badge .mag-badge-high}](classes/dinophysis/ideal/high_mag_cam-1757604088827024-33464296688704-333551-001-2082-766-152-140_rawcolor.png){.mag-high}
+
+![[High mag]{.mag-badge .mag-badge-high}](classes/dinophysis/ideal/high_mag_cam-1757615842142501-45217691901544-451097-003-1098-292-112-140_rawcolor.png){.mag-high}
+
+:::
 
 ## Challenging images
 
-_No images yet — add files to this folder._
+::: {layout-ncol="3"}
+
+![[High mag]{.mag-badge .mag-badge-high} Daughter cells during mitotic division. Cells divide in a bookmatched orientation.](classes/dinophysis/challenging/00475_0.941_high_mag_cam-1757517892049971-35017265824728-349317-001-0-1760-208-192_rawcolor.png){.mag-high}
+
+![[High mag]{.mag-badge .mag-badge-high}](classes/dinophysis/challenging/00531_0.940_high_mag_cam-1757517890756756-35015965959624-349304-002-368-1206-132-120_rawcolor.png){.mag-high}
+
+![[High mag]{.mag-badge .mag-badge-high} Cell is slightly out of profile axis, but cingular list is still present.](classes/dinophysis/challenging/00616_0.939_high_mag_cam-1757584204473957-13579811130704-134686-000-1090-1488-104-148_rawcolor.png){.mag-high}
+
+![[High mag]{.mag-badge .mag-badge-high}](classes/dinophysis/challenging/high_mag_cam-1744986765297480-32592366359648-325070-004-964-12-124-116_rawcolor.png){.mag-high}
+
+:::
 
 ## References
 
-- [Dinophysis — overview (ScienceDirect Topics)](https://www.sciencedirect.com/topics/agricultural-and-biological-sciences/dinophysis)
+- [Dinophysis — Phyto'pedia - The Phytoplankton Encclopaedia Project (UBC)](https://phytoplankton.eoas.ubc.ca/research/phytoplankton/dinoflagellates/dinophysis/dinophysis_genus.html)
+- [Dinophysis - PhytoGallery UCSC](http://oceandatacenter.ucsc.edu/PhytoGallery/Dinoflagellates/dinophysis.html)
 
 
 # Ditylum
@@ -287,7 +360,7 @@ _No images yet — add files to this folder._
 
 ## Defining characteristics
 
-Cells are elongate prisms — triangular or quadrangular in cross-section — so they look rectangular in girdle view, with a distinctive central spine emerging from the middle of each (usually flat) valve plus a ring of small marginal spines. Often solitary or in short chains and relatively large. Ditylum brightwellii is the common species. Key features: prismatic (polygonal cross-section) box shape, prominent central valve spine.
+Cells are elongate prisms but appear rectangular in girdle view, with a distinctive central spine emerging from the middle of each valve plus a ring of small marginal spines. Often solitary or in short chains and relatively large. Ditylum brightwellii is the common species. Key features: prismatic (polygonal cross-section) box shape, prominent central valve spine, chloroplasts are visbile.
 
 ## Distinguishing from similar classes
 
@@ -298,7 +371,27 @@ Cells are elongate prisms — triangular or quadrangular in cross-section — so
 
 ## Ideal images
 
-_No images yet — add files to this folder._
+::: {layout-ncol="3"}
+
+![[High mag]{.mag-badge .mag-badge-high} Valve appears rectangular with rounded edges and the central spine.](classes/ditylum/ideal/high_mag_cam-1744682083045489-4029856456672-39623-001-1582-566-232-224_rawcolor.png){.mag-high}
+
+![[High mag]{.mag-badge .mag-badge-high}](classes/ditylum/ideal/high_mag_cam-1744682083066048-4029856456672-39623-003-1846-408-180-152_rawcolor.png){.mag-high}
+
+![[High mag]{.mag-badge .mag-badge-high} Small, compact chloroplasts are visible.](classes/ditylum/ideal/high_mag_cam-1744682268838899-4215637849216-41481-001-524-0-248-480_rawcolor.png){.mag-high}
+
+![[Low mag]{.mag-badge .mag-badge-low}](classes/ditylum/ideal/low_mag_cam-1713373814418788-2857347118568-28006-069-688-1188-56-72_rawcolor.png.png){.mag-low}
+
+![[Low mag]{.mag-badge .mag-badge-low}](classes/ditylum/ideal/low_mag_cam-1749521725958346-6698154892272-65818-036-1626-1754-44-64_rawcolor.png.png){.mag-low}
+
+![[Low mag]{.mag-badge .mag-badge-low}](classes/ditylum/ideal/low_mag_cam-1749531774878632-4792832597624-46988-014-1336-528-56-96_rawcolor.png.png){.mag-low}
+
+![[Low mag]{.mag-badge .mag-badge-low}](classes/ditylum/ideal/low_mag_cam-1749538763531796-11781430682728-116881-151-26-754-36-68_rawcolor.png.png){.mag-low}
+
+![[Low mag]{.mag-badge .mag-badge-low}](classes/ditylum/ideal/low_mag_cam-1749549633977431-22651841516648-225596-047-406-394-44-48_rawcolor.png.png){.mag-low}
+
+![[Low mag]{.mag-badge .mag-badge-low}](classes/ditylum/ideal/low_mag_cam-1749643838369230-46555067607728-463781-005-1274-1724-32-36_rawcolor.png.png){.mag-low}
+
+:::
 
 ## Challenging images
 
@@ -306,7 +399,8 @@ _No images yet — add files to this folder._
 
 ## References
 
-- [Ditylum — overview (ScienceDirect Topics)](https://www.sciencedirect.com/topics/agricultural-and-biological-sciences/ditylum)
+- [Ditylum — UCSC PhytoGallery](http://oceandatacenter.ucsc.edu/PhytoGallery/Diatoms/ditylum.html)
+- [Ditylum - Phyto'pedia - The Phytoplankton Encyclopaedia Project](https://phytoplankton.eoas.ubc.ca/research/phytoplankton/diatoms/centric/ditylum/d_brightwellii.html)
 
 
 # Eucampia
@@ -349,6 +443,8 @@ Cells are elliptical in girdle view and bear two blunt, broad polar elevations (
 
 ::: {layout-ncol="3"}
 
+![[High mag]{.mag-badge .mag-badge-high}](classes/eucampia/challenging/3142921.jpg){.mag-high}
+
 ![[High mag]{.mag-badge .mag-badge-high}](classes/eucampia/challenging/high_mag_cam-1744957305295276-3132135504592-30437-005-1614-1498-356-400_rawcolor.png){.mag-high}
 
 ![[High mag]{.mag-badge .mag-badge-high} Focusing in on the large apperature.](classes/eucampia/challenging/high_mag_cam-1744975618846879-21445832356272-213593-003-1718-594-172-188_rawcolor.png){.mag-high}
@@ -381,13 +477,13 @@ An athecate ("naked") dinoflagellate whose defining trait is a cingulum (girdle)
 
 ::: {layout-ncol="3"}
 
-![Sigmoidal girdle is visible around the enitire cell and pointed theca.](classes/gyrodinium/ideal/i1.png)
+![[High mag]{.mag-badge .mag-badge-high} Sigmoidal girdle is visible around the enitire cell and pointed theca.](classes/gyrodinium/ideal/i1.png){.mag-high}
 
-![](classes/gyrodinium/ideal/i2.png)
+![[High mag]{.mag-badge .mag-badge-high}](classes/gyrodinium/ideal/i2.png){.mag-high}
 
-![Food vaccuole is present.](classes/gyrodinium/ideal/i3.png)
+![[High mag]{.mag-badge .mag-badge-high} Food vaccuole is present.](classes/gyrodinium/ideal/i3.png){.mag-high}
 
-![](classes/gyrodinium/ideal/i4.png)
+![[High mag]{.mag-badge .mag-badge-high}](classes/gyrodinium/ideal/i4.png){.mag-high}
 
 :::
 
@@ -395,11 +491,11 @@ An athecate ("naked") dinoflagellate whose defining trait is a cingulum (girdle)
 
 ::: {layout-ncol="3"}
 
-![low resolution/blur can make this a challenge, but the cingulum is still present.](classes/gyrodinium/challenging/c1.png)
+![[High mag]{.mag-badge .mag-badge-high} low resolution/blur can make this a challenge, but the cingulum is still present.](classes/gyrodinium/challenging/c1.png){.mag-high}
 
-![](classes/gyrodinium/challenging/c2.png)
+![[High mag]{.mag-badge .mag-badge-high}](classes/gyrodinium/challenging/c2.png){.mag-high}
 
-![](classes/gyrodinium/challenging/c3.png)
+![[High mag]{.mag-badge .mag-badge-high}](classes/gyrodinium/challenging/c3.png){.mag-high}
 
 :::
 
@@ -409,13 +505,69 @@ An athecate ("naked") dinoflagellate whose defining trait is a cingulum (girdle)
 - [UCSC Ocean Data Center — Phytoplankton Gallery](http://oceandatacenter.ucsc.edu/PhytoGallery/Dinoflagellates/gyrodinium.html)
 
 
+# Heterosigma
+
+**Group:** Other  ·  **Optics:** high-mag, low-mag
+
+## Defining characteristics
+
+A raphidophyte: a naked (wall-less) flagellate, ovoid to slightly dorsoventrally flattened, with two unequal flagella emerging from a subapical groove and numerous discoid golden-brown chloroplasts arranged around the cell periphery. It has no silica frustule, no thecal plates, and no cingulum. Heterosigma akashiwo forms ichthyotoxic red tides. Key features: naked flexible cell, two flagella, many peripheral golden chloroplasts, no skeleton or plates.
+
+## Distinguishing from similar classes
+
+| Similar class | How to tell them apart |
+|---|---|
+| **gyrodinium** | Unarmored dinoflagellates have a distinct cingulum (girdle) encircling the cell; Heterosigma has no girdle — just two flagella from a subapical pit. |
+| **dictyocha** | Dictyocha carries an internal silica skeleton; Heterosigma is entirely naked with no skeleton. |
+
+## Ideal images
+
+_No images yet — add files to this folder._
+
+## Challenging images
+
+_No images yet — add files to this folder._
+
+## References
+
+- [Heterosigma akashiwo — Wikipedia](https://en.wikipedia.org/wiki/Heterosigma_akashiwo)
+
+
+# Margalefidinium
+
+**Group:** Dinoflagellates  ·  **Optics:** high-mag, low-mag
+
+## Defining characteristics
+
+An athecate dinoflagellate which typically forms motile chains of 2, 4, or up to 8 cells. The cingulum is deeply displaced and spirals around the cell. Key features: chains of naked cells, strongly spiral girdle, chloroplast-filled cells.
+
+## Distinguishing from similar classes
+
+| Similar class | How to tell them apart |
+|---|---|
+| **gyrodinium** | Gyrodinium is typically solitary with a single sigmoid girdle; Margalefidinium swims in chains with a spirally wound cingulum. |
+| **polykrikos** | Polykrikos is a fused pseudocolony bearing nematocysts and usually lacking chloroplasts; Margalefidinium forms chains of separate photosynthetic cells. |
+
+## Ideal images
+
+_No images yet — add files to this folder._
+
+## Challenging images
+
+_No images yet — add files to this folder._
+
+## References
+
+- [Margalefidinium - UCSC PhytoGallery](http://oceandatacenter.ucsc.edu/PhytoGallery/Dinoflagellates/margalefidinium.html)
+
+
 # Pennate
 
 **Group:** Diatoms  ·  **Optics:** high-mag, low-mag
 
 ## Defining characteristics
 
-Pennate diatoms are elongate and bilaterally (mirror) symmetrical. They can be boat-, rod-, needle-, or wedge-shaped in valve view. Use this class for pennate cells that are clearly not centric but cannot be keyed with confidence to one of the named pennate genera in this guide. This includes non-chain (or clipped) Pseudo-nitzschia, which cannot be easily distinguished from other single celled pennates. Key features: elongate bilateral outline, no setae.
+Pennate diatoms are elongate and bilaterally (mirror) symmetrical. They can be boat, rod, needle, or wedge-shaped in valve view. Use this class for pennate cells that are not centric but cannot be keyed with confidence to one of the named pennate genera in this guide. This includes non-chain (or clipped) Pseudo-nitzschia, which cannot be easily distinguished from other single celled pennates. Key features: elongate bilateral outline, no setae.
 
 ## Distinguishing from similar classes
 
@@ -449,7 +601,7 @@ Pennate diatoms are elongate and bilaterally (mirror) symmetrical. They can be b
 
 ![[High mag]{.mag-badge .mag-badge-high}](classes/pennate/challenging/high_mag_cam-1744917950542668-1854942695728-17696-001-1542-436-56-16_rawcolor.png){.mag-high}
 
-![[High mag]{.mag-badge .mag-badge-high}](classes/pennate/challenging/high_mag_cam-1744970311947022-16138886336216-160518-000-1512-1708-44-84_rawcolor.png){.mag-high}
+![[High mag]{.mag-badge .mag-badge-high} Likely a clipped chain of Pseudo-nitzschia, but without seeing neighboring chained cells, should be classified as pennate.](classes/pennate/challenging/high_mag_cam-1744970311947022-16138886336216-160518-000-1512-1708-44-84_rawcolor.png){.mag-high}
 
 :::
 
@@ -458,20 +610,20 @@ Pennate diatoms are elongate and bilaterally (mirror) symmetrical. They can be b
 - [UCSC Ocean Data Center — Phytoplankton Gallery](http://oceandatacenter.ucsc.edu/PhytoGallery/)
 
 
-# Prorocentrum
+# Phaeocystis
 
-**Group:** Dinoflagellates  ·  **Optics:** high-mag, low-mag
+**Group:** Other  ·  **Optics:** high-mag, low-mag
 
 ## Defining characteristics
 
-A "desmokont" dinoflagellate whose theca is made of two large valves joined along a sagittal (lengthwise) suture, like a clam shell or shield, with no cingulum or sulcus grooves. The two flagella emerge together from an apical periflagellar area that often bears a small tooth or spine. Cells are oval, heart-, or teardrop-shaped in valve view. Key features: two-valve clam-like theca, apical flagellar pore with spine, absence of a girdle.
+The recognizable bloom form is a colony: many small cells arranged in a single layer just inside the surface of a hollow, gelatinous (mucilaginous) sphere or lobed sac, so the colony looks like a clear balloon studded with cells around its rim. Solitary flagellated cells also occur. Colonies can reach several millimetres and blooms produce conspicuous foam. Key features: transparent gelatinous colony matrix, cells arranged at the colony surface, no silica frustule or thecal plates.
 
 ## Distinguishing from similar classes
 
 | Similar class | How to tell them apart |
 |---|---|
-| **dinophysis** | Dinophysis is also two-parted but bears a funnel cingular list and sail-like sulcal lists; Prorocentrum is a plain two-valved cell with an apical spine and no lists. |
-| **ceratium** | Ceratium has long horns and an obvious girdle; Prorocentrum has neither. |
+| **tiarina** | Tiarina (a ciliate) is a single motile cell beating cilia; Phaeocystis is a gelatinous colony of many small non-ciliated cells sharing one matrix. |
+| **centric** | Diatoms have a rigid silica frustule; Phaeocystis colonies are soft gelatinous spheres with no frustule. |
 
 ## Ideal images
 
@@ -483,7 +635,97 @@ _No images yet — add files to this folder._
 
 ## References
 
-- [Prorocentrum — overview (ScienceDirect Topics)](https://www.sciencedirect.com/topics/agricultural-and-biological-sciences/prorocentrum)
+- [UCSC Ocean Data Center — Phytoplankton Gallery](http://oceandatacenter.ucsc.edu/PhytoGallery/)
+
+
+# Polykrikos
+
+**Group:** Dinoflagellates  ·  **Optics:** high-mag, low-mag
+
+## Defining characteristics
+
+An athecate (naked) dinoflagellate whose cells are joined into a pseudocolony (typically 2, 4, or 8 fused zooids) with multiple transverse girdles and fewer nuclei than zooids. Key features: fused multi-unit pseudocolony, several girdles per unit, food vacuoles are often visible.
+
+## Distinguishing from similar classes
+
+| Similar class | How to tell them apart |
+|---|---|
+| **margalefidinium** | Margalefidinium forms chains of separate photosynthetic (chloroplast-filled) cells; Polykrikos is a fused pseudocolony with multiple girdles and often without chloroplasts |
+| **gyrodinium** | Gyrodinium is a single naked cell with one sigmoid girdle; Polykrikos is a pseudocolony of fused zooids with several girdles. |
+
+## Ideal images
+
+::: {layout-ncol="3"}
+
+![[High mag]{.mag-badge .mag-badge-high}](classes/polykrikos/ideal/0004_0.999_high_mag_cam-1757592883130686-22258525914728-221482-001-640-938-112-120_rawcolor.png){.mag-high}
+
+![[High mag]{.mag-badge .mag-badge-high}](classes/polykrikos/ideal/0005_0.998_high_mag_cam-1757599303145982-28678579358672-285689-000-1598-924-196-180_rawcolor.png){.mag-high}
+
+![[High mag]{.mag-badge .mag-badge-high}](classes/polykrikos/ideal/00139_0.949_high_mag_cam-1757463951847789-518036442760-4312-000-442-1140-156-168_rawcolor.png){.mag-high}
+
+![[High mag]{.mag-badge .mag-badge-high}](classes/polykrikos/ideal/00264_0.945_high_mag_cam-1757696187717632-71908568596728-717948-000-1412-922-220-256_rawcolor.png){.mag-high}
+
+![[High mag]{.mag-badge .mag-badge-high}](classes/polykrikos/ideal/00666_0.938_high_mag_cam-1757697259190507-72980056214240-728664-000-2062-992-120-104_rawcolor.png){.mag-high}
+
+:::
+
+## Challenging images
+
+::: {layout-ncol="1"}
+
+![[High mag]{.mag-badge .mag-badge-high}](classes/polykrikos/challenging/0006_0.997_high_mag_cam-1757510924031907-28049203412376-279629-001-160-1338-144-172_rawcolor.png){.mag-high}
+
+:::
+
+## References
+
+- [Polykrikos — UCSC PhytoGallery](http://oceandatacenter.ucsc.edu/PhytoGallery/Dinoflagellates/Polykrikos.html)
+
+
+# Prorocentrum
+
+**Group:** Dinoflagellates  ·  **Optics:** high-mag, low-mag
+
+## Defining characteristics
+
+A desmokont dinoflagellate whose theca is made of two large valves joined along a lengthwise suture, like a clam shell or shield, with __no__ cingulum or sulcus grooves. The two flagella emerge together from an apical area that often bears a small tooth or spine. Cells are oval, heart-, or teardrop-shaped in valve view. Species in Monterey Bay may be narrow (_P. gracile_) or wide (_P. micans_ etc). Key features: two-valve clam-like theca, apical tooth, absence of a girdle.
+
+## Distinguishing from similar classes
+
+| Similar class | How to tell them apart |
+|---|---|
+| **dinophysis** | Dinophysis is also two-parted but bears a funnel cingular list and sail-like sulcal lists; Prorocentrum is a plain two-valved cell with an apical spine and no lists. |
+| **ceratium** | Ceratium has long horns and an obvious girdle; Prorocentrum has neither. |
+| **gyrodinium** | Gyrodinium has a distinct girdle groove that wraps aroudn teh cell. From girdle view, both can have a similar shape. |
+
+## Ideal images
+
+::: {layout-ncol="3"}
+
+![[High mag]{.mag-badge .mag-badge-high} __P. gracile__ with distinct thin lanceolate (lance or spear) shape.](classes/prorocentrum/ideal/00003_0.983_high_mag_cam-1757625975112523-1695503469648-15743-000-394-944-56-108_rawcolor.png){.mag-high}
+
+![[High mag]{.mag-badge .mag-badge-high} Shape is lanceolate and apical tooth is visible.](classes/prorocentrum/ideal/00004_0.980_high_mag_cam-1757693028966016-68749803054672-686357-002-1388-574-72-124_rawcolor.png){.mag-high}
+
+![[High mag]{.mag-badge .mag-badge-high}](classes/prorocentrum/ideal/00010_0.977_high_mag_cam-1757653661408826-29381979701376-292637-000-2130-1508-80-116_rawcolor.png){.mag-high}
+
+![[High mag]{.mag-badge .mag-badge-high}](classes/prorocentrum/ideal/00022_0.979_high_mag_cam-1757613423107066-42798639991760-426904-001-990-346-56-88_rawcolor.png){.mag-high}
+
+![[High mag]{.mag-badge .mag-badge-high}](classes/prorocentrum/ideal/00025_0.975_high_mag_cam-1757684959960117-60680753401552-605658-000-1324-1290-84-144_rawcolor.png){.mag-high}
+
+:::
+
+## Challenging images
+
+::: {layout-ncol="1"}
+
+![[High mag]{.mag-badge .mag-badge-high}](classes/prorocentrum/challenging/00007_0.978_high_mag_cam-1757487141727915-4266721566624-41779-001-2064-870-68-116_rawcolor.png){.mag-high}
+
+:::
+
+## References
+
+- [Prorocentrum — Phyto'pedia - The Phytoplankton Ecyclopaedia Project (UBC)](https://phytoplankton.eoas.ubc.ca/research/phytoplankton/dinoflagellates/prorocentrum/p_gracile.html)
+- [Prorocentrum - UCSC PhytoGallery](http://oceandatacenter.ucsc.edu/PhytoGallery/Dinoflagellates/prorocentrum.html)
 
 
 # Pseudo-nitzschia
@@ -563,7 +805,7 @@ Both genera are elongate, rod- to needle-like centric diatoms, many times longer
 
 ![[High mag]{.mag-badge .mag-badge-high}](classes/rhizosolenia_proboscia/ideal/high_mag_cam-1744844604507859-4863076773760-47845-000-478-1054-352-224_rawcolor.png){.mag-high}
 
-![Full cell with needle-like ends visible.](classes/rhizosolenia_proboscia/ideal/i1.png)
+![[High mag]{.mag-badge .mag-badge-high} Full cell with needle-like ends visible.](classes/rhizosolenia_proboscia/ideal/i1.png){.mag-high}
 
 :::
 
@@ -591,25 +833,46 @@ Both genera are elongate, rod- to needle-like centric diatoms, many times longer
 
 ## Defining characteristics
 
-Cells are small, drum- to cylinder-shaped centric diatoms joined into straight chains. Adjacent cells are connected by a ring of long external tubular processes (strutted processes / fultoportulae) around the valve margin, leaving a characteristic open, ladder-like gap between neighbouring cells. Skeletonema costatum is the classic form. Key features: chains of small cylinders, marginal ring of linking tubes, visible inter-cell gap.
+Cells are small, drum- to cylinder-shaped centric diatoms joined into straight chains. Adjacent cells are connected by a ring of long strutted processes around the valve margin, leaving a characteristic open, ladder-like gap between neighbouring cells. This feature can be challenging to see in the planktivoire. Key features: chains of small cylinders, marginal ring of linking tubes, visible inter-cell gap, Two Chloroplasts per cell. Highly abundant.
 
 ## Distinguishing from similar classes
 
 | Similar class | How to tell them apart |
 |---|---|
 | **thalassiosira** | Thalassiosira cells hang from a single fine central thread and sit close together; Skeletonema cells are bridged by a ring of marginal tubes with an obvious gap. |
-| **chaetoceros** | Chaetoceros links cells with thin setae from the corners, not a marginal ring of tubular processes. |
+| **chaetoceros** | Chaetoceros links cells with thin setae, can be challening to see in Planktovoire. |
 
 ## Ideal images
 
-_No images yet — add files to this folder._
+::: {layout-ncol="3"}
+
+![[High mag]{.mag-badge .mag-badge-high} Gab between adjacent cells (striated processe) is an important clue.](classes/skeletonema/ideal/high_mag_cam-1744682027348580-3974162008592-39066-000-2202-0-97-112_rawcolor.png){.mag-high}
+
+![[High mag]{.mag-badge .mag-badge-high}](classes/skeletonema/ideal/high_mag_cam-1744682116243407-4063053111648-39955-007-1410-210-312-96_rawcolor.png){.mag-high}
+
+![[High mag]{.mag-badge .mag-badge-high}](classes/skeletonema/ideal/high_mag_cam-1744749256073493-146935851760-760-007-868-902-104-104_rawcolor.png){.mag-high}
+
+![[High mag]{.mag-badge .mag-badge-high}](classes/skeletonema/ideal/high_mag_cam-1744752436177868-3327014419704-32564-001-0-1624-180-72_rawcolor.png){.mag-high}
+
+![[High mag]{.mag-badge .mag-badge-high}](classes/skeletonema/ideal/high_mag_cam-1744752436182471-3327014419704-32564-002-54-1576-248-104_rawcolor.png){.mag-high}
+
+![[High mag]{.mag-badge .mag-badge-high}](classes/skeletonema/ideal/high_mag_cam-1744763290087652-266985558136-1924-001-2208-382-91-256_rawcolor.png){.mag-high}
+
+![[High mag]{.mag-badge .mag-badge-high} Straight, chained with two choroplasts per cell and gaps between cells.](classes/skeletonema/ideal/high_mag_cam-1744975563175143-21390138095704-213036-004-94-1146-284-296_rawcolor.png){.mag-high}
+
+:::
 
 ## Challenging images
 
-_No images yet — add files to this folder._
+::: {layout-ncol="1"}
+
+![[High mag]{.mag-badge .mag-badge-high} Missing cells or auxospores can form within a chain.](classes/skeletonema/challenging/high_mag_cam-1744681216229592-3163043232216-30954-003-1950-0-349-292_rawcolor.png){.mag-high}
+
+:::
 
 ## References
 
+- [Skeletonema costatum - Phyto'pedia: The Phytoplankton Encyclopaedia Project (UBC)](https://phytoplankton.eoas.ubc.ca/research/phytoplankton/diatoms/centric/skeletonema/s_costatum.html)
 - [Guide to Skeletonema — Diatoms of North America](https://diatoms.org/genera/skeletonema/guide)
 
 
@@ -643,7 +906,7 @@ Cells are narrow, straight, rod- or bar-shaped with rounded to slightly swollen 
 
 ![[High mag]{.mag-badge .mag-badge-high}](classes/thalassionema/ideal/high_mag_cam-1744957314897830-3141734509648-30533-001-1638-338-116-168_rawcolor.png){.mag-high}
 
-![Curved-spiral chain; blunt horns and lens-shaped apertures clearly visible.](classes/thalassionema/ideal/i1.png)
+![[High mag]{.mag-badge .mag-badge-high} Curved-spiral chain; blunt horns and lens-shaped apertures clearly visible.](classes/thalassionema/ideal/i1.png){.mag-high}
 
 :::
 
@@ -651,7 +914,7 @@ Cells are narrow, straight, rod- or bar-shaped with rounded to slightly swollen 
 
 ::: {layout-ncol="1"}
 
-![Bunched up cells can get messy and difficult to distinguish.](classes/thalassionema/challenging/c1.png)
+![[High mag]{.mag-badge .mag-badge-high} Bunched up cells can get messy and difficult to distinguish.](classes/thalassionema/challenging/c1.png){.mag-high}
 
 :::
 
@@ -673,11 +936,60 @@ Cells are circular in valve view and disc- to drum-shaped, with areolae in radia
 | Similar class | How to tell them apart |
 |---|---|
 | **skeletonema** | Skeletonema is bridged by a ring of long marginal tubes leaving a clear gap; Thalassiosira chains hang from one fine central thread with cells close together. |
-| **centric** | Use Thalassiosira when the disc shape and central-thread chains are evident; use Centric when the genus can't be resolved. |
+| **centric** | Use Thalassiosira when the disc shape and central-thread chains are evident; use Centric single cells (non-chain). |
 
 ## Ideal images
 
-_No images yet — add files to this folder._
+::: {layout-ncol="3"}
+
+![[High mag]{.mag-badge .mag-badge-high}](classes/thalassiosira/ideal/high_mag_cam-1744957364799502-3191629374488-31032-004-168-706-320-176_rawcolor.png){.mag-high}
+
+![[High mag]{.mag-badge .mag-badge-high}](classes/thalassiosira/ideal/high_mag_cam-1744987155940454-32983026080728-328977-001-314-1374-204-208_rawcolor.png){.mag-high}
+
+![[High mag]{.mag-badge .mag-badge-high} Seperation of centric cells in a chain. Even if the strutted process connecting cells is not visible.](classes/thalassiosira/ideal/high_mag_cam-1744987155958480-32983026080728-328977-004-272-1308-136-128_rawcolor.png){.mag-high}
+
+:::
+
+## Challenging images
+
+::: {layout-ncol="3"}
+
+![[High mag]{.mag-badge .mag-badge-high}](classes/thalassiosira/challenging/high_mag_cam-1744957364814262-3191629374488-31032-006-398-714-76-120_rawcolor.png){.mag-high}
+
+![[High mag]{.mag-badge .mag-badge-high}](classes/thalassiosira/challenging/high_mag_cam-1744970385340132-16212278732272-161252-003-390-180-224-164_rawcolor.png){.mag-high}
+
+![[High mag]{.mag-badge .mag-badge-high} Chain is bent over itself, appearing from both girdle and valve view.](classes/thalassiosira/challenging/high_mag_cam-1744987159955040-32987025674648-329017-011-1484-604-80-112_rawcolor.png){.mag-high}
+
+:::
+
+## References
+
+- [Thalassiosira - UCSC PhytoGallery](http://oceandatacenter.ucsc.edu/PhytoGallery/Diatoms/thalassiosira.html)
+- [Thalassiosira - Phyto'pedia - The Phytoplankton Encyclopaedia Project](https://phytoplankton.eoas.ubc.ca/research/phytoplankton/diatoms/centric/thalassiosira/t_anguste_lineata.html)
+
+
+# Tiarina
+
+**Group:** Ciliates  ·  **Optics:** high-mag, low-mag
+
+## Defining characteristics
+
+A fusiform (spindle- to barrel-shaped) naked ciliate — no external lorica — with an apical mouth region and many longitudinal rows of cilia (kineties) running the length of a fairly rigid pellicle, which often gives a finely striped appearance. Tiarina fusus (also written T. fusa) is the common marine planktonic form and preys actively on dinoflagellates and other protists. Key features: tapered spindle outline, lengthwise ciliary rows, a single motile cell with no shell.
+
+## Distinguishing from similar classes
+
+| Similar class | How to tell them apart |
+|---|---|
+| **tintinnid** | Tintinnids sit inside an external lorica (shell); Tiarina is a naked spindle-shaped cell with no lorica. |
+| **phaeocystis** | Phaeocystis is a gelatinous colony of many small non-ciliated cells; Tiarina is a single ciliated cell. |
+
+## Ideal images
+
+::: {layout-ncol="1"}
+
+![[Low mag]{.mag-badge .mag-badge-low}](classes/tiarina/ideal/low_mag_cam-1744965584533023-11409669610760-113237-393-1116-340-28-64_rawcolor.jpg.png){.mag-low}
+
+:::
 
 ## Challenging images
 
@@ -685,5 +997,57 @@ _No images yet — add files to this folder._
 
 ## References
 
-- [UCSC Ocean Data Center — Phytoplankton Gallery](http://oceandatacenter.ucsc.edu/PhytoGallery/)
+- [Tiarina fusus — overview](https://sites.evergreen.edu/vms/tiarina-fusus-bf/)
+
+
+# Tintinnid
+
+**Group:** Ciliates  ·  **Optics:** high-mag, low-mag
+
+## Defining characteristics
+
+A loricate ciliate: the cell secretes and sits inside a lorica — a cup-, vase-, trumpet-, or tube-shaped shell that may be transparent (hyaline) or built up from agglomerated particles. The ciliate body attaches at the closed end, and a crown of oral ciliary membranelles projects from the wide open mouth when feeding. Lorica shape and ornamentation are the main field characters. Key features: distinct external lorica, oral membranelle crown, a single cell inside the shell.
+
+## Distinguishing from similar classes
+
+| Similar class | How to tell them apart |
+|---|---|
+| **tiarina** | Tintinnids sit inside an external lorica (shell); Tiarina and other naked ciliates have no lorica. |
+| **phaeocystis** | Phaeocystis is a gelatinous colony of many cells; a tintinnid is one ciliate cell inside a firm lorica. |
+
+## Ideal images
+
+::: {layout-ncol="3"}
+
+![[High mag]{.mag-badge .mag-badge-high}](classes/tintinnid/ideal/high_mag_cam-1744752315393171-3206226917448-31356-002-982-2-100-112_rawcolor.png){.mag-high}
+
+![[High mag]{.mag-badge .mag-badge-high}](classes/tintinnid/ideal/high_mag_cam-1744763352591231-329479285272-2549-001-1168-1634-144-116_rawcolor.png){.mag-high}
+
+![[Low mag]{.mag-badge .mag-badge-low}](classes/tintinnid/ideal/low_mag_cam-1749506260072393-1994000757544-16347-071-1932-1586-52-64_rawcolor.png){.mag-low}
+
+![[Low mag]{.mag-badge .mag-badge-low}](classes/tintinnid/ideal/low_mag_cam-1749519529396432-4501581050728-43850-302-1402-634-64-36_rawcolor.png){.mag-low}
+
+![[Low mag]{.mag-badge .mag-badge-low}](classes/tintinnid/ideal/low_mag_cam-1749524731176027-9703246046728-95872-079-1924-1512-52-40_rawcolor.png){.mag-low}
+
+![[Low mag]{.mag-badge .mag-badge-low}](classes/tintinnid/ideal/low_mag_cam-1749527640147974-664844321728-5704-264-586-206-48-56_rawcolor.png){.mag-low}
+
+![[Low mag]{.mag-badge .mag-badge-low}](classes/tintinnid/ideal/low_mag_cam-1749655796058130-2076739077704-19804-117-1762-1400-64-32_rawcolor.png){.mag-low}
+
+:::
+
+## Challenging images
+
+::: {layout-ncol="3"}
+
+![[High mag]{.mag-badge .mag-badge-high}](classes/tintinnid/challenging/high_mag_cam-1744850497188640-10755787778760-106778-001-458-0-88-292_rawcolor.png){.mag-high}
+
+![[Low mag]{.mag-badge .mag-badge-low}](classes/tintinnid/challenging/low_mag_cam-1749506424853614-2158783934352-17995-071-1450-1656-44-56_rawcolor.png){.mag-low}
+
+![[Low mag]{.mag-badge .mag-badge-low}](classes/tintinnid/challenging/low_mag_cam-1749524744773465-9716944629704-96009-225-1076-430-48-68_rawcolor.png){.mag-low}
+
+:::
+
+## References
+
+- [Tintinnid ciliates — overview](https://sites.evergreen.edu/vms-spring/tintinnid-ciliate/)
 

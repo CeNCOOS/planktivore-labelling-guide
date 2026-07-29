@@ -1,0 +1,14 @@
+class_id: dictyocha
+display_name: Dictyocha
+group: Other
+optics: [high-mag, low-mag]
+one_liner: "Silicoflagellate with an internal star-shaped silica skeleton and radiating spines."
+defining_characteristics: "A silicoflagellate: the cell contains an internal siliceous skeleton built from a basal ring with radiating spines, often looking like an open star. The living cell is a single flagellate with many small golden-brown chloroplasts around the skeleton. Key features: geometric open silica skeleton with spines (not a solid frustule), single cell."
+distinguishing_from:
+  - class: centric
+    note: "Diatoms have a solid, box-like silica frustule; Dictyocha's silica is an open latticed skeleton of a ring plus spines, not a pillbox valve."
+  - class: heterosigma
+    note: "Heterosigma is a naked flagellate with no silica; Dictyocha has a rigid internal silica skeleton."
+references:
+  - title: "UCSC Ocean Data Center — Phytoplankton Gallery"
+    url: http://oceandatacenter.ucsc.edu/PhytoGallery/Other/dictyocha.html

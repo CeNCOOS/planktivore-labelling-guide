@@ -11,6 +11,10 @@ class_id: my-class-id
 display_name: My Class
 group: Diatoms                 # section the class is grouped under on the homepage
 optics: [high-mag, low-mag]    # which optical set(s) this class appears in
+# Each gallery image is tagged high/low mag (coloured badge + border). Optics is
+# inferred from the filename (high_mag_* / low_mag_*). For images not named that
+# way, set a class default here and/or override individual images below.
+optics_default: high           # optional: high | low, used when filename has no cue
 one_liner: "One-sentence description shown under the title and in the homepage grid."
 defining_characteristics: "The features that place an image in this class: shape, size range, texture, distinctive structures, colony form. Write for a new annotator."
 distinguishing_from:           # the look-alikes — most important for consistency
@@ -22,3 +26,5 @@ references:
 image_notes:                   # optional per-image captions (path: caption)
   ideal/01.png: "What makes this a good/ideal example."
   challenging/01.png: "Why this one is hard."
+image_optics:                  # optional per-image optics override (path: high|low)
+  ideal/01.png: high
