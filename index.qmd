@@ -10,7 +10,9 @@ A visual reference for annotating [Planktivore](about.qmd) plankton images. Clic
 ## Ciliates
 
 ::: {.quick-grid}
-[![Tiarina](classes/tiarina/ideal/low_mag_cam-1744965584533023-11409669610760-113237-393-1116-340-28-64_rawcolor.jpg.png){.qg-img} Tiarina](classes/tiarina/index.qmd){.qg-item}
+[<span class="qg-img qg-noimg">no image yet</span> Ciliate](classes/ciliate/index.qmd){.qg-item}
+
+[![Tiarina](classes/tiarina/ideal/10581727.jpg){.qg-img} Tiarina](classes/tiarina/index.qmd){.qg-item}
 
 [![Tintinnid](classes/tintinnid/ideal/high_mag_cam-1744752315393171-3206226917448-31356-002-982-2-100-112_rawcolor.png){.qg-img} Tintinnid](classes/tintinnid/index.qmd){.qg-item}
 
@@ -25,9 +27,17 @@ A visual reference for annotating [Planktivore](about.qmd) plankton images. Clic
 
 [![Chaetoceros](classes/chaetoceros/ideal/high_mag_cam-1744682015955205-3962763148808-38952-003-1984-424-315-320_rawcolor.png){.qg-img} Chaetoceros](classes/chaetoceros/index.qmd){.qg-item}
 
+[<span class="qg-img qg-noimg">no image yet</span> Diatom Chain 1 (low mag)](classes/diatom_chain_1/index.qmd){.qg-item}
+
+[<span class="qg-img qg-noimg">no image yet</span> Diatom Chain 2 (low mag)](classes/diatom_chain_2/index.qmd){.qg-item}
+
+[<span class="qg-img qg-noimg">no image yet</span> Diatom Chain 3 (low mag)](classes/diatom_chain_3/index.qmd){.qg-item}
+
 [![Ditylum](classes/ditylum/ideal/high_mag_cam-1744682083045489-4029856456672-39623-001-1582-566-232-224_rawcolor.png){.qg-img} Ditylum](classes/ditylum/index.qmd){.qg-item}
 
 [![Eucampia](classes/eucampia/ideal/high_mag_cam-1744681252334368-3199139638296-31315-001-2094-192-205-348_rawcolor.png){.qg-img} Eucampia](classes/eucampia/index.qmd){.qg-item}
+
+[![Guinardia / Dactyliosolen / Cerataulina](classes/guinardia_dactyliosolen_cerataulina/ideal/10581903.jpg){.qg-img} Guinardia / Dactyliosolen / Cerataulina](classes/guinardia_dactyliosolen_cerataulina/index.qmd){.qg-item}
 
 [![Pennate](classes/pennate/ideal/high_mag_cam-1744678828278475-775083463728-7072-003-334-404-84-136_rawcolor.png){.qg-img} Pennate](classes/pennate/index.qmd){.qg-item}
 
@@ -54,7 +64,9 @@ A visual reference for annotating [Planktivore](about.qmd) plankton images. Clic
 
 [![Gyrodinium](classes/gyrodinium/ideal/i1.png){.qg-img} Gyrodinium](classes/gyrodinium/index.qmd){.qg-item}
 
-[<span class="qg-img qg-noimg">no image yet</span> Margalefidinium](classes/margalefidinium/index.qmd){.qg-item}
+[![Margalefidinium](classes/margalefidinium/ideal/00188_0.935_high_mag_cam-1757643549126543-19269638091272-191503-002-354-32-112-172_rawcolor.png){.qg-img} Margalefidinium](classes/margalefidinium/index.qmd){.qg-item}
+
+[![Noctiluca](classes/noctiluca/ideal/low_mag_cam-1729775909899577-34835750071672-347530-204-298-184-92-80_rawcolor.png){.qg-img} Noctiluca](classes/noctiluca/index.qmd){.qg-item}
 
 [![Polykrikos](classes/polykrikos/ideal/0004_0.999_high_mag_cam-1757592883130686-22258525914728-221482-001-640-938-112-120_rawcolor.png){.qg-img} Polykrikos](classes/polykrikos/index.qmd){.qg-item}
 
@@ -62,14 +74,58 @@ A visual reference for annotating [Planktivore](about.qmd) plankton images. Clic
 
 :::
 
+## Radiolaria
+
+::: {.quick-grid}
+[![Acantharia](classes/acantharia/ideal/low_mag_cam-1729586574912805-9840675555216-97613-017-1488-102-52-36_rawcolor.png){.qg-img} Acantharia](classes/acantharia/index.qmd){.qg-item}
+
+:::
+
+## Zooplankton
+
+::: {.quick-grid}
+[![Ctenophora](classes/ctenophora/ideal/low_mag_cam-1729660258497699-5346253607240-51797-008-1406-1262-400-284_rawcolor.png.png){.qg-img} Ctenophora](classes/ctenophora/index.qmd){.qg-item}
+
+[<span class="qg-img qg-noimg">no image yet</span> Larvacean](classes/larvacean/index.qmd){.qg-item}
+
+[<span class="qg-img qg-noimg">no image yet</span> Phaeodarian](classes/phaeodarian/index.qmd){.qg-item}
+
+[![Siphonophore](classes/siphonophore/ideal/low_mag_cam-1713429512022662-58555451978672-585043-106-2000-74-172-184_rawcolor.png){.qg-img} Siphonophore](classes/siphonophore/index.qmd){.qg-item}
+
+:::
+
 ## Other
 
 ::: {.quick-grid}
-[<span class="qg-img qg-noimg">no image yet</span> Dictyocha](classes/dictyocha/index.qmd){.qg-item}
+[![Dictyocha](classes/dictyocha/ideal/10586098.jpg){.qg-img} Dictyocha](classes/dictyocha/index.qmd){.qg-item}
 
-[<span class="qg-img qg-noimg">no image yet</span> Heterosigma](classes/heterosigma/index.qmd){.qg-item}
+[![Heterosigma](classes/heterosigma/ideal/10581769.jpg){.qg-img} Heterosigma](classes/heterosigma/index.qmd){.qg-item}
 
-[<span class="qg-img qg-noimg">no image yet</span> Phaeocystis](classes/phaeocystis/index.qmd){.qg-item}
+[![Phaeocystis](classes/phaeocystis/ideal/high_mag_cam-1744681219625400-3166442892272-30988-003-880-916-276-216_rawcolor.png){.qg-img} Phaeocystis](classes/phaeocystis/index.qmd){.qg-item}
+
+:::
+
+## Detritus
+
+::: {.quick-grid}
+[![Aggregate](classes/aggregate/ideal/3121152.jpg){.qg-img} Aggregate](classes/aggregate/index.qmd){.qg-item}
+
+[<span class="qg-img qg-noimg">no image yet</span> Dense](classes/dense/index.qmd){.qg-item}
+
+[![Fecal Pellet (long)](classes/fecal_pellet_long/ideal/low_mag_cam-1713232769087180-9379850438216-93231-073-1544-1728-328-184_rawcolor.png){.qg-img} Fecal Pellet (long)](classes/fecal_pellet_long/index.qmd){.qg-item}
+
+[![Fecal Pellet (short)](classes/fecal_pellet_short/ideal/low_mag_cam-1713527632359804-65515446441784-654641-031-492-632-32-28_rawcolor.png){.qg-img} Fecal Pellet (short)](classes/fecal_pellet_short/index.qmd){.qg-item}
+
+:::
+
+## Artifacts
+
+::: {.quick-grid}
+[<span class="qg-img qg-noimg">no image yet</span> Blur](classes/blur/index.qmd){.qg-item}
+
+[<span class="qg-img qg-noimg">no image yet</span> Bubble](classes/bubble/index.qmd){.qg-item}
+
+[<span class="qg-img qg-noimg">no image yet</span> circle_1](classes/circle_1/index.qmd){.qg-item}
 
 :::
 

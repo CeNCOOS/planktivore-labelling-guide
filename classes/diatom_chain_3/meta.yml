@@ -1,0 +1,11 @@
+class_id: diatom_chain_3
+display_name: Diatom Chain 3 (low mag)
+group: Diatoms
+optics: [low-mag]
+one_liner: "Low-magnification diatom-chain morphotype 3, recognised by overall chain shape rather than genus-level detail."
+defining_characteristics: "A low-magnification morphotype class for a chain-forming diatom recognised by the overall shape and structure of the chain, since genus-level valve detail is not resolvable at low mag. Use for the third distinct low-mag chain form; the specific appearance is defined by the ideal images. (Fill in the diagnostic chain shape for morphotype 3 once representative images are chosen.) Key features: diatom chain matching the reference images for morphotype 3."
+distinguishing_from:
+  - class: diatom_chain_1
+    note: "Morphotypes 1, 2, and 3 are separated by overall low-mag chain shape — compare against each morphotype's ideal images."
+  - class: diatom_chain_2
+    note: "Morphotypes 1, 2, and 3 are separated by overall low-mag chain shape — compare against each morphotype's ideal images."

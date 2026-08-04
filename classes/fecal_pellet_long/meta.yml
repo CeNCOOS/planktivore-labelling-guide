@@ -1,0 +1,11 @@
+class_id: fecal_pellet_long
+display_name: Fecal Pellet (long)
+group: Detritus
+optics: [high-mag, low-mag]
+one_liner: "Elongated zooplankton fecal pellet — a long, cylindrical to rod-shaped compact detrital particle."
+defining_characteristics: "A non-living detrital particle from zooplankton grazing, in the elongated form: a long, cylindrical to rod- or sausage-shaped compact mass with a defined outline, often darker and more uniform than a loose aggregate and sometimes enclosed by a thin membrane. Length is markedly greater than width. Key features: elongate cylindrical/rod shape, defined outline, compact contents."
+distinguishing_from:
+  - class: fecal_pellet_short
+    note: "The short form is stubby or ovoid with length close to width; the long form is distinctly elongated and rod-like."
+  - class: aggregate
+    note: "Aggregates are loose, irregular flocs with diffuse edges; fecal pellets are compact particles with a defined outline."

@@ -1,0 +1,11 @@
+class_id: blur
+display_name: Blur
+group: Artifacts
+optics: [high-mag, low-mag]
+one_liner: "Imaging artifact: an out-of-focus or motion-blurred frame with no sharp structure."
+defining_characteristics: "A non-biological imaging artifact: a frame that is out of focus or motion-blurred so that no sharp edges or cellular detail are resolvable — the subject, if any, is smeared or hazy. Use for images too blurred to classify. Exclude from analysis. Key features: overall softness/smearing, no crisp outlines or internal structure."
+distinguishing_from:
+  - class: dense
+    note: "The Dense detritus class is a solid, sharply-bounded opaque particle; a Blur artifact is soft and smeared throughout with no crisp edge."
+  - class: aggregate
+    note: "An aggregate still has resolvable particles and edges even when fluffy; a Blur artifact has no resolvable structure at all."

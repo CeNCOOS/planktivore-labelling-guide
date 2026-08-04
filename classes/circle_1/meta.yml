@@ -1,0 +1,11 @@
+class_id: circle_1
+display_name: circle_1
+group: Artifacts
+optics: [high-mag, low-mag]
+one_liner: "Imaging artifact: a circular ring or disc feature that does not correspond to an organism."
+defining_characteristics: "A non-biological imaging artifact appearing as a circular ring or disc feature (for example an optical or sensor artifact) that does not correspond to a real organism. The specific pattern is defined by the reference images for this class. Exclude from biological analysis. Key features: regular circular ring/disc, no cellular structure."
+distinguishing_from:
+  - class: bubble
+    note: "A bubble is a round object with a bright refractive rim and empty centre; circle_1 is the specific circular ring/disc artifact shown in the reference images."
+  - class: blur
+    note: "Blur is a soft, structureless smear; circle_1 is a defined circular ring/disc shape."

@@ -38,6 +38,14 @@ Cells are joined valve-to-valve into chains with an space between adjacent valve
 
 ![[High mag]{.mag-badge .mag-badge-high}](ideal/high_mag_cam-1744755821360650-6712171621432-66419-000-24-1710-204-100_rawcolor.png){.mag-high}
 
+![[Low mag]{.mag-badge .mag-badge-low}](ideal/low_mag_cam-1713303927859837-1563684183760-15072-242-1342-888-296-240_rawcolor.png.png){.mag-low}
+
+![[Low mag]{.mag-badge .mag-badge-low}](ideal/low_mag_cam-1729793932763484-9586350582728-94900-068-892-1170-168-192_rawcolor.png.png){.mag-low}
+
+![[Low mag]{.mag-badge .mag-badge-low}](ideal/low_mag_cam-1729794129551494-9783029796704-96867-099-2026-926-196-204_rawcolor.png.png){.mag-low}
+
+![[Low mag]{.mag-badge .mag-badge-low}](ideal/low_mag_cam-1729822040402568-37680666840320-375872-270-2052-0-148-112_rawcolor.png.png){.mag-low}
+
 :::
 
 ## Challenging images

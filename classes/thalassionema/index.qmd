@@ -37,6 +37,14 @@ Cells are narrow, straight, rod- or bar-shaped with rounded to slightly swollen 
 
 ![[High mag]{.mag-badge .mag-badge-high} Curved-spiral chain; blunt horns and lens-shaped apertures clearly visible.](ideal/i1.png){.mag-high}
 
+![[Low mag]{.mag-badge .mag-badge-low}](ideal/low_mag_cam-1713293053018527-5618477705864-55635-127-206-670-108-84_rawcolor.png.png){.mag-low}
+
+![[Low mag]{.mag-badge .mag-badge-low}](ideal/low_mag_cam-1749510711338084-6445244426432-60864-032-1714-1816-48-56_rawcolor.png.png){.mag-low}
+
+![[Low mag]{.mag-badge .mag-badge-low}](ideal/low_mag_cam-1749624150569782-26867363090760-266884-136-0-106-56-68_rawcolor.png.png){.mag-low}
+
+![[Low mag]{.mag-badge .mag-badge-low}](ideal/low_mag_cam-1749625992288267-28709077415456-285303-026-584-1652-48-44_rawcolor.png.png){.mag-low}
+
 :::
 
 ## Challenging images

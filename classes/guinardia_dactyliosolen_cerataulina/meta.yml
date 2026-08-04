@@ -1,0 +1,16 @@
+class_id: guinardia_dactyliosolen_cerataulina
+display_name: Guinardia / Dactyliosolen / Cerataulina
+group: Diatoms
+optics: [high-mag, low-mag]
+one_liner: "Lumped class for cylindrical, chain-forming centric diatoms (Guinardia, Dactyliosolen, Cerataulina) that can't be reliably separated at Planktivore resolution."
+defining_characteristics: "A deliberately lumped (super) class for three cylindrical, chain-forming centric diatoms that look very similar in Planktivore imagery: Guinardia, Dactyliosolen, and Cerataulina. Cells are elongate cylinders (drum- to rod-shaped) joined valve-to-valve into straight or gently curved chains, often with fine connecting spines or a small external process, and in Cerataulina low rounded elevations. Because the valve details that separate the three are usually not resolvable here, they are labelled together. Key features: cylindrical cells, valve-to-valve chains, no long lateral setae."
+distinguishing_from:
+  - class: rhizosolenia_proboscia
+    note: "Rhizosolenia/Proboscia are much longer, needle-like single cylinders with a drawn-out apical process; this group forms shorter drum-like cylinders in chains."
+  - class: chaetoceros
+    note: "Chaetoceros bears long thin setae from the cell corners; these cylindrical diatoms lack setae and join valve-to-valve."
+  - class: skeletonema
+    note: "Skeletonema chains show a clear gap bridged by a ring of marginal tubes; this group's cells abut more directly without that laddered gap."
+references:
+  - title: "Guinardia — UBC Phytoplankton (EOAS)"
+    url: https://phytoplankton.eoas.ubc.ca/research/phytoplankton/diatoms/centric/guinardia/g_striata.html

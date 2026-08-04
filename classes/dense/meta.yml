@@ -1,0 +1,11 @@
+class_id: dense
+display_name: Dense
+group: Detritus
+optics: [high-mag, low-mag]
+one_liner: "Tightly packed particled, with little visible internal structure."
+defining_characteristics: "A non-living detrital particle that images as a solid, dark, opaque blob, packed enough that little internal structure or translucency is visible. Outlines may be rounded or irregular Key features: opaque dark interior, solid appearance, no cellular structure or pellet form."
+distinguishing_from:
+  - class: aggregate
+    note: "Aggregates are loose, translucent flocs with visible gaps; the Dense class is for solid, opaque masses."
+  - class: fecal_pellet_long
+    note: "Fecal pellets have a characteristic ovoid or cylindrical, often membrane-bound form; Dense particles are defined by opacity, not shape."

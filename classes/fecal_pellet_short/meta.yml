@@ -1,0 +1,11 @@
+class_id: fecal_pellet_short
+display_name: Fecal Pellet (short)
+group: Detritus
+optics: [high-mag, low-mag]
+one_liner: "Short zooplankton fecal pellet — a stubby, ovoid to near-spherical compact detrital particle."
+defining_characteristics: "A non-living detrital particle from zooplankton grazing, in the short form: a stubby ovoid, ellipsoidal, or near-spherical compact mass with a defined outline, denser and more regular than a loose aggregate and sometimes membrane-bound. Length is similar to width. Key features: short ovoid/rounded shape, defined outline, compact contents."
+distinguishing_from:
+  - class: fecal_pellet_long
+    note: "The long form is distinctly elongated and rod-like; the short form is stubby with length close to width."
+  - class: aggregate
+    note: "Aggregates are loose, irregular flocs with diffuse edges; fecal pellets are compact particles with a defined outline."

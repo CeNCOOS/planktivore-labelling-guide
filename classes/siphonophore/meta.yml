@@ -1,0 +1,14 @@
+class_id: siphonophore
+display_name: Siphonophore
+group: Zooplankton
+optics: [high-mag, low-mag]
+one_liner: "Colonial cnidarian — a chain- or ribbon-like assemblage of specialised zooids along a common stem."
+defining_characteristics: "A siphonophore: a colonial cnidarian built from many specialised zooids (swimming bells, feeding and reproductive units) arranged along a common stem, giving an elongate chain-, ribbon-, or string-like appearance, often transparent and gelatinous. Key features: repeated modular zooids along a stem, elongate colonial form, gelatinous transparent tissue."
+distinguishing_from:
+  - class: ctenophora
+    note: "Ctenophores are single ovoid comb jellies; siphonophores are elongate colonies of repeated zooids along a stem."
+  - class: guinardia_dactyliosolen_cerataulina
+    note: "A diatom chain is a row of similar rigid silica cells; a siphonophore is a soft gelatinous colony of differentiated zooids."
+references:
+  - title: "Siphonophorae — Wikipedia"
+    url: https://en.wikipedia.org/wiki/Siphonophorae

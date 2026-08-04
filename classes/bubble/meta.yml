@@ -1,0 +1,11 @@
+class_id: bubble
+display_name: Bubble
+group: Artifacts
+optics: [high-mag, low-mag]
+one_liner: "Imaging artifact: an air bubble — a round object with a bright refractive rim and a featureless centre."
+defining_characteristics: "A non-biological imaging artifact: an air bubble in the sample or optics, appearing as a smooth, near-perfect circle with a bright refractive rim and a uniform (often dark or empty) interior, with no cellular structure. Exclude from biological analysis. Key features: perfect circle, bright ring/edge, featureless interior."
+distinguishing_from:
+  - class: circle_1
+    note: "Both are round artifacts; a bubble shows a bright refractive rim and empty interior, distinct from the circle_1 pattern (see reference images)."
+  - class: noctiluca
+    note: "Noctiluca is a large round living cell with a granular interior and a tentacle; a bubble is featureless with a bright refractive rim."

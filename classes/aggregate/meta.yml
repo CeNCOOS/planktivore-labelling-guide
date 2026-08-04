@@ -1,0 +1,11 @@
+class_id: aggregate
+display_name: Aggregate
+group: Detritus
+optics: [high-mag, low-mag]
+one_liner: "Loose, irregular detritus (marine snow?), an aggregate of particles, cells, and organic matter."
+defining_characteristics: "A non-living aggregate of detritus: an irregular, often fluffy, cluster of debris. Outlines are diffuse and variable, with translucent gaps between components. Key features: irregular loose floc, diffuse edges, heterogeneous mixed contents."
+distinguishing_from:
+  - class: fecal_pellet_long
+    note: "Fecal pellets are compact, defined ovoid or cylindrical particles; aggregates are loose, irregular with diffuse edges."
+  - class: dense
+    note: "The Dense class is for solid, opaque, tightly packed masses; aggregates are loose and translucent with visible gaps."

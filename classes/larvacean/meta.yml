@@ -1,0 +1,14 @@
+class_id: larvacean
+display_name: Larvacean
+group: Zooplankton
+optics: [high-mag, low-mag]
+one_liner: "Appendicularian tunicate — a small tadpole-shaped zooplankter, often surrounded by a mucous feeding house."
+defining_characteristics: "A larvacean (appendicularian): a small planktonic tunicate with a trunk and a long muscular tail, giving a tadpole-like shape, frequently enclosed in a transparent gelatinous mucous house used to filter food. Discarded houses are also common in imagery. Key features: tadpole body (trunk plus tail), often a surrounding mucous house."
+distinguishing_from:
+  - class: ctenophora
+    note: "Ctenophores are large ovoid/lobed comb jellies; larvaceans are small tadpole-shaped animals, often in a mucous house."
+  - class: aggregate
+    note: "A discarded larvacean house can resemble an aggregate, but shows the structured chambers of a feeding house rather than a random floc."
+references:
+  - title: "Appendicularia (Larvacea) — Wikipedia"
+    url: https://en.wikipedia.org/wiki/Larvacea

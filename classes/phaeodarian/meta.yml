@@ -1,0 +1,14 @@
+class_id: phaeodarian
+display_name: Phaeodarian
+group: Zooplankton
+optics: [high-mag, low-mag]
+one_liner: "Large rhizarian protist with a hollow, porous silica skeleton and a characteristic dark pigment mass (the phaeodium)."
+defining_characteristics: "A phaeodarian (Phaeodaria): a large single-celled marine protist (Rhizaria) with a hollow, porous skeleton of silica and organic material — often geometric, latticed, or bearing hollow spines — and a distinctive phaeodium, a dense mass of dark greenish-brown pigmented particles sitting beside the central capsule near its main aperture (astropyle). Key features: hollow/porous silica skeleton plus the conspicuous dark phaeodium. Note: a protist grouped here with the larger heterotrophs."
+distinguishing_from:
+  - class: acantharia
+    note: "Acantharia have solid radial strontium-sulfate spines and no phaeodium; phaeodarians have a hollow porous silica skeleton and a conspicuous dark phaeodium."
+  - class: aggregate
+    note: "The dark phaeodium can resemble detritus, but a phaeodarian shows an organised skeleton and central capsule; aggregates are unstructured flocs."
+references:
+  - title: "Phaeodarea — Wikipedia"
+    url: https://en.wikipedia.org/wiki/Phaeodarea

@@ -271,7 +271,10 @@ GROUP_ORDER = [
     "Flagellates",
     "Silicoflagellates",
     "Radiolaria",
+    "Zooplankton",
     "Other",
+    "Detritus",
+    "Artifacts",
     "Miscellaneous",
     "Unclassified",
 ]

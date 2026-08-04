@@ -1,0 +1,14 @@
+class_id: acantharia
+display_name: Acantharia
+group: Radiolaria
+optics: [high-mag, low-mag]
+one_liner: "Single-celled rhizarian protist with a radial skeleton of strontium-sulfate spines."
+defining_characteristics: "An acantharian: a single-celled marine protist (Rhizaria) with a distinctive radial skeleton of (typically ten to twenty) strontium-sulfate spines that radiate from the cell centre, giving a star- or sea-urchin-like appearance, sometimes within a surrounding cytoplasmic capsule. Key features: central cell with straight radial spines in a regular pattern."
+distinguishing_from:
+  - class: phaeodarian
+    note: "Phaeodarians have a hollow porous silica skeleton and a dark phaeodium; acantharians have solid radial strontium-sulfate spines and no phaeodium."
+  - class: chaetoceros
+    note: "Chaetoceros setae are two thin bristles per cell along a chain; acantharian spines radiate in all directions from one central cell."
+references:
+  - title: "Acantharea — Wikipedia"
+    url: https://en.wikipedia.org/wiki/Acantharea

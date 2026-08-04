@@ -1,0 +1,14 @@
+class_id: noctiluca
+display_name: Noctiluca
+group: Dinoflagellates
+optics: [high-mag, low-mag]
+one_liner: "Very large, balloon-shaped unarmored dinoflagellate with a trailing tentacle; the bioluminescent 'sea sparkle'."
+defining_characteristics: "A distinctive heterotrophic dinoflagellate: a large (often 0.2–2 mm), buoyant, roughly spherical to balloon-shaped naked cell that is mostly transparent with a granular central mass, and has no thecal plates or obvious cingulum. A single striated tentacle and a mouth (cytostome) are used to capture prey, and the flagellum is greatly reduced. Noctiluca scintillans is famous for bioluminescent red tides ('sea sparkle'). Key features: very large size, round translucent balloon shape, feeding tentacle, no girdle."
+distinguishing_from:
+  - class: gyrodinium
+    note: "Other naked dinoflagellates (Gyrodinium, Akashiwo) are far smaller with a clear cingulum; Noctiluca is a large balloon-shaped cell with no obvious girdle and a feeding tentacle."
+  - class: aggregate
+    note: "Aggregates are irregular detrital flocs; Noctiluca is a single large translucent living cell with a rounded outline and central mass."
+references:
+  - title: "Noctiluca scintillans — Wikipedia"
+    url: https://en.wikipedia.org/wiki/Noctiluca_scintillans
