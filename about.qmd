@@ -32,7 +32,7 @@ Click any image to open a zoomable view.
 - When an image is too degraded to assign confidently, follow the project' unknown/low-quality labelling convention rather than forcing a class.
 - The **high-mag** and **low-mag** optics can show the same organism very differently; each class page notes which optics it applies to.
 
-## Primary References:
+## Primary Resources:
 
 ~Identifying Marine Phytoplankton~ by Carmelo Tomas (doi: 10.1016/B978-0-12-693018-4.X5000-9)
 

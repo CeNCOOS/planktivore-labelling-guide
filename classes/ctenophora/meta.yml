@@ -2,13 +2,13 @@ class_id: ctenophora
 display_name: Ctenophora
 group: Zooplankton
 optics: [high-mag, low-mag]
-one_liner: "Comb jelly — a large transparent gelatinous zooplankter, often showing rows of ciliary comb plates."
-defining_characteristics: "A ctenophore (comb jelly): a large, transparent, gelatinous zooplankter, typically ovoid to lobed, bearing meridional rows of ciliary comb plates (ctenes) that can catch the light in bands. Bodies are soft and often appear as a faint rounded blob with some internal structure. Key features: large gelatinous transparent body, comb-row bands, no hard skeleton."
+one_liner: "Ctenophore (or Comb jelly) is a large transparent gelatinous zooplankter, often showing rows of ciliary comb plates."
+defining_characteristics: "A ctenophore (comb jelly): a large, transparent, gelatinous zooplankter, typically ovoid to lobed, bearing rows of ciliary comb plates. Key features: gelatinous transparent body, comb-row bands, no hard skeleton."
 distinguishing_from:
   - class: siphonophore
     note: "Siphonophores are colonial cnidarians forming chain- or ribbon-like assemblages of repeated zooids; ctenophores are single ovoid/lobed gelatinous bodies with comb rows."
   - class: larvacean
-    note: "Larvaceans are small tadpole-shaped tunicates, often within a mucous house; ctenophores are larger ovoid comb jellies."
+    note: "Larvaceans are small tadpole-shaped tunicates, often within a mucous house"
 references:
-  - title: "Ctenophora — Wikipedia"
-    url: https://en.wikipedia.org/wiki/Ctenophora
+  - title: "Ctenophores: Methods and Protocols, Methods in Molecular Biology"
+    url: https://www.whitney.ufl.edu/media/wwwwhitneyufledu/images/files/Illustrated-Guide-to-Ctenophora_Moroz-et-al_2024.pdf

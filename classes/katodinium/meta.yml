@@ -6,9 +6,10 @@ one_liner: "Small unarmored (athecate) dinoflagellate, typically elongate with a
 defining_characteristics: "A small athecate (naked) dinoflagellate, with elongate spindle-shaped, characteristically with a small epicone (the part above the girdle) sitting over a larger hypocone, and a displaced cingulum. Maybe be conflated with certain species of _Gyrodinium_, but difficult to distinguish with Planktivore. Key features: small naked cell, small epicone over a larger hypocone, displaced girdle."
 distinguishing_from:
   - class: gyrodinium
-    note: "Gyrodinium has a strongly displaced sigmoid girdle with epicone and hypocone of more similar size; Katodinium characteristically has a small epicone over a larger hypocone."
+    note: "Gyrodinium has a strongly displaced sigmoid girdle with epicone and hypocone of more similar size; Katodinium has a small epicone over a larger hypocone."
   - class: akashiwo
     note: "Akashiwo is a large, dorsoventrally flattened naked dinoflagellate; Katodinium is small and elongate with an asymmetric epicone and hypocone."
 references:
-  - title: "UCSC Ocean Data Center — Phytoplankton Gallery"
-    url: http://oceandatacenter.ucsc.edu/PhytoGallery/
+  - title: "Katodinium glaaucum - AlgaeBase"
+    url: https://img.algaebase.org/pdf/AC100CF013ff51E9A5KLu426A5B6/IMG_0017.pdf
+    
