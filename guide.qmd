@@ -102,6 +102,22 @@ A non-living aggregate of detritus: an irregular, often fluffy, cluster of debri
 
 ![[High mag]{.mag-badge .mag-badge-high}](classes/aggregate/ideal/5776095.jpg){.mag-high}
 
+![[Low mag]{.mag-badge .mag-badge-low}](classes/aggregate/ideal/low_mag_cam-1713252002496466-28613441785728-285586-091-2100-372-76-88_rawcolor.png){.mag-low}
+
+![[Low mag]{.mag-badge .mag-badge-low}](classes/aggregate/ideal/low_mag_cam-1713257046146583-33657137741416-336028-129-1628-832-100-156_rawcolor.png){.mag-low}
+
+![[Low mag]{.mag-badge .mag-badge-low}](classes/aggregate/ideal/low_mag_cam-1713275523571842-1073370079728-10143-121-330-338-240-320_rawcolor.png){.mag-low}
+
+![[Low mag]{.mag-badge .mag-badge-low}](classes/aggregate/ideal/low_mag_cam-1713277952177025-3500825429760-34420-154-346-1160-152-220_rawcolor.png){.mag-low}
+
+![[Low mag]{.mag-badge .mag-badge-low}](classes/aggregate/ideal/low_mag_cam-1713530976086483-68859198447728-688082-079-2174-10-104-80_rawcolor.png){.mag-low}
+
+![[Low mag]{.mag-badge .mag-badge-low}](classes/aggregate/ideal/low_mag_cam-1749520065919587-5038125649296-49216-009-1090-904-172-136_rawcolor.png){.mag-low}
+
+![[Low mag]{.mag-badge .mag-badge-low}](classes/aggregate/ideal/low_mag_cam-1749663952992377-10233625358272-77681-114-802-0-200-240_rawcolor.png){.mag-low}
+
+![[Low mag]{.mag-badge .mag-badge-low}](classes/aggregate/ideal/low_mag_cam-1753310215823149-18306332284216-182125-010-510-1428-72-96_rawcolor.png){.mag-low}
+
 :::
 
 ## Challenging images
@@ -235,7 +251,21 @@ A non-biological imaging artifact: a frame that is out of focus or motion-blurre
 
 ## Ideal images
 
-_No images yet — add files to this folder._
+::: {layout-ncol="3"}
+
+![[Low mag]{.mag-badge .mag-badge-low}](classes/blur/ideal/low_mag_cam-1713364144432073-2141981140544-20841-124-924-634-28-36_rawcolor.png.png){.mag-low}
+
+![[Low mag]{.mag-badge .mag-badge-low}](classes/blur/ideal/low_mag_cam-1713516085255399-53968244334296-539157-030-796-1206-24-36_rawcolor.png.png){.mag-low}
+
+![[Low mag]{.mag-badge .mag-badge-low}](classes/blur/ideal/low_mag_cam-1749505106146275-857718855488-4983-008-850-1848-24-44_rawcolor.png.png){.mag-low}
+
+![[Low mag]{.mag-badge .mag-badge-low}](classes/blur/ideal/low_mag_cam-1749585037813734-58055498248376-579668-045-1422-338-28-44_rawcolor.png.png){.mag-low}
+
+![[Low mag]{.mag-badge .mag-badge-low}](classes/blur/ideal/low_mag_cam-1749599594809061-2311725904672-21303-018-806-1084-24-40_rawcolor.png.png){.mag-low}
+
+![[Low mag]{.mag-badge .mag-badge-low}](classes/blur/ideal/low_mag_cam-1749600997073851-3713986225456-35327-014-566-1336-28-40_rawcolor.png.png){.mag-low}
+
+:::
 
 ## Challenging images
 
@@ -263,7 +293,31 @@ A non-biological imaging artifact: an air bubble in the sample or optics, appear
 
 ## Ideal images
 
-_No images yet — add files to this folder._
+::: {layout-ncol="3"}
+
+![[Low mag]{.mag-badge .mag-badge-low}](classes/bubble/ideal/low_mag_cam-1713254508214636-31119190626240-310646-004-370-1934-44-44_rawcolor.png (1).png){.mag-low}
+
+![[Low mag]{.mag-badge .mag-badge-low}](classes/bubble/ideal/low_mag_cam-1713254508214636-31119190626240-310646-004-370-1934-44-44_rawcolor.png (2).png){.mag-low}
+
+![[Low mag]{.mag-badge .mag-badge-low}](classes/bubble/ideal/low_mag_cam-1713254508214636-31119190626240-310646-004-370-1934-44-44_rawcolor.png (3).png){.mag-low}
+
+![[Low mag]{.mag-badge .mag-badge-low}](classes/bubble/ideal/low_mag_cam-1713254508214636-31119190626240-310646-004-370-1934-44-44_rawcolor.png (4).png){.mag-low}
+
+![[Low mag]{.mag-badge .mag-badge-low}](classes/bubble/ideal/low_mag_cam-1713254508214636-31119190626240-310646-004-370-1934-44-44_rawcolor.png.png){.mag-low}
+
+![[Low mag]{.mag-badge .mag-badge-low}](classes/bubble/ideal/low_mag_cam-1713275607135504-1155761896760-10967-063-1928-960-52-52_rawcolor.png.png){.mag-low}
+
+![[Low mag]{.mag-badge .mag-badge-low}](classes/bubble/ideal/low_mag_cam-1753173415570116-39025470170760-389429-009-750-996-40-40_rawcolor.png (1).png){.mag-low}
+
+![[Low mag]{.mag-badge .mag-badge-low}](classes/bubble/ideal/low_mag_cam-1753173415570116-39025470170760-389429-009-750-996-40-40_rawcolor.png (2).png){.mag-low}
+
+![[Low mag]{.mag-badge .mag-badge-low}](classes/bubble/ideal/low_mag_cam-1753173415570116-39025470170760-389429-009-750-996-40-40_rawcolor.png.png){.mag-low}
+
+![[Low mag]{.mag-badge .mag-badge-low}](classes/bubble/ideal/low_mag_cam-1753175679611540-41289537984544-412072-008-1494-1032-40-40_rawcolor.png (1).png){.mag-low}
+
+![[Low mag]{.mag-badge .mag-badge-low}](classes/bubble/ideal/low_mag_cam-1753175679611540-41289537984544-412072-008-1494-1032-40-40_rawcolor.png.png){.mag-low}
+
+:::
 
 ## Challenging images
 
@@ -443,7 +497,7 @@ Cells are joined valve-to-valve into chains with an space between adjacent valve
 
 ## Defining characteristics
 
-Single-celled protists covered wholly or partly in cilia used for swimming and feeding, with no external lorica. Cells are often ovoid, conical, top-, or spindle-shaped with bands or rows of cilia, and may contain ingested prey or retained chloroplasts. Use this class for ciliates that lack a lorica and cannot be confidently placed in a named genus. Key features: cilia, a single motile cell, no lorica, no silica frustule or thecal plates.
+Single-celled protists covered wholly or partly in cilia used for swimming and feeding, with no external lorica (tintinnid). Cells are often ovoid or conical with bands or rows of cilia, and may contain ingested prey or retained chloroplasts. Use this class for ciliates that lack a lorica and cannot be placed into another label. Key features: cilia, a single motile cell, no lorica.
 
 ## Distinguishing from similar classes
 
@@ -482,7 +536,23 @@ A non-biological imaging artifact appearing as a circular ring or disc feature (
 
 ## Ideal images
 
-_No images yet — add files to this folder._
+::: {layout-ncol="3"}
+
+![[Low mag]{.mag-badge .mag-badge-low}](classes/circle_1/ideal/low_mag_cam-1713238711028829-15321866164648-152657-002-1456-1960-24-28_rawcolor.png.png){.mag-low}
+
+![[Low mag]{.mag-badge .mag-badge-low}](classes/circle_1/ideal/low_mag_cam-1713400626297685-29669469999352-296154-067-1470-368-24-28_rawcolor.png.png){.mag-low}
+
+![[Low mag]{.mag-badge .mag-badge-low}](classes/circle_1/ideal/low_mag_cam-1749610274787891-12991657986760-128113-004-306-1844-24-28_rawcolor.png.png){.mag-low}
+
+![[Low mag]{.mag-badge .mag-badge-low}](classes/circle_1/ideal/low_mag_cam-1749662136754957-8417406814496-59517-008-1680-1792-24-28_rawcolor.png.png){.mag-low}
+
+![[Low mag]{.mag-badge .mag-badge-low}](classes/circle_1/ideal/low_mag_cam-1753200262876767-65873016618728-657932-002-1634-1894-24-28_rawcolor.png.png){.mag-low}
+
+![[Low mag]{.mag-badge .mag-badge-low}](classes/circle_1/ideal/low_mag_cam-1753220389528252-1823009669728-17305-007-692-1616-24-28_rawcolor.png.png){.mag-low}
+
+![[Low mag]{.mag-badge .mag-badge-low}](classes/circle_1/ideal/low_mag_cam-1753326332404338-34423054292760-343309-006-60-1754-24-28_rawcolor.png.png){.mag-low}
+
+:::
 
 ## Challenging images
 
@@ -491,6 +561,34 @@ _No images yet — add files to this folder._
 ## References
 
 _No external references yet._
+
+
+# Copepods
+
+**Group:** Zooplankton  ·  **Optics:** high-mag, low-mag
+
+## Defining characteristics
+
+A copepod: a small crustacean with a distinctly segmented body — a broader anterior region (cephalothorax) and a narrower, segmented posterior (urosome) — prominent, often long first antennae, jointed appendages, and frequently a single median (naupliar) eye. Females may carry paired egg sacs. Key features: arthropod segmentation, conspicuous antennae, teardrop body tapering to a segmented tail, sometimes egg sacs.
+
+## Distinguishing from similar classes
+
+| Similar class | How to tell them apart |
+|---|---|
+| **larvacean** | Larvaceans are soft tadpole-shaped tunicates (trunk plus tail), often in a mucous house; copepods are segmented crustaceans with jointed antennae and appendages. |
+| **siphonophore** | Siphonophores are gelatinous colonies of zooids; a copepod is a single segmented animal with appendages. |
+
+## Ideal images
+
+_No images yet — add files to this folder._
+
+## Challenging images
+
+_No images yet — add files to this folder._
+
+## References
+
+- [Copepod — Wikipedia](https://en.wikipedia.org/wiki/Copepod)
 
 
 # Ctenophora
@@ -559,22 +657,54 @@ _No external references yet._
 
 ## Defining characteristics
 
-A low-magnification morphotype class for a chain-forming diatom recognised by the overall shape and structure of the chain, since genus-level valve detail is not resolvable at low mag. Use for the first distinct low-mag chain form; the specific appearance is defined by the ideal images. (Fill in the diagnostic chain shape for morphotype 1 once representative images are chosen.) Key features: diatom chain matching the reference images for morphotype 1.
+A low-magnification morphotype class originally described as 'diatom_chain_spikes' but most likely belonging to a species or complex of Chaetoceros. This morphotype has thicker setae and appears to have more than two setae per cell. Key features: Thick setae, thin chained cells.
 
 ## Distinguishing from similar classes
 
 | Similar class | How to tell them apart |
 |---|---|
-| **diatom_chain_2** | Morphotypes 1, 2, and 3 are separated by overall low-mag chain shape — compare against each morphotype's ideal images. |
-| **diatom_chain_3** | Morphotypes 1, 2, and 3 are separated by overall low-mag chain shape — compare against each morphotype's ideal images. |
+| **diatom_chain_2** | Morphotype 2 has spiral chains (helical). |
+| **diatom_chain_3** | Morphotypes 3 are straight chains without thick setae. |
 
 ## Ideal images
 
-_No images yet — add files to this folder._
+::: {layout-ncol="3"}
+
+![[Low mag]{.mag-badge .mag-badge-low}](classes/diatom_chain_1/ideal/low_mag_cam-1713242972675269-19583545328648-195278-042-192-942-88-100_rawcolor.png){.mag-low}
+
+![[Low mag]{.mag-badge .mag-badge-low}](classes/diatom_chain_1/ideal/low_mag_cam-1749570700773966-43718536343728-436284-013-1790-1018-216-228_rawcolor.png){.mag-low}
+
+![[Low mag]{.mag-badge .mag-badge-low}](classes/diatom_chain_1/ideal/low_mag_cam-1753146573362487-12183023682272-120977-022-1904-556-172-208_rawcolor.png){.mag-low}
+
+![[Low mag]{.mag-badge .mag-badge-low}](classes/diatom_chain_1/ideal/low_mag_cam-1753157610760257-23220490080760-231363-016-380-564-180-220_rawcolor.png){.mag-low}
+
+![[Low mag]{.mag-badge .mag-badge-low}](classes/diatom_chain_1/ideal/low_mag_cam-1753165724331628-31334158161648-312508-023-1398-514-112-144_rawcolor.png){.mag-low}
+
+![[Low mag]{.mag-badge .mag-badge-low}](classes/diatom_chain_1/ideal/low_mag_cam-1753174921007075-40530915767512-404485-026-1666-72-108-116_rawcolor.png){.mag-low}
+
+![[Low mag]{.mag-badge .mag-badge-low}](classes/diatom_chain_1/ideal/low_mag_cam-1753177215650131-42825580492448-427434-026-566-26-232-208_rawcolor.png){.mag-low}
+
+![[Low mag]{.mag-badge .mag-badge-low}](classes/diatom_chain_1/ideal/low_mag_cam-1753210427646913-76037871554728-759591-020-680-912-264-200_rawcolor.png){.mag-low}
+
+![[Low mag]{.mag-badge .mag-badge-low}](classes/diatom_chain_1/ideal/low_mag_cam-1753225626763889-7060288293240-69683-029-574-0-128-152_rawcolor.png){.mag-low}
+
+![[Low mag]{.mag-badge .mag-badge-low}](classes/diatom_chain_1/ideal/low_mag_cam-1753362726998969-32023683078432-319134-030-1460-132-156-148_rawcolor.png){.mag-low}
+
+:::
 
 ## Challenging images
 
-_No images yet — add files to this folder._
+::: {layout-ncol="3"}
+
+![[Low mag]{.mag-badge .mag-badge-low}](classes/diatom_chain_1/challenging/low_mag_cam-1749515733083869-731868719672-6149-117-240-172-44-60_rawcolor.png){.mag-low}
+
+![[Low mag]{.mag-badge .mag-badge-low}](classes/diatom_chain_1/challenging/low_mag_cam-1753169711585506-35321449240544-352385-004-722-1142-156-140_rawcolor.png){.mag-low}
+
+![[Low mag]{.mag-badge .mag-badge-low}](classes/diatom_chain_1/challenging/low_mag_cam-1753177113855310-42723790937216-426416-002-2122-1606-100-84_rawcolor.png){.mag-low}
+
+![[Low mag]{.mag-badge .mag-badge-low}](classes/diatom_chain_1/challenging/low_mag_cam-1753187825461779-53435492757808-533544-005-400-1356-128-40_rawcolor.png){.mag-low}
+
+:::
 
 ## References
 
@@ -587,22 +717,42 @@ _No external references yet._
 
 ## Defining characteristics
 
-A low-magnification morphotype class for a chain-forming diatom recognised by the overall shape and structure of the chain, since genus-level valve detail is not resolvable at low mag. Use for the second distinct low-mag chain form; the specific appearance is defined by the ideal images. (Fill in the diagnostic chain shape for morphotype 2 once representative images are chosen.) Key features: diatom chain matching the reference images for morphotype 2.
+A low-magnification morphotype class for a chain-forming diatom with a distinct helical or coiling shape. Cells possibly beloning to __Eucampia__ or __Asterionellopsis__. Key features: Long diatom chain with a helical or coiling shape.
 
 ## Distinguishing from similar classes
 
 | Similar class | How to tell them apart |
 |---|---|
-| **diatom_chain_1** | Morphotypes 1, 2, and 3 are separated by overall low-mag chain shape — compare against each morphotype's ideal images. |
-| **diatom_chain_3** | Morphotypes 1, 2, and 3 are separated by overall low-mag chain shape — compare against each morphotype's ideal images. |
+| **diatom_chain_1** | Morphotypes 1 has large thick setae. |
+| **diatom_chain_3** | Morphotypes 3 diatom chains are straight and large, thick setae are absent. |
 
 ## Ideal images
 
-_No images yet — add files to this folder._
+::: {layout-ncol="3"}
+
+![[Low mag]{.mag-badge .mag-badge-low}](classes/diatom_chain_2/ideal/low_mag_cam-1713254614902890-31225879983648-311713-096-1602-632-68-176_rawcolor.png){.mag-low}
+
+![[Low mag]{.mag-badge .mag-badge-low}](classes/diatom_chain_2/ideal/low_mag_cam-1713277016177123-2564819116472-25059-029-48-1630-84-100_rawcolor.png){.mag-low}
+
+![[Low mag]{.mag-badge .mag-badge-low}](classes/diatom_chain_2/ideal/low_mag_cam-1729652429808300-75664359598136-755917-003-498-1394-64-124_rawcolor.png){.mag-low}
+
+![[Low mag]{.mag-badge .mag-badge-low}](classes/diatom_chain_2/ideal/low_mag_cam-1729837029436040-52825209581568-71192-031-146-1402-232-92_rawcolor.png){.mag-low}
+
+:::
 
 ## Challenging images
 
-_No images yet — add files to this folder._
+::: {layout-ncol="3"}
+
+![[Low mag]{.mag-badge .mag-badge-low}](classes/diatom_chain_2/challenging/low_mag_cam-1713265310450329-41921519937760-418680-060-126-6-124-112_rawcolor.png){.mag-low}
+
+![[Low mag]{.mag-badge .mag-badge-low}](classes/diatom_chain_2/challenging/low_mag_cam-1713441272426901-70315966431216-702660-023-1522-462-60-72_rawcolor.png){.mag-low}
+
+![[Low mag]{.mag-badge .mag-badge-low}](classes/diatom_chain_2/challenging/low_mag_cam-1729713624168794-58686665992672-585254-054-1498-194-60-92_rawcolor.png){.mag-low}
+
+![[Low mag]{.mag-badge .mag-badge-low}](classes/diatom_chain_2/challenging/low_mag_cam-1729713628271028-58690765584488-585295-015-2144-1478-68-76_rawcolor.png){.mag-low}
+
+:::
 
 ## References
 
@@ -615,22 +765,49 @@ _No external references yet._
 
 ## Defining characteristics
 
-A low-magnification morphotype class for a chain-forming diatom recognised by the overall shape and structure of the chain, since genus-level valve detail is not resolvable at low mag. Use for the third distinct low-mag chain form; the specific appearance is defined by the ideal images. (Fill in the diagnostic chain shape for morphotype 3 once representative images are chosen.) Key features: diatom chain matching the reference images for morphotype 3.
+A low-magnification morphotype class for a straight, chain-forming diatoms. This is a catch-all group for chained diatoms that form a straight chains and cannot be keyed into other classes. Key features: straight diatom chains.
 
 ## Distinguishing from similar classes
 
 | Similar class | How to tell them apart |
 |---|---|
-| **diatom_chain_1** | Morphotypes 1, 2, and 3 are separated by overall low-mag chain shape — compare against each morphotype's ideal images. |
-| **diatom_chain_2** | Morphotypes 1, 2, and 3 are separated by overall low-mag chain shape — compare against each morphotype's ideal images. |
+| **diatom_chain_1** | Morphotype 1 diatom chains have large, thick setae. |
+| **diatom_chain_2** | Morphotype 2 diatom chains form helical or spiral chains. |
+| **thalassiosira** | If seperated disc-shaped chained cells, should be labeled as thalassiosira. |
 
 ## Ideal images
 
-_No images yet — add files to this folder._
+::: {layout-ncol="3"}
+
+![[Low mag]{.mag-badge .mag-badge-low}](classes/diatom_chain_3/ideal/low_mag_cam-1713224122208660-732899503240-6753-101-710-1018-28-232_rawcolor.png){.mag-low}
+
+![[Low mag]{.mag-badge .mag-badge-low}](classes/diatom_chain_3/ideal/low_mag_cam-1713241885002589-18495853465240-184400-156-364-1000-144-124_rawcolor.png){.mag-low}
+
+![[Low mag]{.mag-badge .mag-badge-low}](classes/diatom_chain_3/ideal/low_mag_cam-1713242967079792-19577945889760-195222-042-312-736-56-52_rawcolor.png){.mag-low}
+
+![[Low mag]{.mag-badge .mag-badge-low}](classes/diatom_chain_3/ideal/low_mag_cam-1713382587967744-11630973586376-115751-098-1300-0-116-56_rawcolor.png){.mag-low}
+
+![[Low mag]{.mag-badge .mag-badge-low}](classes/diatom_chain_3/ideal/low_mag_cam-1729722353940850-67412299773760-672519-008-1050-482-88-16_rawcolor.png){.mag-low}
+
+![[Low mag]{.mag-badge .mag-badge-low}](classes/diatom_chain_3/ideal/low_mag_cam-1753177186045732-42795983506240-427138-028-1720-18-136-108_rawcolor.png){.mag-low}
+
+:::
 
 ## Challenging images
 
-_No images yet — add files to this folder._
+::: {layout-ncol="3"}
+
+![[Low mag]{.mag-badge .mag-badge-low}](classes/diatom_chain_3/challenging/low_mag_cam-1713296339745090-8905251426808-88506-053-1626-1610-56-52_rawcolor.png){.mag-low}
+
+![[Low mag]{.mag-badge .mag-badge-low}](classes/diatom_chain_3/challenging/low_mag_cam-1713305648664134-3284512178352-32282-170-278-478-32-72_rawcolor.png){.mag-low}
+
+![[Low mag]{.mag-badge .mag-badge-low}](classes/diatom_chain_3/challenging/low_mag_cam-1729832388475986-48186485834648-24800-053-942-1410-32-32_rawcolor.png){.mag-low}
+
+![[Low mag]{.mag-badge .mag-badge-low}](classes/diatom_chain_3/challenging/low_mag_cam-1749536969687411-9987609933488-98941-003-872-1336-52-40_rawcolor.png){.mag-low}
+
+![[Low mag]{.mag-badge .mag-badge-low}](classes/diatom_chain_3/challenging/low_mag_cam-1749632119500672-34836258518544-346581-022-660-170-40-84_rawcolor.png){.mag-low}
+
+:::
 
 ## References
 
@@ -1072,6 +1249,34 @@ _No images yet — add files to this folder._
 - [Heterosigma akashiwo — UCSC PhytoGallery](http://oceandatacenter.ucsc.edu/PhytoGallery/Other/h_akashiwo.html)
 
 
+# Katodinium
+
+**Group:** Dinoflagellates  ·  **Optics:** high-mag, low-mag
+
+## Defining characteristics
+
+A small athecate (naked) dinoflagellate, usually elongate to top- or spindle-shaped, characteristically with a small epicone (the part above the girdle) sitting over a larger hypocone, and a displaced cingulum. No cellulose thecal plates are visible, and several species are heterotrophic. Key features: small naked cell, small epicone over a larger hypocone, displaced girdle.
+
+## Distinguishing from similar classes
+
+| Similar class | How to tell them apart |
+|---|---|
+| **gyrodinium** | Gyrodinium has a strongly displaced sigmoid girdle with epicone and hypocone of more similar size; Katodinium characteristically has a small epicone over a larger hypocone. |
+| **akashiwo** | Akashiwo is a large, dorsoventrally flattened naked dinoflagellate; Katodinium is small and elongate with an asymmetric epicone and hypocone. |
+
+## Ideal images
+
+_No images yet — add files to this folder._
+
+## Challenging images
+
+_No images yet — add files to this folder._
+
+## References
+
+- [UCSC Ocean Data Center — Phytoplankton Gallery](http://oceandatacenter.ucsc.edu/PhytoGallery/)
+
+
 # Larvacean
 
 **Group:** Zooplankton  ·  **Optics:** high-mag, low-mag
@@ -1089,7 +1294,23 @@ A larvacean (appendicularian): a small planktonic tunicate with a trunk and a lo
 
 ## Ideal images
 
-_No images yet — add files to this folder._
+::: {layout-ncol="3"}
+
+![[Low mag]{.mag-badge .mag-badge-low}](classes/larvacean/ideal/low_mag_cam-1713234870161058-11480943844728-114244-196-2052-674-172-304_rawcolor.png){.mag-low}
+
+![[Low mag]{.mag-badge .mag-badge-low}](classes/larvacean/ideal/low_mag_cam-1713441984072864-71027595067808-709777-087-1360-554-536-360_rawcolor.png){.mag-low}
+
+![[Low mag]{.mag-badge .mag-badge-low}](classes/larvacean/ideal/low_mag_cam-1729556367691783-1947263429648-18648-077-1950-348-349-196_rawcolor.png){.mag-low}
+
+![[Low mag]{.mag-badge .mag-badge-low}](classes/larvacean/ideal/low_mag_cam-1753146643355723-12253016485760-121677-026-1052-1662-212-337_rawcolor.png){.mag-low}
+
+![[Low mag]{.mag-badge .mag-badge-low}](classes/larvacean/ideal/low_mag_cam-1753190987711995-56597768297136-565170-002-2148-1660-151-339_rawcolor.png){.mag-low}
+
+![[Low mag]{.mag-badge .mag-badge-low}](classes/larvacean/ideal/low_mag_cam-1753345248784979-14545325820704-144333-022-422-1506-464-380_rawcolor.png){.mag-low}
+
+![[Low mag]{.mag-badge .mag-badge-low}](classes/larvacean/ideal/low_mag_cam-1753442006539958-18240976575568-181338-010-1054-1800-88-112_rawcolor.png){.mag-low}
+
+:::
 
 ## Challenging images
 
@@ -1150,6 +1371,34 @@ An athecate dinoflagellate which typically forms motile chains of 2, 4, or up to
 ## References
 
 - [Margalefidinium - UCSC PhytoGallery](http://oceandatacenter.ucsc.edu/PhytoGallery/Dinoflagellates/margalefidinium.html)
+
+
+# Mesodinium
+
+**Group:** Ciliates  ·  **Optics:** high-mag, low-mag
+
+## Defining characteristics
+
+A small planktonic ciliate whose body is divided by an equatorial girdle of cilia into anterior and posterior regions, with tentacle-like cirri and extrusomes and a characteristic fast, jerky jumping swimming behaviour. Mesodinium rubrum (Myrionecta rubra) is reddish-brown from sequestered cryptophyte plastids and forms non-toxic red tides. Key features: small cell, equatorial ciliary girdle, often reddish, distinctive jumping motion.
+
+## Distinguishing from similar classes
+
+| Similar class | How to tell them apart |
+|---|---|
+| **ciliate** | Label Mesodinium for the small girdled ciliate (often reddish, jumping); use the generic Ciliate class for other naked ciliates. |
+| **tiarina** | Tiarina is a larger fusiform (spindle) ciliate with lengthwise ciliary rows; Mesodinium is small with an equatorial ciliary girdle. |
+
+## Ideal images
+
+_No images yet — add files to this folder._
+
+## Challenging images
+
+_No images yet — add files to this folder._
+
+## References
+
+- [Mesodinium rubrum — Wikipedia](https://en.wikipedia.org/wiki/Mesodinium_rubrum)
 
 
 # Noctiluca
@@ -1312,11 +1561,49 @@ A phaeodarian (Phaeodaria): a large single-celled marine protist (Rhizaria) with
 
 ## Ideal images
 
-_No images yet — add files to this folder._
+::: {layout-ncol="3"}
+
+![[Low mag]{.mag-badge .mag-badge-low}](classes/phaeodarian/ideal/low_mag_cam-1713240681657331-17292471882784-172365-362-1468-1296-348-424_rawcolor.png){.mag-low}
+
+![[Low mag]{.mag-badge .mag-badge-low}](classes/phaeodarian/ideal/low_mag_cam-1713505764595495-43647428194728-435938-429-510-152-192-308_rawcolor.png){.mag-low}
+
+![[Low mag]{.mag-badge .mag-badge-low}](classes/phaeodarian/ideal/low_mag_cam-1729610508732420-33763134065760-336862-001-1614-1554-208-244_rawcolor.png){.mag-low}
+
+![[Low mag]{.mag-badge .mag-badge-low}](classes/phaeodarian/ideal/low_mag_cam-1729641241046474-64480902501544-644071-006-1570-68-232-236_rawcolor.png){.mag-low}
+
+![[Low mag]{.mag-badge .mag-badge-low}](classes/phaeodarian/ideal/low_mag_cam-1729792568662043-8222792771728-81263-178-1200-346-136-120_rawcolor.png){.mag-low}
+
+![[Low mag]{.mag-badge .mag-badge-low}](classes/phaeodarian/ideal/low_mag_cam-1729853682244897-1487396003512-13693-129-738-202-168-188_rawcolor.png){.mag-low}
+
+![[Low mag]{.mag-badge .mag-badge-low}](classes/phaeodarian/ideal/low_mag_cam-1749511106192979-6840103749592-64813-005-2204-690-95-352_rawcolor.png){.mag-low}
+
+![[Low mag]{.mag-badge .mag-badge-low}](classes/phaeodarian/ideal/low_mag_cam-1749534747893959-7765833244920-76721-004-1380-1376-220-228_rawcolor.png){.mag-low}
+
+![[Low mag]{.mag-badge .mag-badge-low}](classes/phaeodarian/ideal/low_mag_cam-1749595047055971-68064689931328-679770-076-332-52-136-136_rawcolor.png){.mag-low}
+
+![[Low mag]{.mag-badge .mag-badge-low}](classes/phaeodarian/ideal/low_mag_cam-1749596196245722-69213875354376-691263-006-710-1684-228-232_rawcolor.png){.mag-low}
+
+![[Low mag]{.mag-badge .mag-badge-low}](classes/phaeodarian/ideal/low_mag_cam-1749648962274869-51678946808512-515025-021-1732-510-396-376_rawcolor.png){.mag-low}
+
+:::
 
 ## Challenging images
 
-_No images yet — add files to this folder._
+::: {layout-ncol="3"}
+
+![[Low mag]{.mag-badge .mag-badge-low}](classes/phaeodarian/challenging/low_mag_cam-1729690215100922-35288685734784-351251-010-180-482-156-160_rawcolor.png){.mag-low}
+
+![[Low mag]{.mag-badge .mag-badge-low}](classes/phaeodarian/challenging/low_mag_cam-1729847688165489-63316327392376-176114-007-252-478-72-76_rawcolor.png){.mag-low}
+
+![[Low mag]{.mag-badge .mag-badge-low}](classes/phaeodarian/challenging/low_mag_cam-1749558596738421-31614548553624-315232-014-2136-482-163-284_rawcolor.png){.mag-low}
+
+![[Low mag]{.mag-badge .mag-badge-low}](classes/phaeodarian/challenging/low_mag_cam-1749609443165906-12160040420760-119796-010-1562-1642-216-244_rawcolor.png){.mag-low}
+
+![[Low mag]{.mag-badge .mag-badge-low}](classes/phaeodarian/challenging/low_mag_cam-1749648962292636-51678946808512-515025-028-1708-344-396-372_rawcolor.png){.mag-low}
+
+![[Low mag]{.mag-badge .mag-badge-low}](classes/phaeodarian/challenging/low_mag_cam-1753199671740095-65281877319784-652020-020-308-274-196-212_rawcolor.png){.mag-low}
+
+:::
 
 ## References
 
@@ -1577,13 +1864,23 @@ Cells are small, drum- to cylinder-shaped centric diatoms joined into straight c
 
 ![[High mag]{.mag-badge .mag-badge-high} Straight, chained with two choroplasts per cell and gaps between cells.](classes/skeletonema/ideal/high_mag_cam-1744975563175143-21390138095704-213036-004-94-1146-284-296_rawcolor.png){.mag-high}
 
+![[Low mag]{.mag-badge .mag-badge-low}](classes/skeletonema/ideal/low_mag_cam-1713318423153355-1608537727760-15396-015-816-1480-152-48_rawcolor.png){.mag-low}
+
 :::
 
 ## Challenging images
 
-::: {layout-ncol="1"}
+::: {layout-ncol="3"}
 
 ![[High mag]{.mag-badge .mag-badge-high} Missing cells or auxospores can form within a chain.](classes/skeletonema/challenging/high_mag_cam-1744681216229592-3163043232216-30954-003-1950-0-349-292_rawcolor.png){.mag-high}
+
+![[Low mag]{.mag-badge .mag-badge-low}](classes/skeletonema/challenging/low_mag_cam-1749584952319611-57970007034216-578813-011-2156-692-143-56_rawcolor.png){.mag-low}
+
+![[Low mag]{.mag-badge .mag-badge-low}](classes/skeletonema/challenging/low_mag_cam-1749630941909767-33658678679760-334804-018-524-44-24-64_rawcolor.png){.mag-low}
+
+![[Low mag]{.mag-badge .mag-badge-low}](classes/skeletonema/challenging/low_mag_cam-1753312528454416-20618991104728-205254-007-1350-1688-32-80_rawcolor.png){.mag-low}
+
+![[Low mag]{.mag-badge .mag-badge-low}](classes/skeletonema/challenging/low_mag_cam-1753370817806508-40114580694432-400051-006-1908-1244-104-52_rawcolor.png){.mag-low}
 
 :::
 
@@ -1684,6 +1981,18 @@ Cells are circular in valve view and disc- to drum-shaped, with areolae in radia
 ![[High mag]{.mag-badge .mag-badge-high}](classes/thalassiosira/challenging/high_mag_cam-1744970385340132-16212278732272-161252-003-390-180-224-164_rawcolor.png){.mag-high}
 
 ![[High mag]{.mag-badge .mag-badge-high} Chain is bent over itself, appearing from both girdle and valve view.](classes/thalassiosira/challenging/high_mag_cam-1744987159955040-32987025674648-329017-011-1484-604-80-112_rawcolor.png){.mag-high}
+
+![[Low mag]{.mag-badge .mag-badge-low}](classes/thalassiosira/challenging/low_mag_cam-1749577326645717-50344370371432-502549-029-638-354-32-32_rawcolor.png){.mag-low}
+
+![[Low mag]{.mag-badge .mag-badge-low}](classes/thalassiosira/challenging/low_mag_cam-1749581783823506-54801523732192-547125-019-1004-672-24-48_rawcolor.png){.mag-low}
+
+![[Low mag]{.mag-badge .mag-badge-low}](classes/thalassiosira/challenging/low_mag_cam-1749611878939638-14595797076432-144156-024-1610-898-32-32_rawcolor.png){.mag-low}
+
+![[Low mag]{.mag-badge .mag-badge-low}](classes/thalassiosira/challenging/low_mag_cam-1749665990492102-12271121645784-98058-005-756-1824-40-80_rawcolor.png){.mag-low}
+
+![[Low mag]{.mag-badge .mag-badge-low}](classes/thalassiosira/challenging/low_mag_cam-1753186712791987-52322807052592-522416-020-732-564-44-48_rawcolor.png){.mag-low}
+
+![[Low mag]{.mag-badge .mag-badge-low}](classes/thalassiosira/challenging/low_mag_cam-1753234501401828-15935004409784-158439-005-1954-1792-68-32_rawcolor.png){.mag-low}
 
 :::
 

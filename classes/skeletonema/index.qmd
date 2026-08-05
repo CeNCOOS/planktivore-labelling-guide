@@ -38,13 +38,23 @@ Cells are small, drum- to cylinder-shaped centric diatoms joined into straight c
 
 ![[High mag]{.mag-badge .mag-badge-high} Straight, chained with two choroplasts per cell and gaps between cells.](ideal/high_mag_cam-1744975563175143-21390138095704-213036-004-94-1146-284-296_rawcolor.png){.mag-high}
 
+![[Low mag]{.mag-badge .mag-badge-low}](ideal/low_mag_cam-1713318423153355-1608537727760-15396-015-816-1480-152-48_rawcolor.png){.mag-low}
+
 :::
 
 ## Challenging images
 
-::: {layout-ncol="1"}
+::: {layout-ncol="3"}
 
 ![[High mag]{.mag-badge .mag-badge-high} Missing cells or auxospores can form within a chain.](challenging/high_mag_cam-1744681216229592-3163043232216-30954-003-1950-0-349-292_rawcolor.png){.mag-high}
+
+![[Low mag]{.mag-badge .mag-badge-low}](challenging/low_mag_cam-1749584952319611-57970007034216-578813-011-2156-692-143-56_rawcolor.png){.mag-low}
+
+![[Low mag]{.mag-badge .mag-badge-low}](challenging/low_mag_cam-1749630941909767-33658678679760-334804-018-524-44-24-64_rawcolor.png){.mag-low}
+
+![[Low mag]{.mag-badge .mag-badge-low}](challenging/low_mag_cam-1753312528454416-20618991104728-205254-007-1350-1688-32-80_rawcolor.png){.mag-low}
+
+![[Low mag]{.mag-badge .mag-badge-low}](challenging/low_mag_cam-1753370817806508-40114580694432-400051-006-1908-1244-104-52_rawcolor.png){.mag-low}
 
 :::
 

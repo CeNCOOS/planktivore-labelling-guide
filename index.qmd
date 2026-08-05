@@ -12,6 +12,8 @@ A visual reference for annotating [Planktivore](about.qmd) plankton images. Clic
 ::: {.quick-grid}
 [<span class="qg-img qg-noimg">no image yet</span> Ciliate](classes/ciliate/index.qmd){.qg-item}
 
+[<span class="qg-img qg-noimg">no image yet</span> Mesodinium](classes/mesodinium/index.qmd){.qg-item}
+
 [![Tiarina](classes/tiarina/ideal/10581727.jpg){.qg-img} Tiarina](classes/tiarina/index.qmd){.qg-item}
 
 [![Tintinnid](classes/tintinnid/ideal/high_mag_cam-1744752315393171-3206226917448-31356-002-982-2-100-112_rawcolor.png){.qg-img} Tintinnid](classes/tintinnid/index.qmd){.qg-item}
@@ -27,11 +29,11 @@ A visual reference for annotating [Planktivore](about.qmd) plankton images. Clic
 
 [![Chaetoceros](classes/chaetoceros/ideal/high_mag_cam-1744682015955205-3962763148808-38952-003-1984-424-315-320_rawcolor.png){.qg-img} Chaetoceros](classes/chaetoceros/index.qmd){.qg-item}
 
-[<span class="qg-img qg-noimg">no image yet</span> Diatom Chain 1 (low mag)](classes/diatom_chain_1/index.qmd){.qg-item}
+[![Diatom Chain 1 (low mag)](classes/diatom_chain_1/ideal/low_mag_cam-1713242972675269-19583545328648-195278-042-192-942-88-100_rawcolor.png){.qg-img} Diatom Chain 1 (low mag)](classes/diatom_chain_1/index.qmd){.qg-item}
 
-[<span class="qg-img qg-noimg">no image yet</span> Diatom Chain 2 (low mag)](classes/diatom_chain_2/index.qmd){.qg-item}
+[![Diatom Chain 2 (low mag)](classes/diatom_chain_2/ideal/low_mag_cam-1713254614902890-31225879983648-311713-096-1602-632-68-176_rawcolor.png){.qg-img} Diatom Chain 2 (low mag)](classes/diatom_chain_2/index.qmd){.qg-item}
 
-[<span class="qg-img qg-noimg">no image yet</span> Diatom Chain 3 (low mag)](classes/diatom_chain_3/index.qmd){.qg-item}
+[![Diatom Chain 3 (low mag)](classes/diatom_chain_3/ideal/low_mag_cam-1713224122208660-732899503240-6753-101-710-1018-28-232_rawcolor.png){.qg-img} Diatom Chain 3 (low mag)](classes/diatom_chain_3/index.qmd){.qg-item}
 
 [![Ditylum](classes/ditylum/ideal/high_mag_cam-1744682083045489-4029856456672-39623-001-1582-566-232-224_rawcolor.png){.qg-img} Ditylum](classes/ditylum/index.qmd){.qg-item}
 
@@ -64,6 +66,8 @@ A visual reference for annotating [Planktivore](about.qmd) plankton images. Clic
 
 [![Gyrodinium](classes/gyrodinium/ideal/i1.png){.qg-img} Gyrodinium](classes/gyrodinium/index.qmd){.qg-item}
 
+[<span class="qg-img qg-noimg">no image yet</span> Katodinium](classes/katodinium/index.qmd){.qg-item}
+
 [![Margalefidinium](classes/margalefidinium/ideal/00188_0.935_high_mag_cam-1757643549126543-19269638091272-191503-002-354-32-112-172_rawcolor.png){.qg-img} Margalefidinium](classes/margalefidinium/index.qmd){.qg-item}
 
 [![Noctiluca](classes/noctiluca/ideal/low_mag_cam-1729775909899577-34835750071672-347530-204-298-184-92-80_rawcolor.png){.qg-img} Noctiluca](classes/noctiluca/index.qmd){.qg-item}
@@ -84,11 +88,13 @@ A visual reference for annotating [Planktivore](about.qmd) plankton images. Clic
 ## Zooplankton
 
 ::: {.quick-grid}
+[<span class="qg-img qg-noimg">no image yet</span> Copepods](classes/copepods/index.qmd){.qg-item}
+
 [![Ctenophora](classes/ctenophora/ideal/low_mag_cam-1729660258497699-5346253607240-51797-008-1406-1262-400-284_rawcolor.png.png){.qg-img} Ctenophora](classes/ctenophora/index.qmd){.qg-item}
 
-[<span class="qg-img qg-noimg">no image yet</span> Larvacean](classes/larvacean/index.qmd){.qg-item}
+[![Larvacean](classes/larvacean/ideal/low_mag_cam-1713234870161058-11480943844728-114244-196-2052-674-172-304_rawcolor.png){.qg-img} Larvacean](classes/larvacean/index.qmd){.qg-item}
 
-[<span class="qg-img qg-noimg">no image yet</span> Phaeodarian](classes/phaeodarian/index.qmd){.qg-item}
+[![Phaeodarian](classes/phaeodarian/ideal/low_mag_cam-1713240681657331-17292471882784-172365-362-1468-1296-348-424_rawcolor.png){.qg-img} Phaeodarian](classes/phaeodarian/index.qmd){.qg-item}
 
 [![Siphonophore](classes/siphonophore/ideal/low_mag_cam-1713429512022662-58555451978672-585043-106-2000-74-172-184_rawcolor.png){.qg-img} Siphonophore](classes/siphonophore/index.qmd){.qg-item}
 
@@ -121,11 +127,11 @@ A visual reference for annotating [Planktivore](about.qmd) plankton images. Clic
 ## Artifacts
 
 ::: {.quick-grid}
-[<span class="qg-img qg-noimg">no image yet</span> Blur](classes/blur/index.qmd){.qg-item}
+[![Blur](classes/blur/ideal/low_mag_cam-1713364144432073-2141981140544-20841-124-924-634-28-36_rawcolor.png.png){.qg-img} Blur](classes/blur/index.qmd){.qg-item}
 
-[<span class="qg-img qg-noimg">no image yet</span> Bubble](classes/bubble/index.qmd){.qg-item}
+[![Bubble](classes/bubble/ideal/low_mag_cam-1713254508214636-31119190626240-310646-004-370-1934-44-44_rawcolor.png (1).png){.qg-img} Bubble](classes/bubble/index.qmd){.qg-item}
 
-[<span class="qg-img qg-noimg">no image yet</span> circle_1](classes/circle_1/index.qmd){.qg-item}
+[![circle_1](classes/circle_1/ideal/low_mag_cam-1713238711028829-15321866164648-152657-002-1456-1960-24-28_rawcolor.png.png){.qg-img} circle_1](classes/circle_1/index.qmd){.qg-item}
 
 :::
 

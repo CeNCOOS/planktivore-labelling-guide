@@ -1,0 +1,14 @@
+class_id: mesodinium
+display_name: Mesodinium
+group: Ciliates
+optics: [high-mag, low-mag]
+one_liner: "Small ciliate with an equatorial ring of cilia."
+defining_characteristics: "A small planktonic ciliate whose body is divided by an equatorial girdle of cilia. Mesodinium rubrum (Myrionecta rubra) is reddish-brown from sequestered cryptophyte plastids, when seen from a lateral view girdeled cilia, from apical view appears round with radiating cilia. Key features: small cell, equatorial ciliary girdle, often reddish."
+distinguishing_from:
+  - class: ciliate
+    note: "Label Mesodinium for the small girdled ciliate (often reddish, jumping); use the generic Ciliate class for other naked ciliates."
+  - class: tiarina
+    note: "Tiarina is a larger fusiform (spindle) ciliate with lengthwise ciliary rows; Mesodinium is small with an equatorial ciliary girdle."
+references:
+  - title: "Mesodinium - Current Biology"
+    url: https://www.sciencedirect.com/science/article/pii/S0960982223001549?via%3Dihub

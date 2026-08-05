@@ -2,10 +2,10 @@ class_id: diatom_chain_2
 display_name: Diatom Chain 2 (low mag)
 group: Diatoms
 optics: [low-mag]
-one_liner: "Low-magnification diatom-chain morphotype 2, recognised by overall chain shape rather than genus-level detail."
-defining_characteristics: "A low-magnification morphotype class for a chain-forming diatom recognised by the overall shape and structure of the chain, since genus-level valve detail is not resolvable at low mag. Use for the second distinct low-mag chain form; the specific appearance is defined by the ideal images. (Fill in the diagnostic chain shape for morphotype 2 once representative images are chosen.) Key features: diatom chain matching the reference images for morphotype 2."
+one_liner: "Low-magnification diatom-chain morphotype 2 with coiling or helical, long diatom chains."
+defining_characteristics: "A low-magnification morphotype class for a chain-forming diatom with a distinct helical or coiling shape. Cells possibly beloning to __Eucampia__ or __Asterionellopsis__. Key features: Long diatom chain with a helical or coiling shape."
 distinguishing_from:
   - class: diatom_chain_1
-    note: "Morphotypes 1, 2, and 3 are separated by overall low-mag chain shape — compare against each morphotype's ideal images."
+    note: "Morphotypes 1 has large thick setae."
   - class: diatom_chain_3
-    note: "Morphotypes 1, 2, and 3 are separated by overall low-mag chain shape — compare against each morphotype's ideal images."
+    note: "Morphotypes 3 diatom chains are straight and large, thick setae are absent."

@@ -3,12 +3,11 @@ display_name: Ciliate
 group: Ciliates
 optics: [high-mag, low-mag]
 one_liner: "Catch-all for naked (aloricate) planktonic ciliates that can't be keyed to a specific genus."
-defining_characteristics: "Single-celled protists covered wholly or partly in cilia used for swimming and feeding, with no external lorica. Cells are often ovoid, conical, top-, or spindle-shaped with bands or rows of cilia, and may contain ingested prey or retained chloroplasts. Use this class for ciliates that lack a lorica and cannot be confidently placed in a named genus. Key features: cilia, a single motile cell, no lorica, no silica frustule or thecal plates."
+defining_characteristics: "Single-celled protists covered wholly or partly in cilia used for swimming and feeding, with no external lorica (tintinnid). Cells are often ovoid or conical with bands or rows of cilia, and may contain ingested prey or retained chloroplasts. Use this class for ciliates that lack a lorica and cannot be placed into another label. Key features: cilia, a single motile cell, no lorica."
 distinguishing_from:
   - class: tiarina
     note: "Label Tiarina for the distinctive fusiform (spindle) predatory ciliate; use the generic Ciliate class when the ciliate can't be identified further."
   - class: tintinnid
     note: "Tintinnids sit inside an external lorica (shell); the generic Ciliate class is for naked ciliates without one."
-references:
-  - title: "UCSC Ocean Data Center — Phytoplankton Gallery"
-    url: http://oceandatacenter.ucsc.edu/PhytoGallery/
+  - class: mesodinium
+    note: "Mesodinium is characterized by the girdled band of ciliam around the center of the cell, where as these cilia are at the end of the cell."

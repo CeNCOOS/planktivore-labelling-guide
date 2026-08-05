@@ -14,9 +14,9 @@ toc: false
 
 [![Asterionellopsis](classes/asterionellopsis/ideal/i1.png){.qg-img} Asterionellopsis](classes/asterionellopsis/index.qmd){.qg-item}
 
-[<span class="qg-img qg-noimg">no image yet</span> Blur](classes/blur/index.qmd){.qg-item}
+[![Blur](classes/blur/ideal/low_mag_cam-1713364144432073-2141981140544-20841-124-924-634-28-36_rawcolor.png.png){.qg-img} Blur](classes/blur/index.qmd){.qg-item}
 
-[<span class="qg-img qg-noimg">no image yet</span> Bubble](classes/bubble/index.qmd){.qg-item}
+[![Bubble](classes/bubble/ideal/low_mag_cam-1713254508214636-31119190626240-310646-004-370-1934-44-44_rawcolor.png (1).png){.qg-img} Bubble](classes/bubble/index.qmd){.qg-item}
 
 [![Centric](classes/centric/ideal/i1.png){.qg-img} Centric](classes/centric/index.qmd){.qg-item}
 
@@ -26,17 +26,19 @@ toc: false
 
 [<span class="qg-img qg-noimg">no image yet</span> Ciliate](classes/ciliate/index.qmd){.qg-item}
 
-[<span class="qg-img qg-noimg">no image yet</span> circle_1](classes/circle_1/index.qmd){.qg-item}
+[![circle_1](classes/circle_1/ideal/low_mag_cam-1713238711028829-15321866164648-152657-002-1456-1960-24-28_rawcolor.png.png){.qg-img} circle_1](classes/circle_1/index.qmd){.qg-item}
+
+[<span class="qg-img qg-noimg">no image yet</span> Copepods](classes/copepods/index.qmd){.qg-item}
 
 [![Ctenophora](classes/ctenophora/ideal/low_mag_cam-1729660258497699-5346253607240-51797-008-1406-1262-400-284_rawcolor.png.png){.qg-img} Ctenophora](classes/ctenophora/index.qmd){.qg-item}
 
 [<span class="qg-img qg-noimg">no image yet</span> Dense](classes/dense/index.qmd){.qg-item}
 
-[<span class="qg-img qg-noimg">no image yet</span> Diatom Chain 1 (low mag)](classes/diatom_chain_1/index.qmd){.qg-item}
+[![Diatom Chain 1 (low mag)](classes/diatom_chain_1/ideal/low_mag_cam-1713242972675269-19583545328648-195278-042-192-942-88-100_rawcolor.png){.qg-img} Diatom Chain 1 (low mag)](classes/diatom_chain_1/index.qmd){.qg-item}
 
-[<span class="qg-img qg-noimg">no image yet</span> Diatom Chain 2 (low mag)](classes/diatom_chain_2/index.qmd){.qg-item}
+[![Diatom Chain 2 (low mag)](classes/diatom_chain_2/ideal/low_mag_cam-1713254614902890-31225879983648-311713-096-1602-632-68-176_rawcolor.png){.qg-img} Diatom Chain 2 (low mag)](classes/diatom_chain_2/index.qmd){.qg-item}
 
-[<span class="qg-img qg-noimg">no image yet</span> Diatom Chain 3 (low mag)](classes/diatom_chain_3/index.qmd){.qg-item}
+[![Diatom Chain 3 (low mag)](classes/diatom_chain_3/ideal/low_mag_cam-1713224122208660-732899503240-6753-101-710-1018-28-232_rawcolor.png){.qg-img} Diatom Chain 3 (low mag)](classes/diatom_chain_3/index.qmd){.qg-item}
 
 [![Dictyocha](classes/dictyocha/ideal/10586098.jpg){.qg-img} Dictyocha](classes/dictyocha/index.qmd){.qg-item}
 
@@ -56,9 +58,13 @@ toc: false
 
 [![Heterosigma](classes/heterosigma/ideal/10581769.jpg){.qg-img} Heterosigma](classes/heterosigma/index.qmd){.qg-item}
 
-[<span class="qg-img qg-noimg">no image yet</span> Larvacean](classes/larvacean/index.qmd){.qg-item}
+[<span class="qg-img qg-noimg">no image yet</span> Katodinium](classes/katodinium/index.qmd){.qg-item}
+
+[![Larvacean](classes/larvacean/ideal/low_mag_cam-1713234870161058-11480943844728-114244-196-2052-674-172-304_rawcolor.png){.qg-img} Larvacean](classes/larvacean/index.qmd){.qg-item}
 
 [![Margalefidinium](classes/margalefidinium/ideal/00188_0.935_high_mag_cam-1757643549126543-19269638091272-191503-002-354-32-112-172_rawcolor.png){.qg-img} Margalefidinium](classes/margalefidinium/index.qmd){.qg-item}
+
+[<span class="qg-img qg-noimg">no image yet</span> Mesodinium](classes/mesodinium/index.qmd){.qg-item}
 
 [![Noctiluca](classes/noctiluca/ideal/low_mag_cam-1729775909899577-34835750071672-347530-204-298-184-92-80_rawcolor.png){.qg-img} Noctiluca](classes/noctiluca/index.qmd){.qg-item}
 
@@ -66,7 +72,7 @@ toc: false
 
 [![Phaeocystis](classes/phaeocystis/ideal/high_mag_cam-1744681219625400-3166442892272-30988-003-880-916-276-216_rawcolor.png){.qg-img} Phaeocystis](classes/phaeocystis/index.qmd){.qg-item}
 
-[<span class="qg-img qg-noimg">no image yet</span> Phaeodarian](classes/phaeodarian/index.qmd){.qg-item}
+[![Phaeodarian](classes/phaeodarian/ideal/low_mag_cam-1713240681657331-17292471882784-172365-362-1468-1296-348-424_rawcolor.png){.qg-img} Phaeodarian](classes/phaeodarian/index.qmd){.qg-item}
 
 [![Polykrikos](classes/polykrikos/ideal/0004_0.999_high_mag_cam-1757592883130686-22258525914728-221482-001-640-938-112-120_rawcolor.png){.qg-img} Polykrikos](classes/polykrikos/index.qmd){.qg-item}
 

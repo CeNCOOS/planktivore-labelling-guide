@@ -1,0 +1,14 @@
+class_id: copepods
+display_name: Copepods
+group: Zooplankton
+optics: [high-mag, low-mag]
+one_liner: "Small crustacean zooplankton with a segmented body, long antennae, and often a single median eye."
+defining_characteristics: "A copepod: a small crustacean with a distinctly segmented body, prominent antennae, jointed appendages, and frequently a single eye. Females may carry paired egg sacs. Key features: arthropod segmentation, conspicuous antennae, teardrop body tapering to a segmented tail, sometimes egg sacs."
+distinguishing_from:
+  - class: larvacean
+    note: "Larvaceans are soft tadpole-shaped tunicates (trunk plus tail), often in a mucous house; copepods are segmented crustaceans with jointed antennae and appendages."
+  - class: siphonophore
+    note: "Siphonophores are gelatinous colonies of zooids; a copepod is a single segmented animal with appendages."
+references:
+  - title: "Copepoda — UTAS IMAS"
+    url: https://www.imas.utas.edu.au/zooplankton/image-key/copepoda

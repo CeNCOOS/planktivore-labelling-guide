@@ -10,7 +10,7 @@ categories: [Ciliates]
 
 ## Defining characteristics
 
-Single-celled protists covered wholly or partly in cilia used for swimming and feeding, with no external lorica. Cells are often ovoid, conical, top-, or spindle-shaped with bands or rows of cilia, and may contain ingested prey or retained chloroplasts. Use this class for ciliates that lack a lorica and cannot be confidently placed in a named genus. Key features: cilia, a single motile cell, no lorica, no silica frustule or thecal plates.
+Single-celled protists covered wholly or partly in cilia used for swimming and feeding, with no external lorica (tintinnid). Cells are often ovoid or conical with bands or rows of cilia, and may contain ingested prey or retained chloroplasts. Use this class for ciliates that lack a lorica and cannot be placed into another label. Key features: cilia, a single motile cell, no lorica.
 
 ## Distinguishing from similar classes
 
